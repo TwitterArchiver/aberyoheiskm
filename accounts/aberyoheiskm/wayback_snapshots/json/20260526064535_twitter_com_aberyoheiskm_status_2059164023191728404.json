@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2058831809069330846",
+    "created_at": "2026-05-26T06:45:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T07:45:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059164023191728404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "879952553554747392",
+          "start": 0,
+          "username": "ZachryLee__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059164023191728404",
+    "in_reply_to_user_id": "879952553554747392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059098740062031889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZachryLee__ 还真是，那个医生不仅不给我换掉喹硫平，还说我吃药吃的多，碳酸锂和氯硝都不给了，就让我吃点拉莫三嗪和喹硫平得了，阿普还是我强制要求看我哭了才给的😇😇😇\n没事这次已经换医生了如愿取消喹硫平了换了新的安眠药……🥰谢谢泥建议也希望泥以后复诊顺利快快恢复病情呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2058831809069330846",
+        "created_at": "2026-05-26T06:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T07:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059164023191728404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "879952553554747392",
+              "start": 0,
+              "username": "ZachryLee__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059164023191728404",
+        "in_reply_to_user_id": "879952553554747392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059098740062031889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZachryLee__ 还真是，那个医生不仅不给我换掉喹硫平，还说我吃药吃的多，碳酸锂和氯硝都不给了，就让我吃点拉莫三嗪和喹硫平得了，阿普还是我强制要求看我哭了才给的😇😇😇\n没事这次已经换医生了如愿取消喹硫平了换了新的安眠药……🥰谢谢泥建议也希望泥以后复诊顺利快快恢复病情呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "879952553554747392",
+        "conversation_id": "2058831809069330846",
+        "created_at": "2026-05-26T02:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T03:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059098740062031889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059098740062031889",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058831809069330846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm 这么傻逼的医生下次直接换 我就是遇到那种想换不给我换药 或者让我减量bzd的 我都直接换 总有理念契合的医生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 小号：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 288,
+          "like_count": 2907,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 1770
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-28T06:40:12.000Z",
+        "description": "od与性爱\n常驻香港/东京",
+        "id": "879952553554747392",
+        "location": "東京 港区",
+        "name": "Enfant",
+        "pinned_tweet_id": "2012079934479774193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1410702419823038481/klHtVF8r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4239,
+          "following_count": 1173,
+          "like_count": 326,
+          "listed_count": 14,
+          "media_count": 13,
+          "tweet_count": 284
+        },
+        "username": "ZachryLee__",
+        "verified": false
+      }
+    ]
+  }
+}

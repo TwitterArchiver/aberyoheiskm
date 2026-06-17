@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2042272703294628211",
+    "created_at": "2026-04-09T20:08:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T21:08:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042333841218814080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1831671299057623040",
+          "start": 0,
+          "username": "afuai377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042333841218814080",
+    "in_reply_to_user_id": "1831671299057623040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042272703294628211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@afuai377 宝宝你这个刀疤好细而且好整齐好漂亮！！求教程呜呜可以问问什么刀割的吗简直是理想疤形……🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042272697762381824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFecMrybAAAVyyY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2042272703294628211",
+        "created_at": "2026-04-09T20:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T21:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042333841218814080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1831671299057623040",
+              "start": 0,
+              "username": "afuai377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042333841218814080",
+        "in_reply_to_user_id": "1831671299057623040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042272703294628211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@afuai377 宝宝你这个刀疤好细而且好整齐好漂亮！！求教程呜呜可以问问什么刀割的吗简直是理想疤形……🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042272697762381824"
+          ]
+        },
+        "author_id": "1831671299057623040",
+        "conversation_id": "2042272703294628211",
+        "created_at": "2026-04-09T16:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042272703294628211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G7Wv3Kbxiq",
+              "end": 30,
+              "expanded_url": "https://x.com/afuai377/status/2042272703294628211/photo/1",
+              "media_key": "3_2042272697762381824",
+              "start": 7,
+              "url": "https://t.co/G7Wv3Kbxiq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042272703294628211",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 473,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "別走別走別走 https://t.co/G7Wv3Kbxiq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 不安所以到处评论见谅⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様  ◎  同担  ◎( 恋愛不可 🆖)看成分回fo↓来提问箱！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 121,
+          "like_count": 742,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 475
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T12:30:55.000Z",
+        "description": "殺不死的roAch ✮同成分互fo",
+        "id": "1831671299057623040",
+        "location": "地獄",
+        "name": "ふ愛",
+        "pinned_tweet_id": "2021592209452056847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030340027990048768/MIZcSwjg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 182,
+          "like_count": 3667,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 389
+        },
+        "username": "afuai377",
+        "verified": false
+      }
+    ]
+  }
+}

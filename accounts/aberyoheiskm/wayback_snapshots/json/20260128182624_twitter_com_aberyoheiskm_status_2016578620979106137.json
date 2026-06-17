@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2016205114445345183",
+    "created_at": "2026-01-28T18:26:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T19:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016578620979106137"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 29,
+          "normalized_text": "椰ちゃん",
+          "probability": 0.5454,
+          "start": 26,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1990228719227801600",
+          "start": 0,
+          "username": "doushayezhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016578620979106137",
+    "in_reply_to_user_id": "1990228719227801600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016205114445345183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doushayezhi 絶対に美しいんだと思う🥺椰ちゃんも傷も"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2016205082136653826",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_r_1wMXsAIYuH8.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2016205114445345183",
+        "created_at": "2026-01-28T18:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T19:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016578620979106137"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "椰ちゃん",
+              "probability": 0.5454,
+              "start": 26,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1990228719227801600",
+              "start": 0,
+              "username": "doushayezhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016578620979106137",
+        "in_reply_to_user_id": "1990228719227801600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016205114445345183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doushayezhi 絶対に美しいんだと思う🥺椰ちゃんも傷も"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016205082136653826"
+          ]
+        },
+        "author_id": "1990228719227801600",
+        "conversation_id": "2016205114445345183",
+        "created_at": "2026-01-27T17:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T18:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016205114445345183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yURKuYgNJO",
+              "end": 142,
+              "expanded_url": "https://x.com/doushayezhi/status/2016205114445345183/photo/1",
+              "media_key": "3_2016205082136653826",
+              "start": 119,
+              "url": "https://t.co/yURKuYgNJO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016205114445345183",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ちょっと自覚してるんだけど、めっちゃナルシストなんだよね。自分の腿を見るのが好きで。\n傷が新しい時って赤くて、すごくキレイで、目の覚めるような感じがするんだ。\n時間が経ってかさぶたになって色が褪せると、まあ、普通になっちゃうんだけどさ。 https://t.co/yURKuYgNJO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "いつかしまった",
+        "id": "1804875241367433216",
+        "name": "すずめたん",
+        "pinned_tweet_id": "2008592579928248523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993690122920103936/YFN_sE0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 46,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 26
+        },
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T01:21:25.000Z",
+        "description": "OC創作が趣味です。まだまだ未熟ですが、同じ趣味の方と交流できたら嬉しいです。気軽にフォロー・DMください。",
+        "id": "1990228719227801600",
+        "name": "豆沙椰汁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007507081373581312/BN4jTiyI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 23,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 17
+        },
+        "username": "doushayezhi",
+        "verified": false
+      }
+    ]
+  }
+}

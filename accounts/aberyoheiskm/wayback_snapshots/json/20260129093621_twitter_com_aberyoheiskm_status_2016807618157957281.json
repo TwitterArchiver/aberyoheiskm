@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2016666732509692139",
+    "created_at": "2026-01-29T09:36:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T10:36:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016807618157957281"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "ヤーちゃん",
+          "probability": 0.707,
+          "start": 13,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1990228719227801600",
+          "start": 0,
+          "username": "doushayezhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016807618157957281",
+    "in_reply_to_user_id": "1990228719227801600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016666732509692139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doushayezhi ヤーちゃんは天使みたいにすごーく優しい( ‘-ωก̀ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2016666732509692139",
+        "created_at": "2026-01-29T09:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T10:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016807618157957281"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "ヤーちゃん",
+              "probability": 0.707,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1990228719227801600",
+              "start": 0,
+              "username": "doushayezhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016807618157957281",
+        "in_reply_to_user_id": "1990228719227801600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016666732509692139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doushayezhi ヤーちゃんは天使みたいにすごーく優しい( ‘-ωก̀ )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990228719227801600",
+        "conversation_id": "2016666732509692139",
+        "created_at": "2026-01-29T00:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T01:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016666732509692139"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016666732509692139",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "フィルターの色、すごくきれい！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "いつかしまった",
+        "id": "1804875241367433216",
+        "name": "すずめたん",
+        "pinned_tweet_id": "2008592579928248523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993690122920103936/YFN_sE0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 51,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 32
+        },
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T01:21:25.000Z",
+        "description": "アニメ・漫画・ゲーム・小説とOC創作が好きで、たまに駄弁ります。",
+        "id": "1990228719227801600",
+        "name": "豆沙椰汁",
+        "pinned_tweet_id": "2016658960862912535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007507081373581312/BN4jTiyI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 23,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 28
+        },
+        "username": "doushayezhi",
+        "verified": false
+      }
+    ]
+  }
+}

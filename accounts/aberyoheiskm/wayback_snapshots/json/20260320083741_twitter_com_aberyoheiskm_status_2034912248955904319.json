@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2031301470617014322",
+    "created_at": "2026-03-20T08:37:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T09:37:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034912248955904319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2012913867589124096",
+          "start": 0,
+          "username": "Y0yIq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034912248955904319",
+    "in_reply_to_user_id": "2012913867589124096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031301470617014322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y0yIq きれいな洋服"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6066,
+        "height": 576,
+        "media_key": "13_2031301414958542850",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2031301414958542850/img/SRxT0K3hVEFouJ7o.jpg",
+        "public_metrics": {
+          "view_count": 657345
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031301414958542850/vid/avc1/480x270/OSR2m6K3HNm4gQzb.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031301414958542850/vid/avc1/640x360/MATm-qlaGkZM08Ij.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031301414958542850/vid/avc1/1024x576/hO3ejvIa5N1RrTSF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2031301414958542850/pl/My_NT7IQhfRxRkDv.m3u8"
+          }
+        ],
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2031301470617014322",
+        "created_at": "2026-03-20T08:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T09:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034912248955904319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2012913867589124096",
+              "start": 0,
+              "username": "Y0yIq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034912248955904319",
+        "in_reply_to_user_id": "2012913867589124096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031301470617014322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y0yIq きれいな洋服"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2031301414958542850"
+          ]
+        },
+        "author_id": "2012913867589124096",
+        "conversation_id": "2031301470617014322",
+        "created_at": "2026-03-10T09:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T10:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031301470617014322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ENUeWz01ZI",
+              "end": 29,
+              "expanded_url": "https://x.com/Y0yIq/status/2031301470617014322/video/1",
+              "media_key": "13_2031301414958542850",
+              "start": 6,
+              "url": "https://t.co/ENUeWz01ZI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031301470617014322",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 259,
+          "impression_count": 3382989,
+          "like_count": 682,
+          "quote_count": 74,
+          "reply_count": 6,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "お勉強🪄🌟 https://t.co/ENUeWz01ZI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ ࣪いつかしまった⌇𝟢𝟧⌇天使界隈⌇水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます 💤\n​他担・他界隈様  ◎  同担  ◎(𝖫𝗈𝗏𝖾 ✕ ⌇ 恋愛不可 🆖)",
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹💙",
+        "pinned_tweet_id": "2016649422911000724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993690122920103936/YFN_sE0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 76,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 147
+        },
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T15:44:14.000Z",
+        "description": "早稲田志望n=1(新浪)元ユニパス",
+        "id": "2012913867589124096",
+        "name": "浪浪ーシュ",
+        "pinned_tweet_id": "2021145575094354106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012928660953513984/_1265eiY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 446,
+          "like_count": 1789,
+          "listed_count": 3,
+          "media_count": 24,
+          "tweet_count": 616
+        },
+        "username": "Y0yIq",
+        "verified": false
+      }
+    ]
+  }
+}

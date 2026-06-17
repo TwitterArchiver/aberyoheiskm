@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2041890150498853294",
+    "created_at": "2026-04-09T18:23:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T19:23:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042307358563713279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1777129646867542016",
+          "start": 0,
+          "username": "Sunset__3000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042307358563713279",
+    "in_reply_to_user_id": "1777129646867542016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041890150498853294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sunset__3000 感觉写这视频文案的都是过得太好了，一看就是官二代家庭美满，但凡体验过十分之一这种地狱般的生活也不会说出这种话，都不会站在制高点洋洋自得🤣👉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041890147814535170",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZARWLa8AIqJeJ.jpg",
+        "width": 1018
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2041890150498853294",
+        "created_at": "2026-04-09T18:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T19:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042307358563713279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1777129646867542016",
+              "start": 0,
+              "username": "Sunset__3000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042307358563713279",
+        "in_reply_to_user_id": "1777129646867542016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041890150498853294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sunset__3000 感觉写这视频文案的都是过得太好了，一看就是官二代家庭美满，但凡体验过十分之一这种地狱般的生活也不会说出这种话，都不会站在制高点洋洋自得🤣👉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041890147814535170"
+          ]
+        },
+        "author_id": "1777129646867542016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041890150498853294",
+        "created_at": "2026-04-08T14:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T15:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041890150498853294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BDRIfS5AaT",
+              "end": 144,
+              "expanded_url": "https://x.com/Sunset__3000/status/2041890150498853294/photo/1",
+              "media_key": "3_2041890147814535170",
+              "start": 121,
+              "url": "https://t.co/BDRIfS5AaT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041890150498853294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 10136,
+          "like_count": 394,
+          "quote_count": 5,
+          "reply_count": 21,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "对，就是在所谓的“病态圈子”里找共鸣和认同，我管你对的错的危害大不大呢，我只知道我绝望想死的时候这些“正常人”没一个听我说话，没一个愿意接纳我，只有割手的嗑药的会安慰我。人不是一出生就会伤害自己，谁不是被逼的？高高在上说教的样子真令人作呕。 https://t.co/BDRIfS5AaT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 不安所以到处评论见谅⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様  ◎  同担  ◎( 恋愛不可 🆖)看成分回fo↓来提问箱！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 122,
+          "like_count": 717,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 463
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T00:21:51.000Z",
+        "description": "o割餐券女 | 精神病 | 家里蹲备考 | 极端悲观主义 | 爱好生化药理板绘 | 同类互fo呀♡漏回提醒我🥹",
+        "id": "1777129646867542016",
+        "location": "宛平南路600号",
+        "name": "日落三千次💊",
+        "pinned_tweet_id": "2034272198798811213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040999312478621696/QZAhsYwI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 447,
+          "like_count": 2558,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 571
+        },
+        "username": "Sunset__3000",
+        "verified": false
+      }
+    ]
+  }
+}

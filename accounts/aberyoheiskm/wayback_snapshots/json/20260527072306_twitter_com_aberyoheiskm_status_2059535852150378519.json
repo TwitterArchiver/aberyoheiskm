@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2059413545880854820",
+    "created_at": "2026-05-27T07:23:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T08:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059535852150378519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1956724571475947520",
+          "start": 0,
+          "username": "Dqy2jl79EO72974"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059535852150378519",
+    "in_reply_to_user_id": "1956724571475947520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059413545880854820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dqy2jl79EO72974 啊？？吃这个吗……🤯🤯🤯"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2059413528856154112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJSBsXka0AActxs.jpg",
+        "width": 2057
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2059413545880854820",
+        "created_at": "2026-05-27T07:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T08:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059535852150378519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1956724571475947520",
+              "start": 0,
+              "username": "Dqy2jl79EO72974"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059535852150378519",
+        "in_reply_to_user_id": "1956724571475947520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059413545880854820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dqy2jl79EO72974 啊？？吃这个吗……🤯🤯🤯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059413528856154112"
+          ]
+        },
+        "author_id": "1956724571475947520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059413545880854820",
+        "created_at": "2026-05-26T23:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T00:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059413545880854820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8TcNUpSK2v",
+              "end": 40,
+              "expanded_url": "https://x.com/Dqy2jl79EO72974/status/2059413545880854820/photo/1",
+              "media_key": "3_2059413528856154112",
+              "start": 17,
+              "url": "https://t.co/8TcNUpSK2v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059413545880854820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1749,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "简直安眠药来的。学会了好安心^^ https://t.co/8TcNUpSK2v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 294,
+          "like_count": 2971,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 1819
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T14:28:37.000Z",
+        "description": "我們吞咽了太多意義忘記了生命只需要呼吸",
+        "id": "1956724571475947520",
+        "name": "不言",
+        "pinned_tweet_id": "2057855256663613639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041946258483638274/qIGMJJbt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 432,
+          "like_count": 2465,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 426
+        },
+        "username": "Dqy2jl79EO72974",
+        "verified": false
+      }
+    ]
+  }
+}

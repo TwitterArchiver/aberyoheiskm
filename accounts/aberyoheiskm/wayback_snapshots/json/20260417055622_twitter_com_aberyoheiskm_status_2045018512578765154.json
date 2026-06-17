@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2044424245472792890",
+    "created_at": "2026-04-17T05:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T06:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045018512578765154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1762199019718381568",
+          "start": 0,
+          "username": "xiao_sun26096"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045018512578765154",
+    "in_reply_to_user_id": "1762199019718381568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044424245472792890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiao_sun26096 介里！！想申请qwq！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2044424245472792890",
+        "created_at": "2026-04-17T05:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T06:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045018512578765154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1762199019718381568",
+              "start": 0,
+              "username": "xiao_sun26096"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045018512578765154",
+        "in_reply_to_user_id": "1762199019718381568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044424245472792890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiao_sun26096 介里！！想申请qwq！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762199019718381568",
+        "conversation_id": "2044424245472792890",
+        "created_at": "2026-04-15T14:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T15:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044424245472792890"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044424245472792890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 372,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "有没有小宝想和我互fo的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 不安所以到处评论见谅⌇逃离墙内中⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 150,
+          "like_count": 1354,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 839
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-26T19:32:51.000Z",
+        "description": "みな大好き！\n日本語がとても下手だ……！\n九族连坐制：@nixyng246039",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "nixyng246039"
+              }
+            ]
+          }
+        },
+        "id": "1762199019718381568",
+        "name": "西北",
+        "pinned_tweet_id": "2044467750043791571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037835439781122048/gVf_fwU7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 650,
+          "like_count": 27183,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 3290
+        },
+        "username": "xiao_sun26096",
+        "verified": false
+      }
+    ]
+  }
+}

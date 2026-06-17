@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2017216661166928377",
+    "created_at": "2026-01-30T20:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T21:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017339130645184644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1990228719227801600",
+          "start": 0,
+          "username": "doushayezhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017339130645184644",
+    "in_reply_to_user_id": "1990228719227801600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017227437017317563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doushayezhi 今度はきっと「AD钙奶」を準備する(╥_╥)\n昔は一気に薬20錠以上飲めたのに、今は6錠も飲めない、、、ううう…やっぱり薬の味が怖いんだね。\nでも家の薬は全部なくなっちゃった、次がいつになるか全然分からない\nがちゃんが気にかけてくれてありがとう！ちゅっ♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2017216661166928377",
+        "created_at": "2026-01-30T20:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T21:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017339130645184644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1990228719227801600",
+              "start": 0,
+              "username": "doushayezhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017339130645184644",
+        "in_reply_to_user_id": "1990228719227801600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017227437017317563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doushayezhi 今度はきっと「AD钙奶」を準備する(╥_╥)\n昔は一気に薬20錠以上飲めたのに、今は6錠も飲めない、、、ううう…やっぱり薬の味が怖いんだね。\nでも家の薬は全部なくなっちゃった、次がいつになるか全然分からない\nがちゃんが気にかけてくれてありがとう！ちゅっ♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990228719227801600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Water",
+              "id": "850146068683571201",
+              "name": "Water"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drink Experience",
+              "id": "1006278636842782720",
+              "name": "Drink Experience"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Water",
+              "id": "850146068683571201",
+              "name": "Water"
+            }
+          }
+        ],
+        "conversation_id": "2017216661166928377",
+        "created_at": "2026-01-30T13:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T14:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017227437017317563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017227437017317563",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017216661166928377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm もうすごく勇気を出したよね。\nもし次に薬を飲むことがあったら、お水を多めに飲んでみるといいかも…？私、詳しいことはわからないけど、ただ、少しでも楽になれますように。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "いつかしまった",
+        "id": "1804875241367433216",
+        "name": "すずめたん",
+        "pinned_tweet_id": "2008592579928248523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993690122920103936/YFN_sE0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 50,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 41
+        },
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T01:21:25.000Z",
+        "description": "アニメ・漫画・ゲーム・小説とOC創作が好きで、たまに駄弁ります。",
+        "id": "1990228719227801600",
+        "name": "豆沙椰汁",
+        "pinned_tweet_id": "2016658960862912535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007507081373581312/BN4jTiyI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 23,
+          "like_count": 239,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 35
+        },
+        "username": "doushayezhi",
+        "verified": false
+      }
+    ]
+  }
+}

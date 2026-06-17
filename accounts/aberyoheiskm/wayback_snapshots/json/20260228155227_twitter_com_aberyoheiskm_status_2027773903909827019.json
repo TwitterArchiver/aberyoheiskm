@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2027475985290170550",
+    "created_at": "2026-02-28T15:52:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T16:52:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027773903909827019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1077906424661856257",
+          "start": 0,
+          "username": "nf0RvF9qLpjzOpv"
+        },
+        {
+          "end": 27,
+          "id": "2018249562058797056",
+          "start": 17,
+          "username": "snsODllxp"
+        },
+        {
+          "end": 42,
+          "id": "1244543552652054528",
+          "start": 28,
+          "username": "Greenfish_111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027773903909827019",
+    "in_reply_to_user_id": "1077906424661856257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027769763313967187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nf0RvF9qLpjzOpv @snsODllxp @Greenfish_111 还真是……要是真生出来一个有精神疾病的小孩从小就受躯体化困扰她就老实了😅😅😅宁愿传宗接代也不要健康吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2027475985290170550",
+        "created_at": "2026-02-28T15:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T16:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027773903909827019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1077906424661856257",
+              "start": 0,
+              "username": "nf0RvF9qLpjzOpv"
+            },
+            {
+              "end": 27,
+              "id": "2018249562058797056",
+              "start": 17,
+              "username": "snsODllxp"
+            },
+            {
+              "end": 42,
+              "id": "1244543552652054528",
+              "start": 28,
+              "username": "Greenfish_111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027773903909827019",
+        "in_reply_to_user_id": "1077906424661856257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027769763313967187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nf0RvF9qLpjzOpv @snsODllxp @Greenfish_111 还真是……要是真生出来一个有精神疾病的小孩从小就受躯体化困扰她就老实了😅😅😅宁愿传宗接代也不要健康吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1077906424661856257",
+        "conversation_id": "2027475985290170550",
+        "created_at": "2026-02-28T15:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T16:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027769763313967187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            },
+            {
+              "end": 24,
+              "id": "2018249562058797056",
+              "start": 14,
+              "username": "snsODllxp"
+            },
+            {
+              "end": 39,
+              "id": "1244543552652054528",
+              "start": 25,
+              "username": "Greenfish_111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027769763313967187",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027563813890035912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm @snsODllxp @Greenfish_111 她精神病也不轻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "いつかしまった",
+        "id": "1804875241367433216",
+        "name": "すずめたん💙",
+        "pinned_tweet_id": "2008592579928248523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993690122920103936/YFN_sE0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 64,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 75
+        },
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-26T12:38:12.000Z",
+        "description": "",
+        "id": "1077906424661856257",
+        "name": "2501_0",
+        "pinned_tweet_id": "1177544367357100034",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 74,
+          "like_count": 411075,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 184452
+        },
+        "username": "nf0RvF9qLpjzOpv",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-02T09:06:15.000Z",
+        "description": "思诺思、劳拉西泮、氯俏西泮、扎来普隆、佑佐匹克隆、艾司唑仑、阿普唑仑等",
+        "id": "2018249562058797056",
+        "name": "出思诺思、劳拉西泮",
+        "pinned_tweet_id": "2027487670231060702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027369563231490048/ME9y3ehu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 28,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 206
+        },
+        "username": "snsODllxp",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "💚💚💚",
+        "id": "1244543552652054528",
+        "location": "Silent Hill",
+        "name": "冰冷電子魚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872220255705333760/XVl2yIEq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4468,
+          "following_count": 582,
+          "like_count": 12569,
+          "listed_count": 8,
+          "media_count": 1296,
+          "tweet_count": 13515
+        },
+        "username": "Greenfish_111",
+        "verified": false
+      }
+    ]
+  }
+}

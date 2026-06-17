@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2047271453180199181",
+    "created_at": "2026-04-24T06:45:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T07:45:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047567580886692149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2004558269650767872",
+          "start": 0,
+          "username": "L0VE_country"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047567580886692149",
+    "in_reply_to_user_id": "2004558269650767872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047271453180199181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L0VE_country 最高!!いつか絶対中国に遊びに来てね!!私も日本に行きたいな૮ ៸៸៸º ᗜ º៸៸៸ ა"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2047271453180199181",
+        "created_at": "2026-04-24T06:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T07:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047567580886692149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2004558269650767872",
+              "start": 0,
+              "username": "L0VE_country"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047567580886692149",
+        "in_reply_to_user_id": "2004558269650767872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047271453180199181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L0VE_country 最高!!いつか絶対中国に遊びに来てね!!私も日本に行きたいな૮ ៸៸៸º ᗜ º៸៸៸ ა"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004558269650767872",
+        "conversation_id": "2047271453180199181",
+        "created_at": "2026-04-23T11:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T12:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047271453180199181"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047271453180199181",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 124355,
+          "like_count": 1329,
+          "quote_count": 4,
+          "reply_count": 175,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "本当に中国行きたい😭😭😭😭😭😭😭😭😭😭😭😭😭\n世界中の全部の国が！国旗が！！！！！大好き！！！！！！！！！みんな愛してる！！！！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 不安所以到处评论见谅⌇逃离墙内中⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 190,
+          "like_count": 2133,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1207
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-26T14:22:32.000Z",
+        "description": "にっひです！無言フォロー失礼します🙇\n国旗、世界𝐋𝐎𝐕𝐄//部長_🏷️#国旗ら部\n\n⚠️I won't follow back//フォロバしません\n DMも見ません！どうかご了承を…",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 35,
+                "tag": "国旗ら部"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/tClPLiR0oXdV…",
+                "end": 23,
+                "expanded_url": "https://profcard.info/u/tClPLiR0oXdVJYFOIhXRBZ4Qybl1",
+                "start": 0,
+                "url": "https://t.co/x5xynceweT"
+              }
+            ]
+          }
+        },
+        "id": "2004558269650767872",
+        "name": "ニ日",
+        "pinned_tweet_id": "2047244807589036250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026290165350891520/Xje2qqn6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 262,
+          "like_count": 4818,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1042
+        },
+        "url": "https://t.co/x5xynceweT",
+        "username": "L0VE_country",
+        "verified": false
+      }
+    ]
+  }
+}

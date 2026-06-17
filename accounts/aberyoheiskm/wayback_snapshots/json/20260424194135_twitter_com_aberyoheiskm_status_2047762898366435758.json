@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047762895728234497"
+      ]
+    },
+    "author_id": "1804875241367433216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2047762898366435758",
+    "created_at": "2026-04-24T19:41:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T20:41:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047762898366435758"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "嘴最脏拳最快、却最恨自己的不良少女",
+          "display_url": "manosaba-test.asachiri.com/r/alisa/",
+          "end": 55,
+          "expanded_url": "http://manosaba-test.asachiri.com/r/alisa/",
+          "start": 32,
+          "status": 200,
+          "title": "紫藤亚里沙 · 魔女审判人格测试",
+          "unwound_url": "https://manosaba-test.asachiri.com/r/alisa/",
+          "url": "https://t.co/QJOGEIZmRO"
+        },
+        {
+          "display_url": "pic.x.com/yTNGn3NAPT",
+          "end": 79,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2047762898366435758/photo/1",
+          "media_key": "3_2047762895728234497",
+          "start": 56,
+          "url": "https://t.co/yTNGn3NAPT"
+        },
+        {
+          "display_url": "x.com/ta9ton_502/sta…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/ta9ton_502/status/2045797405577367982",
+          "start": 80,
+          "url": "https://t.co/4OIIhtQ2Al"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047762898366435758",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045797405577367982",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "〇Ð妹测出〇Ð妹\n别〇Ð了，神在法你\n\n▸ 戳这里开始你的审判：https://t.co/QJOGEIZmRO https://t.co/yTNGn3NAPT https://t.co/4OIIhtQ2Al"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047762895728234497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGsdgRAbUAEa_zV.jpg",
+        "width": 880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047762895728234497"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047762898366435758",
+        "created_at": "2026-04-24T19:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T20:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047762898366435758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "嘴最脏拳最快、却最恨自己的不良少女",
+              "display_url": "manosaba-test.asachiri.com/r/alisa/",
+              "end": 55,
+              "expanded_url": "http://manosaba-test.asachiri.com/r/alisa/",
+              "start": 32,
+              "status": 200,
+              "title": "紫藤亚里沙 · 魔女审判人格测试",
+              "unwound_url": "https://manosaba-test.asachiri.com/r/alisa/",
+              "url": "https://t.co/QJOGEIZmRO"
+            },
+            {
+              "display_url": "pic.x.com/yTNGn3NAPT",
+              "end": 79,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2047762898366435758/photo/1",
+              "media_key": "3_2047762895728234497",
+              "start": 56,
+              "url": "https://t.co/yTNGn3NAPT"
+            },
+            {
+              "display_url": "x.com/ta9ton_502/sta…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/ta9ton_502/status/2045797405577367982",
+              "start": 80,
+              "url": "https://t.co/4OIIhtQ2Al"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047762898366435758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045797405577367982",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "〇Ð妹测出〇Ð妹\n别〇Ð了，神在法你\n\n▸ 戳这里开始你的审判：https://t.co/QJOGEIZmRO https://t.co/yTNGn3NAPT https://t.co/4OIIhtQ2Al"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1351867426191798273",
+        "conversation_id": "2045797405577367982",
+        "created_at": "2026-04-19T09:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T10:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045797405577367982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "成績優秀、非の打ちどころがない少女",
+              "display_url": "manosaba-test.asachiri.com/ja/r/hiro/",
+              "end": 70,
+              "expanded_url": "https://manosaba-test.asachiri.com/ja/r/hiro/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2045771787619983360/Yj3dT2Qy?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2045771787619983360/Yj3dT2Qy?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 47,
+              "status": 200,
+              "title": "二階堂ヒロ · 魔女裁判 人格診断テスト",
+              "unwound_url": "https://manosaba-test.asachiri.com/ja/r/hiro/",
+              "url": "https://t.co/in0BNFO16r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045797405577367982",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 27011,
+          "like_count": 192,
+          "quote_count": 6,
+          "reply_count": 1,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "魔女裁判 人格診断で「二階堂ヒロ」と判決されました —— 成績優秀、非の打ちどころがない少女 https://t.co/in0BNFO16r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 不安所以到处评论见谅⌇逃离墙内中⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 194,
+          "like_count": 2182,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1232
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-20T12:21:35.000Z",
+        "description": "描きたい絵を描いています(今はまのさば中心)\nまつ毛を盛りがち 日々精進\n\nPixiv:https://t.co/yUdf8hh7Sj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/17855474",
+                "end": 67,
+                "expanded_url": "https://www.pixiv.net/users/17855474",
+                "start": 44,
+                "url": "https://t.co/yUdf8hh7Sj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/lfmt0hduli175j…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/lfmt0hduli175jc?t=glGmf1&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/FcNbMBhcaD"
+              }
+            ]
+          }
+        },
+        "id": "1351867426191798273",
+        "name": "たく",
+        "pinned_tweet_id": "2027545618110173396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039175052583907328/OQBBlm4U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4445,
+          "following_count": 573,
+          "like_count": 11606,
+          "listed_count": 12,
+          "media_count": 1697,
+          "tweet_count": 12314
+        },
+        "url": "https://t.co/FcNbMBhcaD",
+        "username": "ta9ton_502",
+        "verified": true
+      }
+    ]
+  }
+}

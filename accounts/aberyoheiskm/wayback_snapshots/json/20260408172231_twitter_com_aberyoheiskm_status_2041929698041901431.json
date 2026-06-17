@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2041288520812376076",
+    "created_at": "2026-04-08T17:22:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T18:22:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041929698041901431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1827958813603102720",
+          "start": 0,
+          "username": "pFDQtVKpfG28461"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041929698041901431",
+    "in_reply_to_user_id": "1827958813603102720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041288520812376076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pFDQtVKpfG28461 喹硫平是最大恶人……(乂｀д´)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2041288520812376076",
+        "created_at": "2026-04-08T17:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T18:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041929698041901431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1827958813603102720",
+              "start": 0,
+              "username": "pFDQtVKpfG28461"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041929698041901431",
+        "in_reply_to_user_id": "1827958813603102720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041288520812376076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pFDQtVKpfG28461 喹硫平是最大恶人……(乂｀д´)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2041288520812376076",
+        "created_at": "2026-04-06T22:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T23:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041288520812376076"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041288520812376076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1312,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雄激素我们分手吧\n喹硫平我们也分手吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 不安所以到处评论见谅⌇𝟢𝟧⌇天使界隈⌇水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます 💤\n​他担・他界隈様  ◎  同担  ◎( 恋愛不可 🆖)看成分回fo↓提问箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 107,
+          "like_count": 544,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 363
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "description": "双相/mtx/重抑/精分/偶尔od/不鉴证/不割手/噶啦给墓/hjh我操你妈！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/naransen",
+                "end": 23,
+                "expanded_url": "https://ngl.link/naransen",
+                "start": 0,
+                "url": "https://t.co/QsTrGajThi"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "上海",
+        "name": "丛雨丛雨丛？🍬",
+        "pinned_tweet_id": "2035385093657968836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032774748237869062/3VRs-T0m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 529,
+          "like_count": 1573,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 437
+        },
+        "url": "https://t.co/QsTrGajThi",
+        "username": "pFDQtVKpfG28461",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2016849108263219482",
+    "created_at": "2026-01-30T11:50:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T12:50:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017203856095211607"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 53,
+          "normalized_text": "ヤーちゃん",
+          "probability": 0.6601,
+          "start": 49,
+          "type": "Person"
+        },
+        {
+          "end": 68,
+          "normalized_text": "真白さん",
+          "probability": 0.8049,
+          "start": 65,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1990228719227801600",
+          "start": 0,
+          "username": "doushayezhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017203856095211607",
+    "in_reply_to_user_id": "1990228719227801600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016875854136029448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doushayezhi 「重い」とかめっちゃ好きだ!!ぜったいこのゲーム、プレイする!!ちなみにヤーちゃんのプロフィールページで真白さんに関する投稿リツイートしてる、私も「FolieFatale」が好きだよ、こんなに似合うこと絶対運命だよな✿ヽ(°▽°)ノ✿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016849108263219482",
+        "created_at": "2026-01-30T11:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T12:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017203856095211607"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 53,
+              "normalized_text": "ヤーちゃん",
+              "probability": 0.6601,
+              "start": 49,
+              "type": "Person"
+            },
+            {
+              "end": 68,
+              "normalized_text": "真白さん",
+              "probability": 0.8049,
+              "start": 65,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1990228719227801600",
+              "start": 0,
+              "username": "doushayezhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017203856095211607",
+        "in_reply_to_user_id": "1990228719227801600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016875854136029448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doushayezhi 「重い」とかめっちゃ好きだ!!ぜったいこのゲーム、プレイする!!ちなみにヤーちゃんのプロフィールページで真白さんに関する投稿リツイートしてる、私も「FolieFatale」が好きだよ、こんなに似合うこと絶対運命だよな✿ヽ(°▽°)ノ✿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990228719227801600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016849108263219482",
+        "created_at": "2026-01-29T14:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T15:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016875854136029448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016875854136029448",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016873230603288581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm え！？ゲーム共有の話！？それならめっちゃ語りたいことある！\nもしあなたが『重い』のを好む、ガチ勢なら…絶対『禁飼育』シリーズをチェックすべきだと思う！あの世界観、病みつきになるよ…（笑）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "いつかしまった",
+        "id": "1804875241367433216",
+        "name": "すずめたん",
+        "pinned_tweet_id": "2008592579928248523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993690122920103936/YFN_sE0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 50,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 37
+        },
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T01:21:25.000Z",
+        "description": "アニメ・漫画・ゲーム・小説とOC創作が好きで、たまに駄弁ります。",
+        "id": "1990228719227801600",
+        "name": "豆沙椰汁",
+        "pinned_tweet_id": "2016658960862912535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007507081373581312/BN4jTiyI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 23,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 32
+        },
+        "username": "doushayezhi",
+        "verified": false
+      }
+    ]
+  }
+}

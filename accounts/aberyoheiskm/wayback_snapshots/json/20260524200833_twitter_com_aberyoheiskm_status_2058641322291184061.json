@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2058632695404712094",
+    "created_at": "2026-05-24T20:08:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T21:08:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058641322291184061"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058641322291184061",
+    "in_reply_to_user_id": "1804875241367433216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058632695404712094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我赶紧换个手机然后把这个放转转上回收吧\n我要立马找工作，兼职也行\n一个月赚个3000一下也行\n我要卖谷子卖cos服\n买新手机\n再也不用红米了\n我草死它"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2263,
+        "media_key": "3_2058632688228274176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJG7hdjakAA4qNX.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2247,
+        "media_key": "3_2058632690455453696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJG7hl2aoAAiN96.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2058632695404712094",
+        "created_at": "2026-05-24T20:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T21:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058641322291184061"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058641322291184061",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058632695404712094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我赶紧换个手机然后把这个放转转上回收吧\n我要立马找工作，兼职也行\n一个月赚个3000一下也行\n我要卖谷子卖cos服\n买新手机\n再也不用红米了\n我草死它"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058632688228274176",
+            "3_2058632690455453696"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "conversation_id": "2058632695404712094",
+        "created_at": "2026-05-24T19:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T20:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058632695404712094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MQbmoKiPB7",
+              "end": 116,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2058632695404712094/photo/1",
+              "media_key": "3_2058632688228274176",
+              "start": 93,
+              "url": "https://t.co/MQbmoKiPB7"
+            },
+            {
+              "display_url": "pic.x.com/MQbmoKiPB7",
+              "end": 116,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2058632695404712094/photo/1",
+              "media_key": "3_2058632690455453696",
+              "start": 93,
+              "url": "https://t.co/MQbmoKiPB7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058632695404712094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我草破手机你漏电就算了\n你悄无声息把我一百多G的图片都删了\n我最重要的相册图片全没了\n我搞这个冷坑这么多年是我难得偶尔还能笑一笑的时候\n你把我图片全弄没了\n红米手机我做鬼都不会放过你的 https://t.co/MQbmoKiPB7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 小号：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 272,
+          "like_count": 2727,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 1629
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      }
+    ]
+  }
+}

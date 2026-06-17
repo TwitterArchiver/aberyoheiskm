@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017091881222754316"
+      ],
+      "media_source_tweet_id": [
+        "2017091888944492783"
+      ]
+    },
+    "author_id": "1804875241367433216",
+    "conversation_id": "2017201543700000901",
+    "created_at": "2026-01-30T11:41:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T12:41:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017201543700000901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2015026740847153152",
+          "start": 3,
+          "username": "j30ez"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5uC7Cfvpwv",
+          "end": 46,
+          "expanded_url": "https://x.com/j30ez/status/2017091888944492783/photo/1",
+          "media_key": "3_2017091881222754316",
+          "start": 23,
+          "url": "https://t.co/5uC7Cfvpwv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017201543700000901",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017091888944492783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @j30ez: 問題児二人。ただし最強 https://t.co/5uC7Cfvpwv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1756,
+        "media_key": "3_2017091881222754316",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_4mYQObUAwnXON.jpg",
+        "width": 1535
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017091881222754316"
+          ],
+          "media_source_tweet_id": [
+            "2017091888944492783"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "conversation_id": "2017201543700000901",
+        "created_at": "2026-01-30T11:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T12:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017201543700000901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2015026740847153152",
+              "start": 3,
+              "username": "j30ez"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5uC7Cfvpwv",
+              "end": 46,
+              "expanded_url": "https://x.com/j30ez/status/2017091888944492783/photo/1",
+              "media_key": "3_2017091881222754316",
+              "start": 23,
+              "url": "https://t.co/5uC7Cfvpwv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017201543700000901",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017091888944492783",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @j30ez: 問題児二人。ただし最強 https://t.co/5uC7Cfvpwv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017091881222754316"
+          ]
+        },
+        "author_id": "2015026740847153152",
+        "conversation_id": "2017091888944492783",
+        "created_at": "2026-01-30T04:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T05:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017091888944492783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5uC7Cfvpwv",
+              "end": 35,
+              "expanded_url": "https://x.com/j30ez/status/2017091888944492783/photo/1",
+              "media_key": "3_2017091881222754316",
+              "start": 12,
+              "url": "https://t.co/5uC7Cfvpwv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017091888944492783",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 16839,
+          "like_count": 1164,
+          "quote_count": 15,
+          "reply_count": 4,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "問題児二人。ただし最強 https://t.co/5uC7Cfvpwv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "いつかしまった",
+        "id": "1804875241367433216",
+        "name": "すずめたん",
+        "pinned_tweet_id": "2008592579928248523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993690122920103936/YFN_sE0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 50,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 36
+        },
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T11:40:15.000Z",
+        "description": "09 ツイ廃 病み垢 /サブ@utuutuutusine/厳選@hatumu1231ファンアートタグ▶︎ #はつむのアート",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 53,
+                "tag": "はつむのアート"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "utuutuutusine"
+              },
+              {
+                "end": 42,
+                "start": 31,
+                "username": "hatumu1231"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCnUFw…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCnUFwzO177BcwGbEs45eIbg?si=ZxTgWsJ2FB7wnIGh",
+                "start": 0,
+                "url": "https://t.co/7MLIq7h8RX"
+              }
+            ]
+          }
+        },
+        "id": "2015026740847153152",
+        "location": "凍結×10 自己満動画▶︎",
+        "name": "フェニックスはつむ💚⭐️🪽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015793628010909696/1O1qaXaJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1282,
+          "following_count": 119,
+          "like_count": 325,
+          "listed_count": 3,
+          "media_count": 20,
+          "tweet_count": 203
+        },
+        "url": "https://t.co/7MLIq7h8RX",
+        "username": "j30ez",
+        "verified": false
+      }
+    ]
+  }
+}

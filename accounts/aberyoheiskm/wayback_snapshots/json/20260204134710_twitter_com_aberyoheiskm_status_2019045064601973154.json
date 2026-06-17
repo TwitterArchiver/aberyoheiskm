@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019045061850537984"
+      ]
+    },
+    "author_id": "1804875241367433216",
+    "conversation_id": "2019045064601973154",
+    "created_at": "2026-02-04T13:47:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T14:47:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019045064601973154"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ut4iHEjcMm",
+          "end": 109,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2019045064601973154/photo/1",
+          "media_key": "3_2019045061850537984",
+          "start": 86,
+          "url": "https://t.co/Ut4iHEjcMm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019045064601973154",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怪我不认得英文……\n没想到事情就发生在我身边\n1.29还和我互fo来着当时好开心在基本不营业的状态下竟然原意和我这样的小人物互fo……感動する……\n\n总之、晚安爱德华…… https://t.co/Ut4iHEjcMm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 584,
+        "media_key": "3_2019045061850537984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAUWyVEboAAxwuI.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019045061850537984"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "conversation_id": "2019045064601973154",
+        "created_at": "2026-02-04T13:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T14:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019045064601973154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ut4iHEjcMm",
+              "end": 109,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2019045064601973154/photo/1",
+              "media_key": "3_2019045061850537984",
+              "start": 86,
+              "url": "https://t.co/Ut4iHEjcMm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019045064601973154",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怪我不认得英文……\n没想到事情就发生在我身边\n1.29还和我互fo来着当时好开心在基本不营业的状态下竟然原意和我这样的小人物互fo……感動する……\n\n总之、晚安爱德华…… https://t.co/Ut4iHEjcMm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "いつかしまった",
+        "id": "1804875241367433216",
+        "name": "すずめたん",
+        "pinned_tweet_id": "2008592579928248523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993690122920103936/YFN_sE0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 51,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 53
+        },
+        "username": "aberyoheiskm",
+        "verified": false
+      }
+    ]
+  }
+}

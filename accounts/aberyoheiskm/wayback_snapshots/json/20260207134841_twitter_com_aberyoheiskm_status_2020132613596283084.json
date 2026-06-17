@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2020130767758622821",
+    "created_at": "2026-02-07T13:48:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T14:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020132613596283084"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2020132613596283084",
+    "in_reply_to_user_id": "1804875241367433216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020130767758622821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你那个暴力能不能改改啊？自己在那不说话窝囊憋着气哈哈哈哈，憋完了自己开始在那搞暴力，乱甩东西砸东西，你要是想🈹你早就下手了，我tm从小时候就一直饱受家庭纷争从上幼儿园就一直被霸凌到高三心理阴影留到现在你才十一年你就炸了？嗯？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2020130767758622821",
+        "created_at": "2026-02-07T13:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T14:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020132613596283084"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020132613596283084",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020130767758622821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你那个暴力能不能改改啊？自己在那不说话窝囊憋着气哈哈哈哈，憋完了自己开始在那搞暴力，乱甩东西砸东西，你要是想🈹你早就下手了，我tm从小时候就一直饱受家庭纷争从上幼儿园就一直被霸凌到高三心理阴影留到现在你才十一年你就炸了？嗯？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2020130767758622821",
+        "created_at": "2026-02-07T13:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T14:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020130767758622821"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020130767758622821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你还装上了你还割上了？你给我灯砸坏了我都没说什么，干什么呢搁这拿个刀吓唬我干啥呢，我tm脾气爆你又不是不知道，你才经历过什么我tm十八年了才查出来你十一岁就割上了？你第一刀不割到脂肪层我瞧不起你马勒戈壁的（小孩皮很浅很容易割到脂肪层吧要不我帮帮你好不好🦆）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "いつかしまった",
+        "id": "1804875241367433216",
+        "name": "すずめたん",
+        "pinned_tweet_id": "2008592579928248523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993690122920103936/YFN_sE0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 55,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 63
+        },
+        "username": "aberyoheiskm",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2045143595263639619",
+    "created_at": "2026-04-18T13:09:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T14:09:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045490013522337819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1681340789757194242",
+          "start": 0,
+          "username": "bnafo366357"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045490013522337819",
+    "in_reply_to_user_id": "1681340789757194242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045384794457182273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bnafo366357 等孩子从机厅回来像家长隔空展现乌蒙手法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2045143595263639619",
+        "created_at": "2026-04-18T13:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T14:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045490013522337819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1681340789757194242",
+              "start": 0,
+              "username": "bnafo366357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045490013522337819",
+        "in_reply_to_user_id": "1681340789757194242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045384794457182273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bnafo366357 等孩子从机厅回来像家长隔空展现乌蒙手法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1681340789757194242",
+        "conversation_id": "2045143595263639619",
+        "created_at": "2026-04-18T06:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T07:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045384794457182273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045384794457182273",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045143595263639619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm 带他去玩舞萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 不安所以到处评论见谅⌇逃离墙内中⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 155,
+          "like_count": 1503,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 892
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-18T16:31:10.000Z",
+        "description": "【⚠️偶尔的负能量传递注意】【⚠️推止于推⚠️】\n坐标成都 15/175/79kg 男♂性 喜欢男 爱看梗图/男同 半i人半e人\n玩第五人格（不活跃）/终末地/雀魂/舞萌/jubeat\n本号是nafo的碎碎念\n（原名：精神病院院长）",
+        "id": "1681340789757194242",
+        "location": "锦江区第四人民医院",
+        "name": "纳福nafo",
+        "pinned_tweet_id": "2041512687088382418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038273709476392960/Au6xLnZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 723,
+          "like_count": 7092,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1428
+        },
+        "username": "bnafo366357",
+        "verified": false
+      }
+    ]
+  }
+}

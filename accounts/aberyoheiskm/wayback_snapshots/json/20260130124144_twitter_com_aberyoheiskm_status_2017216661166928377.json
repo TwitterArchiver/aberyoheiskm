@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017216656947470336"
+      ]
+    },
+    "author_id": "1804875241367433216",
+    "conversation_id": "2017216661166928377",
+    "created_at": "2026-01-30T12:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T13:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017216661166928377"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ntW4VweBe2",
+          "end": 120,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2017216661166928377/photo/1",
+          "media_key": "3_2017216656947470336",
+          "start": 97,
+          "url": "https://t.co/ntW4VweBe2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017216661166928377",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近薬飲み込むのがどんどん難しくなっちゃった○○（＞＜）○○\n心の恐怖からなのか、それともなにか別の理由か知らん\nいつも通りくるし過ぎる\n今めっちゃ吐き気、、、\n苦さのない世界に行きたい、、、 https://t.co/ntW4VweBe2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 964,
+        "media_key": "3_2017216656947470336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_6X3KBa4AACBQH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017216656947470336"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "conversation_id": "2017216661166928377",
+        "created_at": "2026-01-30T12:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T13:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017216661166928377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ntW4VweBe2",
+              "end": 120,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2017216661166928377/photo/1",
+              "media_key": "3_2017216656947470336",
+              "start": 97,
+              "url": "https://t.co/ntW4VweBe2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017216661166928377",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近薬飲み込むのがどんどん難しくなっちゃった○○（＞＜）○○\n心の恐怖からなのか、それともなにか別の理由か知らん\nいつも通りくるし過ぎる\n今めっちゃ吐き気、、、\n苦さのない世界に行きたい、、、 https://t.co/ntW4VweBe2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "いつかしまった",
+        "id": "1804875241367433216",
+        "name": "すずめたん",
+        "pinned_tweet_id": "2008592579928248523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993690122920103936/YFN_sE0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 50,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 39
+        },
+        "username": "aberyoheiskm",
+        "verified": false
+      }
+    ]
+  }
+}

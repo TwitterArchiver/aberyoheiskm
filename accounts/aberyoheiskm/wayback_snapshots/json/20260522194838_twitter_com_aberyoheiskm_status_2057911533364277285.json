@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2057911518185091072"
+      ]
+    },
+    "author_id": "1804875241367433216",
+    "conversation_id": "2057551304407605733",
+    "created_at": "2026-05-22T19:48:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T20:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057911533364277285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1805249997941968896",
+          "start": 0,
+          "username": "rokume02"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zr0sMTMLHR",
+          "end": 48,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2057911533364277285/photo/1",
+          "media_key": "16_2057911518185091072",
+          "start": 25,
+          "url": "https://t.co/Zr0sMTMLHR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057911533364277285",
+    "in_reply_to_user_id": "1805249997941968896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057717330256498870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rokume02 阿里嘎多๛ก(ｰ̀ωｰ́ก) https://t.co/Zr0sMTMLHR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "16_2057911518185091072",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HI8rn1ybcAAJAf4.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HI8rn1ybcAAJAf4.mp4"
+          }
+        ],
+        "width": 512
+      },
+      {
+        "height": 480,
+        "media_key": "16_2057717321142358016",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HI57AFbb0AAze2Q.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HI57AFbb0AAze2Q.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2057911518185091072"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "conversation_id": "2057551304407605733",
+        "created_at": "2026-05-22T19:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T20:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057911533364277285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1805249997941968896",
+              "start": 0,
+              "username": "rokume02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zr0sMTMLHR",
+              "end": 48,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2057911533364277285/photo/1",
+              "media_key": "16_2057911518185091072",
+              "start": 25,
+              "url": "https://t.co/Zr0sMTMLHR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057911533364277285",
+        "in_reply_to_user_id": "1805249997941968896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057717330256498870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rokume02 阿里嘎多๛ก(ｰ̀ωｰ́ก) https://t.co/Zr0sMTMLHR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2057717321142358016"
+          ]
+        },
+        "author_id": "1805249997941968896",
+        "conversation_id": "2057551304407605733",
+        "created_at": "2026-05-22T06:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T07:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057717330256498870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ibSQuZ5OEC",
+              "end": 37,
+              "expanded_url": "https://x.com/rokume02/status/2057717330256498870/photo/1",
+              "media_key": "16_2057717321142358016",
+              "start": 14,
+              "url": "https://t.co/ibSQuZ5OEC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057717330256498870",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057551304407605733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm https://t.co/ibSQuZ5OEC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 小号：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 257,
+          "like_count": 2550,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 1524
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-24T14:42:10.000Z",
+        "description": "",
+        "id": "1805249997941968896",
+        "name": "六眼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034595788165455872/1MHY6wNm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 181,
+          "like_count": 22155,
+          "listed_count": 1,
+          "media_count": 2398,
+          "tweet_count": 4992
+        },
+        "username": "rokume02",
+        "verified": false
+      }
+    ]
+  }
+}

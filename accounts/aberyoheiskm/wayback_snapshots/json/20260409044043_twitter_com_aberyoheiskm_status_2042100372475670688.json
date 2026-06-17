@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2042040636652843414",
+    "created_at": "2026-04-09T04:40:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T05:40:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042100372475670688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2038878967181017088",
+          "start": 0,
+          "username": "sayori_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042100372475670688",
+    "in_reply_to_user_id": "2038878967181017088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042040636652843414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sayori_awa お早う!!ーsayori枣上好ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2042040636652843414",
+        "created_at": "2026-04-09T04:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T05:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042100372475670688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2038878967181017088",
+              "start": 0,
+              "username": "sayori_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042100372475670688",
+        "in_reply_to_user_id": "2038878967181017088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042040636652843414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sayori_awa お早う!!ーsayori枣上好ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038878967181017088",
+        "conversation_id": "2042040636652843414",
+        "created_at": "2026-04-09T00:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T01:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042040636652843414"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042040636652843414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上好🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 不安所以到处评论见谅⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様  ◎  同担  ◎( 恋愛不可 🆖)看成分回fo↓来提问箱！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 116,
+          "like_count": 582,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 380
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T07:20:20.000Z",
+        "description": "这里是一只sayori酱 | MtF🏳️‍⚧️ | 互fo大欢迎(•̀ω•́)✧| 09.09.14 | 无证含糖 | INTP | 中文/ENG/日本語初心者 | 精神状态不稳定 | 成分复杂 | i just want to make everyone happy...",
+        "id": "2038878967181017088",
+        "location": "終ノ空",
+        "name": "🍥sayori🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039593919089131520/FpMa5rYl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 122,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 36
+        },
+        "username": "sayori_awa",
+        "verified": false
+      }
+    ]
+  }
+}

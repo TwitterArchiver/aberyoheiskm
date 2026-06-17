@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2057568096408506573",
+    "created_at": "2026-05-22T19:46:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T20:46:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057911108825235670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1406536122344394755",
+          "start": 0,
+          "username": "Chcr_6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057911108825235670",
+    "in_reply_to_user_id": "1406536122344394755",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057714490754634195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chcr_6 已经被创死了……呃啊……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2057568096408506573",
+        "created_at": "2026-05-22T19:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T20:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057911108825235670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1406536122344394755",
+              "start": 0,
+              "username": "Chcr_6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057911108825235670",
+        "in_reply_to_user_id": "1406536122344394755",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057714490754634195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chcr_6 已经被创死了……呃啊……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1406536122344394755",
+        "conversation_id": "2057568096408506573",
+        "created_at": "2026-05-22T06:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T07:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057714490754634195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057714490754634195",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 432,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057568096408506573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm ？这味道也太恶心了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 小号：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 257,
+          "like_count": 2548,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 1522
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-20T08:56:25.000Z",
+        "description": "小栀 喜欢和女孩子互fo呀！(๑`･ᴗ･´๑)",
+        "id": "1406536122344394755",
+        "location": "肉体躯壳",
+        "name": "来自于栀子花",
+        "pinned_tweet_id": "2027770191086817702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697928460335783936/qz2xDhvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 301,
+          "like_count": 18823,
+          "listed_count": 3,
+          "media_count": 24,
+          "tweet_count": 3343
+        },
+        "username": "Chcr_6",
+        "verified": false
+      }
+    ]
+  }
+}

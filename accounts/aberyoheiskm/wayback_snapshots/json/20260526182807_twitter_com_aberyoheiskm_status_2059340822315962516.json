@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2058831809069330846",
+    "created_at": "2026-05-26T18:28:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T19:28:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059340822315962516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1115590672927444992",
+          "start": 0,
+          "username": "insanity713"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059340822315962516",
+    "in_reply_to_user_id": "1115590672927444992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059177441491603696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@insanity713 ∑竟然长痘也跟喹硫平有关吗😨😨😨说起来我最近确实好像也怎么没再长痘了……至少额头已经干干净净了qwq……感觉能在这个副作用下还能硬熬真的很强了🥹🥹🥹我之前是无意识暴饮暴食，等意识清醒了发现自己在吃东西的时候已经吃了不少了，同处境下感觉你真的太厉害了，辛苦了辛苦了呜呜呜🥹🥹🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2058831809069330846",
+        "created_at": "2026-05-26T18:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T19:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059340822315962516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1115590672927444992",
+              "start": 0,
+              "username": "insanity713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059340822315962516",
+        "in_reply_to_user_id": "1115590672927444992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059177441491603696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@insanity713 ∑竟然长痘也跟喹硫平有关吗😨😨😨说起来我最近确实好像也怎么没再长痘了……至少额头已经干干净净了qwq……感觉能在这个副作用下还能硬熬真的很强了🥹🥹🥹我之前是无意识暴饮暴食，等意识清醒了发现自己在吃东西的时候已经吃了不少了，同处境下感觉你真的太厉害了，辛苦了辛苦了呜呜呜🥹🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1115590672927444992",
+        "conversation_id": "2058831809069330846",
+        "created_at": "2026-05-26T07:38:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059177441491603696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059177441491603696",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058831809069330846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm 不仅会胖还会爆痘……之前每次晚上吃完药效上来都又困又饿，如果饿得不行爬起来吃点东西又不困了，所以基本是把特别饿的时间硬熬过去直接昏迷，吃了两三年没怎么胖，但期间一直在长痘，今年年初突然意识到爆痘可能和喹硫平有关，立马把它停掉了，果然再也没长过（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 小号：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 292,
+          "like_count": 2941,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 1795
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-09T12:21:57.000Z",
+        "description": "沉迷人外",
+        "id": "1115590672927444992",
+        "name": "insanity713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974556094082187264/aFc1qtm0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 87,
+          "like_count": 838,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 67
+        },
+        "username": "insanity713",
+        "verified": false
+      }
+    ]
+  }
+}

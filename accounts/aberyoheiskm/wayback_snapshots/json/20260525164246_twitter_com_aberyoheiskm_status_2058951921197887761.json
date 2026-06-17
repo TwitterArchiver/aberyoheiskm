@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2058937911828242821",
+    "created_at": "2026-05-25T16:42:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T17:42:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058951921197887761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2031954172732719112",
+          "start": 0,
+          "username": "Minastear030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058951921197887761",
+    "in_reply_to_user_id": "2031954172732719112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058951465105076574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minastear030 ？？？？啊？！？！？！？\n怎么做到的我草\n太狠了吧\n我已经吃了四颗糖了……🫠🫠🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2058937911828242821",
+        "created_at": "2026-05-25T16:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058951921197887761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2031954172732719112",
+              "start": 0,
+              "username": "Minastear030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058951921197887761",
+        "in_reply_to_user_id": "2031954172732719112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058951465105076574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minastear030 ？？？？啊？！？！？！？\n怎么做到的我草\n太狠了吧\n我已经吃了四颗糖了……🫠🫠🫠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031954172732719112",
+        "conversation_id": "2058937911828242821",
+        "created_at": "2026-05-25T16:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058951465105076574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058951465105076574",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058937911828242821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm 其实吃习惯了之后甚至能做到嚼碎然后含化…（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 小号：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 279,
+          "like_count": 2859,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 1727
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T04:43:39.000Z",
+        "description": "前世@minastear1︱艰难找回互关中︱18↑︱荒诞主义者︱oder︱友跨顺女泛性恋︱之前这里有一段个性签名但是我忘了是什么",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "minastear1"
+              }
+            ]
+          }
+        },
+        "id": "2031954172732719112",
+        "location": "Eden",
+        "name": "Minastear",
+        "pinned_tweet_id": "2032141633345712556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032141006750302211/tUre2IlQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 119,
+          "like_count": 333,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 127
+        },
+        "username": "Minastear030",
+        "verified": false
+      }
+    ]
+  }
+}

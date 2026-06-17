@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2042269254264013054",
+    "created_at": "2026-04-09T22:57:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T23:57:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042376299591974917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1782303137136852992",
+          "start": 0,
+          "username": "cxxf1zh"
+        },
+        {
+          "end": 18,
+          "id": "1684263981471657985",
+          "start": 9,
+          "username": "insdpp19"
+        },
+        {
+          "end": 31,
+          "id": "1940190746016976897",
+          "start": 19,
+          "username": "sakarayaner"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042376299591974917",
+    "in_reply_to_user_id": "1782303137136852992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042357079663673821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cxxf1zh @insdpp19 @sakarayaner 呃啊，是找到日本的语校就能连着签证一起发下来了吗😢，有没有年龄限制啊学历限制什么的……考日语等级没问题就是剩下这些不好搞orz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2042269254264013054",
+        "created_at": "2026-04-09T22:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T23:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042376299591974917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1782303137136852992",
+              "start": 0,
+              "username": "cxxf1zh"
+            },
+            {
+              "end": 18,
+              "id": "1684263981471657985",
+              "start": 9,
+              "username": "insdpp19"
+            },
+            {
+              "end": 31,
+              "id": "1940190746016976897",
+              "start": 19,
+              "username": "sakarayaner"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042376299591974917",
+        "in_reply_to_user_id": "1782303137136852992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042357079663673821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cxxf1zh @insdpp19 @sakarayaner 呃啊，是找到日本的语校就能连着签证一起发下来了吗😢，有没有年龄限制啊学历限制什么的……考日语等级没问题就是剩下这些不好搞orz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782303137136852992",
+        "conversation_id": "2042269254264013054",
+        "created_at": "2026-04-09T21:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T22:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042357079663673821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            },
+            {
+              "end": 23,
+              "id": "1684263981471657985",
+              "start": 14,
+              "username": "insdpp19"
+            },
+            {
+              "end": 36,
+              "id": "1940190746016976897",
+              "start": 24,
+              "username": "sakarayaner"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042357079663673821",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042325578225991983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm @insdpp19 @sakarayaner 国外，如果你读日本语校的话正常来说不需要日语能力，但如果你要考本科考研考专门学校就业的话最好国内就学到N2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 不安所以到处评论见谅⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様  ◎  同担  ◎( 恋愛不可 🆖)看成分回fo↓来提问箱！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 121,
+          "like_count": 752,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 481
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T06:59:28.000Z",
+        "description": "是个INFP-T音乐制作人/DJ/下北沢传奇吉他手(勉強中😉",
+        "id": "1782303137136852992",
+        "location": "Suginami-ku, Tokyo",
+        "name": "一澤子",
+        "pinned_tweet_id": "2035385903506759842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041814931683848192/zcl-cu0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 73,
+          "like_count": 954,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 361
+        },
+        "username": "cxxf1zh",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:06:48.000Z",
+        "description": "。",
+        "id": "1684263981471657985",
+        "location": "nagasaki Japan",
+        "name": "。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918606792415973377/NgWlsZiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 56,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 44
+        },
+        "username": "insdpp19",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T23:28:26.000Z",
+        "description": "i 🩶 uuu so @in2dkira | coser | 舞萌| 不闲聊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "in2dkira"
+              }
+            ]
+          }
+        },
+        "id": "1940190746016976897",
+        "location": "🚪88/188/520",
+        "name": "sakara",
+        "pinned_tweet_id": "2041544288291725341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032452412095750145/e_dC_gVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 42,
+          "like_count": 799,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 146
+        },
+        "username": "sakarayaner",
+        "verified": false
+      }
+    ]
+  }
+}

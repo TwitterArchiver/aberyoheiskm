@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2012171518139064735",
+    "created_at": "2026-04-03T15:18:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T16:18:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040086473782038633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1685915932814962688",
+          "start": 0,
+          "username": "wonderstar777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040086473782038633",
+    "in_reply_to_user_id": "1685915932814962688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012171518139064735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wonderstar777 没有热水，摄入小甜水中……૮ ⑉ ᗜ ⑉ ა"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2012171518139064735",
+        "created_at": "2026-04-03T15:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T16:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040086473782038633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1685915932814962688",
+              "start": 0,
+              "username": "wonderstar777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040086473782038633",
+        "in_reply_to_user_id": "1685915932814962688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012171518139064735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wonderstar777 没有热水，摄入小甜水中……૮ ⑉ ᗜ ⑉ ა"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685915932814962688",
+        "conversation_id": "2012171518139064735",
+        "created_at": "2026-01-16T14:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T15:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012171518139064735"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012171518139064735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1855,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到这条推的人现在立刻去喝一杯热水 然后对自己说“我很棒！”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ ࣪いつかしまった⌇𝟢𝟧⌇天使界隈⌇水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます 💤\n​他担・他界隈様  ◎  同担  ◎( 恋愛不可 🆖)",
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2039523324586541170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993690122920103936/YFN_sE0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 103,
+          "like_count": 314,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 236
+        },
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-31T07:31:14.000Z",
+        "description": "*擅自关注抱歉\n我是豪仁^ ^ 请不要讨厌我......\n另外 我发抱抱不需要理由😈\n如果冒犯到你我很抱歉TT",
+        "id": "1685915932814962688",
+        "location": "RABBIT SPACE",
+        "name": "unRABBIT",
+        "pinned_tweet_id": "2012171518139064735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924529293255966723/N4Fma48R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 948,
+          "like_count": 2017,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 1064
+        },
+        "username": "wonderstar777",
+        "verified": false
+      }
+    ]
+  }
+}

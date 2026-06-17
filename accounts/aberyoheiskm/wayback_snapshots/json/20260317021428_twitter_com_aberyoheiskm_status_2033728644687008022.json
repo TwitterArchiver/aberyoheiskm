@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2033508138859778164",
+    "created_at": "2026-03-17T02:14:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T03:14:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033728644687008022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1951491913997340672",
+          "start": 0,
+          "username": "nabekuramasax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033728644687008022",
+    "in_reply_to_user_id": "1951491913997340672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033508138859778164",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nabekuramasax 愿世界和平再无纠纷🙏🏻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033508125454872577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDh43bmbsAEDlS6.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2033508138859778164",
+        "created_at": "2026-03-17T02:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T03:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033728644687008022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1951491913997340672",
+              "start": 0,
+              "username": "nabekuramasax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033728644687008022",
+        "in_reply_to_user_id": "1951491913997340672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033508138859778164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nabekuramasax 愿世界和平再无纠纷🙏🏻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033508125454872577"
+          ]
+        },
+        "author_id": "1951491913997340672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          }
+        ],
+        "conversation_id": "2033508138859778164",
+        "created_at": "2026-03-16T11:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T12:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033508138859778164"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "中国",
+              "probability": 0.7885,
+              "start": 6,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ENIN6AdAYi",
+              "end": 48,
+              "expanded_url": "https://x.com/nabekuramasax/status/2033508138859778164/photo/1",
+              "media_key": "3_2033508125454872577",
+              "start": 25,
+              "url": "https://t.co/ENIN6AdAYi"
+            },
+            {
+              "display_url": "x.com/nabekuramasax/…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/nabekuramasax/status/2033507869941998068",
+              "start": 49,
+              "url": "https://t.co/Bsrg8d6Ttr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033508138859778164",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 201039,
+          "like_count": 1854,
+          "quote_count": 17,
+          "reply_count": 155,
+          "retweet_count": 124
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033507869941998068",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "通りすがりの中国の方にも説明して\n書いてもらった https://t.co/ENIN6AdAYi https://t.co/Bsrg8d6Ttr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ ࣪いつかしまった⌇𝟢𝟧⌇天使界隈⌇水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます 💤\n​他担・他界隈様  ◎  同担  ◎(𝖫𝗈𝗏𝖾 ✕ ⌇ 恋愛不可 🆖)",
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹💙",
+        "pinned_tweet_id": "2016649422911000724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993690122920103936/YFN_sE0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 75,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 116
+        },
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-02T03:55:19.000Z",
+        "description": "薔薇の人、ANTIFA.COMMUNIST\nトランプはクソ\n基本的に夜は毎日新宿東南口にいる\n1993年9月11日生 \n路上活動カンパ\n三菱UFJ銀行 姫路支店 普通口座0376723\nナベクラ マサユキ",
+        "id": "1951491913997340672",
+        "name": "なべくら雅之🌹フォローしろ",
+        "pinned_tweet_id": "2033052720903631009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952069233174798337/xs3fFo2h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8630,
+          "following_count": 946,
+          "like_count": 32892,
+          "listed_count": 358,
+          "media_count": 1449,
+          "tweet_count": 16191
+        },
+        "username": "nabekuramasax",
+        "verified": true
+      }
+    ]
+  }
+}

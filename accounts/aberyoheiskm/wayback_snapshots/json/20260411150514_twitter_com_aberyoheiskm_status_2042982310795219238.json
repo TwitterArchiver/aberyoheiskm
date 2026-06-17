@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2042982310795219238",
+    "created_at": "2026-04-11T15:05:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T16:05:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042982310795219238"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/EvE_ZaKo/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/EvE_ZaKo/status/2042337234926330326",
+          "start": 8,
+          "url": "https://t.co/DcLt7C5QdM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042982310795219238",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042337234926330326",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "磕舍曲林吗🤣👉 https://t.co/DcLt7C5QdM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042337229662572545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFfW472X0AEL32s.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2042982310795219238",
+        "created_at": "2026-04-11T15:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T16:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042982310795219238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/EvE_ZaKo/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/EvE_ZaKo/status/2042337234926330326",
+              "start": 8,
+              "url": "https://t.co/DcLt7C5QdM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042982310795219238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042337234926330326",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "磕舍曲林吗🤣👉 https://t.co/DcLt7C5QdM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042337229662572545"
+          ]
+        },
+        "author_id": "1873526227979599872",
+        "conversation_id": "2042337234926330326",
+        "created_at": "2026-04-09T20:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T21:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042337234926330326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tF2MGMm3XQ",
+              "end": 33,
+              "expanded_url": "https://x.com/EvE_ZaKo/status/2042337234926330326/photo/1",
+              "media_key": "3_2042337229662572545",
+              "start": 10,
+              "url": "https://t.co/tF2MGMm3XQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042337234926330326",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 32745,
+          "like_count": 251,
+          "quote_count": 12,
+          "reply_count": 74,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "？。你还挺自豪呀。 https://t.co/tF2MGMm3XQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 不安所以到处评论见谅⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様  ◎  同担  ◎( 恋愛不可 🆖)看成分回fo↓来提问箱！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 127,
+          "like_count": 840,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 543
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T00:27:34.000Z",
+        "description": "同类互fo欢迎｜双相｜不爱不恨国｜智利不详｜外貌像门酱｜爸妈未逃出我带来的原生家庭｜💊｜🈹｜嫌贫仇富｜🈚️学历恋人@jiajunXiao2 弟弟@jiajunXiao2妹妹@jiajunXiao2 徒弟@jiajunXiao2 师傅@jiajunXiao2儿子@jiajunXiao2女儿@jiajunXiao2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "jiajunXiao2"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "jiajunXiao2"
+              },
+              {
+                "end": 98,
+                "start": 86,
+                "username": "jiajunXiao2"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "jiajunXiao2"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "jiajunXiao2"
+              },
+              {
+                "end": 142,
+                "start": 130,
+                "username": "jiajunXiao2"
+              },
+              {
+                "end": 156,
+                "start": 144,
+                "username": "jiajunXiao2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yutan11452",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yutan11452",
+                "start": 0,
+                "url": "https://t.co/cRSX1kZK00"
+              }
+            ]
+          }
+        },
+        "id": "1873526227979599872",
+        "location": "墓地🪦",
+        "name": "再哭大声点",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034049415556583424/-7PVx9b-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 161,
+          "like_count": 914,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 603
+        },
+        "url": "https://t.co/cRSX1kZK00",
+        "username": "EvE_ZaKo",
+        "verified": false
+      }
+    ]
+  }
+}

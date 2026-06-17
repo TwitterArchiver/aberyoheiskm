@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2043361071508197564",
+    "created_at": "2026-04-13T09:37:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T10:37:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043624516942024755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1990236783217709056",
+          "start": 0,
+          "username": "Ricky5130931400"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043624516942024755",
+    "in_reply_to_user_id": "1990236783217709056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043361071508197564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ricky5130931400 女の子になーれ、萌え萌えキュー♡☆（模仿咖啡店女仆中🥰）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2043361071508197564",
+        "created_at": "2026-04-13T09:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T10:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043624516942024755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1990236783217709056",
+              "start": 0,
+              "username": "Ricky5130931400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043624516942024755",
+        "in_reply_to_user_id": "1990236783217709056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043361071508197564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ricky5130931400 女の子になーれ、萌え萌えキュー♡☆（模仿咖啡店女仆中🥰）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990236783217709056",
+        "conversation_id": "2043361071508197564",
+        "created_at": "2026-04-12T16:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T17:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043361071508197564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sonogamirinnet…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/sonogamirinnets/status/2043248781450424708",
+              "start": 36,
+              "url": "https://t.co/MFMTzAwLZj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043361071508197564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043248781450424708",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想当女孩😭😭😭\n男性躯壳太难受了😭😭😭\n每次看到女性身体都羡慕得要死 https://t.co/MFMTzAwLZj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 不安所以到处评论见谅⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様  ◎  同担  ◎( 恋愛不可 🆖)看成分互fo↓来提问箱！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 138,
+          "like_count": 1004,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 628
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T01:53:42.000Z",
+        "description": "",
+        "id": "1990236783217709056",
+        "location": "江苏 无锡",
+        "name": "Ricky🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041466717013258240/r5_O255Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 233,
+          "like_count": 669,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 17
+        },
+        "username": "Ricky5130931400",
+        "verified": false
+      }
+    ]
+  }
+}

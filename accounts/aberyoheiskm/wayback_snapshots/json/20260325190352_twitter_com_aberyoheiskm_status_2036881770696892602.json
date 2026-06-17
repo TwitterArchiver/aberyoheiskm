@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2036824604841566444",
+    "created_at": "2026-03-25T19:03:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T20:03:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036881770696892602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "159063679",
+          "start": 0,
+          "username": "arai_harumaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036881770696892602",
+    "in_reply_to_user_id": "159063679",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036824604841566444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@arai_harumaki 日中友好と世界平和を願って、戦争のない世界へ、ピース＆ラブ🕊️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2036824429586780161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HERBBvNbkAEPKZu.jpg",
+        "width": 2896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2036824604841566444",
+        "created_at": "2026-03-25T19:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T20:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036881770696892602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "159063679",
+              "start": 0,
+              "username": "arai_harumaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036881770696892602",
+        "in_reply_to_user_id": "159063679",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036824604841566444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arai_harumaki 日中友好と世界平和を願って、戦争のない世界へ、ピース＆ラブ🕊️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036824429586780161"
+          ]
+        },
+        "author_id": "159063679",
+        "conversation_id": "2036824604841566444",
+        "created_at": "2026-03-25T15:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T16:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036824604841566444"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 0,
+              "tag": "日本政府は自衛官大使館乱入の件で中国に謝罪せよ"
+            },
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "日中友好"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1SPJj9BhjY",
+              "end": 71,
+              "expanded_url": "https://x.com/arai_harumaki/status/2036824604841566444/photo/1",
+              "media_key": "3_2036824429586780161",
+              "start": 48,
+              "url": "https://t.co/1SPJj9BhjY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036824604841566444",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 16850,
+          "like_count": 1344,
+          "quote_count": 13,
+          "reply_count": 25,
+          "retweet_count": 363
+        },
+        "reply_settings": "everyone",
+        "text": "#日本政府は自衛官大使館乱入の件で中国に謝罪せよ\n#日中友好\n日本の政府がアホでごめんなさい。 https://t.co/1SPJj9BhjY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ ࣪いつかしまった⌇𝟢𝟧⌇天使界隈⌇水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます 💤\n​他担・他界隈様  ◎  同担  ◎(𝖫𝗈𝗏𝖾 ✕ ⌇ 恋愛不可 🆖)",
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2016649422911000724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993690122920103936/YFN_sE0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 82,
+          "like_count": 218,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 170
+        },
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-24T10:28:57.000Z",
+        "description": "『ファンタジー銀河』ヤンチャンwebで連載中です。過去作『デベロッパーズ』『女子校のこひー先生』『こはるはる！』mail:vahishra@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/1580312",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/1580312",
+                "start": 0,
+                "url": "https://t.co/VkKT7jOhum"
+              }
+            ]
+          }
+        },
+        "id": "159063679",
+        "location": "東京",
+        "name": "新井春巻「ファンタジー銀河」ヤンチャンwebで連載中！",
+        "pinned_tweet_id": "1989306121715057047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842845476577828864/ociMQzy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32994,
+          "following_count": 657,
+          "like_count": 4700,
+          "listed_count": 753,
+          "media_count": 770,
+          "tweet_count": 7570
+        },
+        "url": "https://t.co/VkKT7jOhum",
+        "username": "arai_harumaki",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2038483671876071807",
+    "created_at": "2026-03-31T15:32:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T16:32:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039002925872427054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1920438493647368192",
+          "start": 0,
+          "username": "fayoubaike003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039002925872427054",
+    "in_reply_to_user_id": "1920438493647368192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038483671876071807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fayoubaike003 为什么xd就不会影响工作，〇Ð会，太倒反天罡了😰😰😰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2038483671876071807",
+        "created_at": "2026-03-31T15:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T16:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039002925872427054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1920438493647368192",
+              "start": 0,
+              "username": "fayoubaike003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039002925872427054",
+        "in_reply_to_user_id": "1920438493647368192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038483671876071807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fayoubaike003 为什么xd就不会影响工作，〇Ð会，太倒反天罡了😰😰😰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920438493647368192",
+        "conversation_id": "2038483671876071807",
+        "created_at": "2026-03-30T05:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T06:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038483671876071807"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038483671876071807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "现如今，政府已经安排好社区戒药物娱乐组织了，各种药的验尿板还有发检都有，如果你购买或o大了发疯被家人或在幻觉里跑出去街上被警察抓到，或被人举报，那么迎接你的将是社区戒毒关上一阵子，并且药物滥用史会录入你的个人档案会影响工作等等\n请大家不要以身试险！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ ࣪いつかしまった⌇𝟢𝟧⌇天使界隈⌇水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます 💤\n​他担・他界隈様  ◎  同担  ◎( 恋愛不可 🆖)",
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2016649422911000724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993690122920103936/YFN_sE0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 90,
+          "like_count": 244,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 198
+        },
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T11:20:03.000Z",
+        "description": "+86 137 3719 8964 | cosplayer | ﮩ٨ـﮩﮩ٨ـ♡ﮩﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ﮩ෴ﮩ_____ | 地雷系女孩 ‼️⚠️自傷⚠️‼️ ┊︎工口❌‼️备战中考‼️| 注意：本人不卖图包不援交不卖原味也不约 | 下体男滚开",
+        "id": "1920438493647368192",
+        "name": "法友百科",
+        "pinned_tweet_id": "2036728295350587636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036779484662423552/lyLmmGPi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 122,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 85
+        },
+        "username": "fayoubaike003",
+        "verified": false
+      }
+    ]
+  }
+}

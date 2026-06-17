@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2038796912468586668",
+    "created_at": "2026-03-31T09:48:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T10:48:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038916380117135583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1381102384504573953",
+          "start": 0,
+          "username": "Qcen0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038916380117135583",
+    "in_reply_to_user_id": "1381102384504573953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038796912468586668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qcen0v0 有关键词吗，我也想买一个vanど⁰̷̴͈꒨⁰̷̴͈う♡"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17042,
+        "height": 1280,
+        "media_key": "7_2038796769774170112",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2038796769774170112/pu/img/vJqtD3s2WSwv06FP.jpg",
+        "public_metrics": {
+          "view_count": 95296
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038796769774170112/pu/vid/avc1/320x568/LSIR8UMmZm1YFiub.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038796769774170112/pu/vid/avc1/480x852/IzeitGJaHO2gzmjr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038796769774170112/pu/vid/avc1/720x1280/jNpMXWWpHrj8y4Zp.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2038796769774170112/pu/pl/6oCqFRLjkaHdZicK.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2038796912468586668",
+        "created_at": "2026-03-31T09:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T10:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038916380117135583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1381102384504573953",
+              "start": 0,
+              "username": "Qcen0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038916380117135583",
+        "in_reply_to_user_id": "1381102384504573953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038796912468586668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qcen0v0 有关键词吗，我也想买一个vanど⁰̷̴͈꒨⁰̷̴͈う♡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2038796769774170112"
+          ]
+        },
+        "author_id": "1381102384504573953",
+        "conversation_id": "2038796912468586668",
+        "created_at": "2026-03-31T01:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T02:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038796912468586668"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "メッシー"
+            },
+            {
+              "end": 18,
+              "start": 12,
+              "tag": "messy"
+            },
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "WAM"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "银粉"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "金粉"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/htqbkn0YNe",
+              "end": 55,
+              "expanded_url": "https://x.com/Qcen0v0/status/2038796912468586668/video/1",
+              "media_key": "7_2038796769774170112",
+              "start": 32,
+              "url": "https://t.co/htqbkn0YNe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038796912468586668",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 331,
+          "impression_count": 197379,
+          "like_count": 925,
+          "quote_count": 6,
+          "reply_count": 46,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "入个眼玩玩\n#メッシー #messy #WAM #银粉 #金粉 https://t.co/htqbkn0YNe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ ࣪いつかしまった⌇𝟢𝟧⌇天使界隈⌇水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます 💤\n​他担・他界隈様  ◎  同担  ◎( 恋愛不可 🆖)",
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2016649422911000724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993690122920103936/YFN_sE0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 88,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 185
+        },
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-11T04:30:49.000Z",
+        "description": "雕塑物化好\n/纯清水不交友/求别把我图发到墙内好吗/🚪52只收口令红包不咋会聊天介意勿扰/🐧交流 图包群1091643680",
+        "id": "1381102384504573953",
+        "name": "吐司圈",
+        "pinned_tweet_id": "2037896486240018787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995557556186742789/Qmj4sur1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4265,
+          "following_count": 308,
+          "like_count": 2235,
+          "listed_count": 13,
+          "media_count": 27,
+          "tweet_count": 143
+        },
+        "username": "Qcen0v0",
+        "verified": false
+      }
+    ]
+  }
+}

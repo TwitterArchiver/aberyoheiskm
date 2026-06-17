@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2057551304407605733",
+    "created_at": "2026-05-22T20:05:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T21:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057915829711429709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1482794046938517504",
+          "start": 0,
+          "username": "Colongge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057915829711429709",
+    "in_reply_to_user_id": "1482794046938517504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057902234546123107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Colongge 阿里嘎多！🎉🎉🎉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2057551304407605733",
+        "created_at": "2026-05-22T20:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T21:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057915829711429709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1482794046938517504",
+              "start": 0,
+              "username": "Colongge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057915829711429709",
+        "in_reply_to_user_id": "1482794046938517504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057902234546123107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Colongge 阿里嘎多！🎉🎉🎉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482794046938517504",
+        "conversation_id": "2057551304407605733",
+        "created_at": "2026-05-22T19:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T20:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057902234546123107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057902234546123107",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057551304407605733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm 生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 小号：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 257,
+          "like_count": 2584,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 1555
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-16T19:17:24.000Z",
+        "description": "宝宝@jierui0807\n06MTF｜目前D上下差值17.5，HRT起始日2025-5-12，HRT止于2026-5-20",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "jierui0807"
+              }
+            ]
+          }
+        },
+        "id": "1482794046938517504",
+        "name": "浮生若梦🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057183121771261952/m-ofnD2Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4766,
+          "following_count": 105,
+          "like_count": 1464,
+          "listed_count": 16,
+          "media_count": 4,
+          "tweet_count": 144
+        },
+        "username": "Colongge",
+        "verified": false
+      }
+    ]
+  }
+}

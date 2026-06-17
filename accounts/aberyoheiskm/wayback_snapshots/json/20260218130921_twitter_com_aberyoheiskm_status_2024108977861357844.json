@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2023739814601015406",
+    "created_at": "2026-02-18T13:09:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T14:09:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024108977861357844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2018714418557882368",
+          "start": 0,
+          "username": "xn141841959040"
+        },
+        {
+          "end": 24,
+          "id": "1821560692140544000",
+          "start": 16,
+          "username": "Numiouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024108977861357844",
+    "in_reply_to_user_id": "2018714418557882368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024048062876770407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xn141841959040 @Numiouo 我第一次o白兔也有呼吸抑制，仅10t却几个小时感觉快死掉了SOS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2023739814601015406",
+        "created_at": "2026-02-18T13:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T14:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024108977861357844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2018714418557882368",
+              "start": 0,
+              "username": "xn141841959040"
+            },
+            {
+              "end": 24,
+              "id": "1821560692140544000",
+              "start": 16,
+              "username": "Numiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024108977861357844",
+        "in_reply_to_user_id": "2018714418557882368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024048062876770407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xn141841959040 @Numiouo 我第一次o白兔也有呼吸抑制，仅10t却几个小时感觉快死掉了SOS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018714418557882368",
+        "conversation_id": "2023739814601015406",
+        "created_at": "2026-02-18T09:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T10:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024048062876770407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821560692140544000",
+              "start": 0,
+              "username": "Numiouo"
+            },
+            {
+              "end": 22,
+              "id": "1804875241367433216",
+              "start": 9,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024048062876770407",
+        "in_reply_to_user_id": "1821560692140544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023760729950875995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo @aberyoheiskm 呼吸抑制手脚发冷睡不着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "いつかしまった",
+        "id": "1804875241367433216",
+        "name": "すずめたん",
+        "pinned_tweet_id": "2008592579928248523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993690122920103936/YFN_sE0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 54,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 68
+        },
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-03T15:53:38.000Z",
+        "description": "蓬安在读m🚪88🉑线下",
+        "id": "2018714418557882368",
+        "location": "四川南充蓬安",
+        "name": "心",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020041285210427392/On5CAutZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 12,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 16
+        },
+        "username": "xn141841959040",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "糯米守护互关们(っ˘зʕ•̫͡•ʔ纯血精神病-同类回fo漏fo可私-爱点赞评论-讨厌私信闲聊♡喜欢sex & drug♡除推文外 不提供咨询解答 ♡non-binary友全部🏳️‍🌈🏳️‍⚧️",
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ",
+        "pinned_tweet_id": "1988581028534059496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998372144540164096/6L5oLwea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2519,
+          "following_count": 1813,
+          "like_count": 6331,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 5942
+        },
+        "username": "Numiouo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2033401519224258609",
+    "created_at": "2026-03-16T09:34:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T10:34:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033477095914193261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1863536113518104576",
+          "start": 0,
+          "username": "nlqzzz_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033477095914193261",
+    "in_reply_to_user_id": "1863536113518104576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033401519224258609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nlqzzz_ 好羡慕这种可以醉生梦死的感觉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033401509883559937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDgX5lpaQAEaQ7z.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2033401519224258609",
+        "created_at": "2026-03-16T09:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T10:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033477095914193261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1863536113518104576",
+              "start": 0,
+              "username": "nlqzzz_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033477095914193261",
+        "in_reply_to_user_id": "1863536113518104576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033401519224258609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nlqzzz_ 好羡慕这种可以醉生梦死的感觉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033401509883559937"
+          ]
+        },
+        "author_id": "1863536113518104576",
+        "conversation_id": "2033401519224258609",
+        "created_at": "2026-03-16T04:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T05:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033401519224258609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HxluVyak6N",
+              "end": 29,
+              "expanded_url": "https://x.com/nlqzzz_/status/2033401519224258609/photo/1",
+              "media_key": "3_2033401509883559937",
+              "start": 6,
+              "url": "https://t.co/HxluVyak6N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033401519224258609",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 10236,
+          "like_count": 527,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "ガイジいた https://t.co/HxluVyak6N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ ࣪いつかしまった⌇𝟢𝟧⌇天使界隈⌇水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます 💤\n​他担・他界隈様  ◎  同担  ◎",
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹💙",
+        "pinned_tweet_id": "2016649422911000724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993690122920103936/YFN_sE0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 75,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 116
+        },
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T10:50:13.000Z",
+        "description": "",
+        "id": "1863536113518104576",
+        "name": "あまね",
+        "pinned_tweet_id": "2000157984165601435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906680481246273536/byiYTXOX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2445,
+          "following_count": 45,
+          "like_count": 611,
+          "listed_count": 3,
+          "media_count": 56,
+          "tweet_count": 418
+        },
+        "username": "nlqzzz_",
+        "verified": false
+      }
+    ]
+  }
+}

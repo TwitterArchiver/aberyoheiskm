@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2044146296186122307",
+    "created_at": "2026-04-14T20:10:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T21:10:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044146296186122307"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044146296186122307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我先回关一下那些fo我的，然后，我尽量调整好来回你们昨天前天的消息，都会看的！！我想以正常人的身份，我想看懂你们说的话，\n但是今天好像失败了啊……\n明天复盘一下怎么回事吧\n真的，真的真的真的真的很对不起你们\n我的眼眶哭的好痛好痛\n我不想离开你们\n你们也不要离开我\n对不起食言了，我是个坏蛋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2044146296186122307",
+        "created_at": "2026-04-14T20:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T21:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044146296186122307"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044146296186122307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我先回关一下那些fo我的，然后，我尽量调整好来回你们昨天前天的消息，都会看的！！我想以正常人的身份，我想看懂你们说的话，\n但是今天好像失败了啊……\n明天复盘一下怎么回事吧\n真的，真的真的真的真的很对不起你们\n我的眼眶哭的好痛好痛\n我不想离开你们\n你们也不要离开我\n对不起食言了，我是个坏蛋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 不安所以到处评论见谅⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 141,
+          "like_count": 1019,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 652
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2031171405652570112"
+      ]
+    },
+    "author_id": "1804875241367433216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Mercari (メルカリ)",
+          "id": "1038130137156308992",
+          "name": "Mercari"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Mercari (メルカリ)",
+          "id": "1038130137156308992",
+          "name": "Mercari"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407811550987972617",
+          "name": "Industries"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1407812892909473795",
+          "name": "eCommerce industry"
+        }
+      }
+    ],
+    "conversation_id": "2031171448501580041",
+    "created_at": "2026-03-10T00:53:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T01:53:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031171448501580041"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 90,
+          "start": 84,
+          "tag": "結合_男子"
+        },
+        {
+          "end": 95,
+          "start": 91,
+          "tag": "結_男"
+        },
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "化学"
+        },
+        {
+          "end": 107,
+          "start": 101,
+          "tag": "推しが尊い"
+        },
+        {
+          "end": 111,
+          "start": 108,
+          "tag": "推し"
+        },
+        {
+          "end": 116,
+          "start": 112,
+          "tag": "推し活"
+        },
+        {
+          "end": 122,
+          "start": 117,
+          "tag": "グッズ厨"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7AiNYsHFs5",
+          "end": 146,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2031171448501580041/video/1",
+          "media_key": "7_2031171405652570112",
+          "start": 123,
+          "url": "https://t.co/7AiNYsHFs5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031171448501580041",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "メルカリでお迎え完了っ!!✨🧪\n来世もずっと、結男しちゃうもんね〜!(੭ु ›ω‹ )੭ु⁾⁾♡\n\n​⊹ ࣪ ˖ ┈┈ ˖ ࣪ ⊹ ┈┈ ⊹ ࣪ ˖ ┈┈ ˖ ࣪ ⊹\n#結合_男子 #結_男 #化学 ​#推しが尊い #推し #推し活 #グッズ厨 https://t.co/7AiNYsHFs5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15400,
+        "height": 720,
+        "media_key": "7_2031171405652570112",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2031171405652570112/pu/img/XOBoGb9Sm5mXGygC.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2031171405652570112/pu/vid/avc1/480x270/hL0Pw9NriXBH-W5a.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2031171405652570112/pu/vid/avc1/640x360/ksLJy2y5iEFaYiOh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2031171405652570112/pu/vid/avc1/1280x720/9eYpgvebab9K2ls2.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2031171405652570112/pu/pl/8ypRNuTfyhtrKGFW.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2031171405652570112"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Mercari (メルカリ)",
+              "id": "1038130137156308992",
+              "name": "Mercari"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mercari (メルカリ)",
+              "id": "1038130137156308992",
+              "name": "Mercari"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1407812892909473795",
+              "name": "eCommerce industry"
+            }
+          }
+        ],
+        "conversation_id": "2031171448501580041",
+        "created_at": "2026-03-10T00:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T01:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031171448501580041"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 90,
+              "start": 84,
+              "tag": "結合_男子"
+            },
+            {
+              "end": 95,
+              "start": 91,
+              "tag": "結_男"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "化学"
+            },
+            {
+              "end": 107,
+              "start": 101,
+              "tag": "推しが尊い"
+            },
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "推し"
+            },
+            {
+              "end": 116,
+              "start": 112,
+              "tag": "推し活"
+            },
+            {
+              "end": 122,
+              "start": 117,
+              "tag": "グッズ厨"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7AiNYsHFs5",
+              "end": 146,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2031171448501580041/video/1",
+              "media_key": "7_2031171405652570112",
+              "start": 123,
+              "url": "https://t.co/7AiNYsHFs5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031171448501580041",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "メルカリでお迎え完了っ!!✨🧪\n来世もずっと、結男しちゃうもんね〜!(੭ु ›ω‹ )੭ु⁾⁾♡\n\n​⊹ ࣪ ˖ ┈┈ ˖ ࣪ ⊹ ┈┈ ⊹ ࣪ ˖ ┈┈ ˖ ࣪ ⊹\n#結合_男子 #結_男 #化学 ​#推しが尊い #推し #推し活 #グッズ厨 https://t.co/7AiNYsHFs5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝒮𝓊𝓏𝓊𝓂ℯ⊹ いつかしまった⌇𝟢𝟧⌇天使界隈⌇水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます 💤\n​他担・他界隈様  ◎  同担  ◎",
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹💙",
+        "pinned_tweet_id": "2008592579928248523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993690122920103936/YFN_sE0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 68,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 83
+        },
+        "username": "aberyoheiskm",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044824719384510464"
+      ]
+    },
+    "author_id": "1804875241367433216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2044824722115088669",
+    "created_at": "2026-04-16T17:06:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T18:06:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044824722115088669"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uoxoxfpjtJ",
+          "end": 124,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2044824722115088669/photo/1",
+          "media_key": "3_2044824719384510464",
+          "start": 101,
+          "url": "https://t.co/uoxoxfpjtJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044824722115088669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那是什么眼神👁️果然是  那种眼神   😨已经不是第一次见到了呢💧那是什么眼神快👁️别这样了😱😭明明只是可爱❤️却像变成了罪人😔脱轨❌脱轨❌崩毁💥脱轨❌精神失常🤕因一个秘密就崩毁💔要坏掉了😭对不起😔💔 https://t.co/uoxoxfpjtJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2270,
+        "media_key": "3_2044824719384510464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGCtP5LaAAAQu7f.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044824719384510464"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044824722115088669",
+        "created_at": "2026-04-16T17:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T18:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044824722115088669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uoxoxfpjtJ",
+              "end": 124,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2044824722115088669/photo/1",
+              "media_key": "3_2044824719384510464",
+              "start": 101,
+              "url": "https://t.co/uoxoxfpjtJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044824722115088669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那是什么眼神👁️果然是  那种眼神   😨已经不是第一次见到了呢💧那是什么眼神快👁️别这样了😱😭明明只是可爱❤️却像变成了罪人😔脱轨❌脱轨❌崩毁💥脱轨❌精神失常🤕因一个秘密就崩毁💔要坏掉了😭对不起😔💔 https://t.co/uoxoxfpjtJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 不安所以到处评论见谅⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 149,
+          "like_count": 1270,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 793
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      }
+    ]
+  }
+}

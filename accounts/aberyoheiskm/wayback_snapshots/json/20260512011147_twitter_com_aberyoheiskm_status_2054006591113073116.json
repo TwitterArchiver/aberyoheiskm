@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2054000038901358762",
+    "created_at": "2026-05-12T01:11:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T02:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054006591113073116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2007534563007049735",
+          "start": 0,
+          "username": "HappyJumpFish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054006591113073116",
+    "in_reply_to_user_id": "2007534563007049735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054005702364926185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HappyJumpFish 但是比较绝望的是家长不是很愿意，而且还搬出那种老一套的说法，说什么现在小孩上学才是最轻松的，上学有什么累的，他们以前没资源学习什么什么样，换作自己这点作业早就写完了还能再干干家务什么的……😰😰😰越听越觉得他们沉浸在自己的艺术里无法自拔了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2054000038901358762",
+        "created_at": "2026-05-12T01:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T02:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054006591113073116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2007534563007049735",
+              "start": 0,
+              "username": "HappyJumpFish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054006591113073116",
+        "in_reply_to_user_id": "2007534563007049735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054005702364926185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HappyJumpFish 但是比较绝望的是家长不是很愿意，而且还搬出那种老一套的说法，说什么现在小孩上学才是最轻松的，上学有什么累的，他们以前没资源学习什么什么样，换作自己这点作业早就写完了还能再干干家务什么的……😰😰😰越听越觉得他们沉浸在自己的艺术里无法自拔了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007534563007049735",
+        "conversation_id": "2054000038901358762",
+        "created_at": "2026-05-12T01:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T02:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054005702364926185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054005702364926185",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054000038901358762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm 不上学是对的，在中国这个教育环境下能忍住的都是少数人，厌学是真的十分正常的心理😖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 小号：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 242,
+          "like_count": 2433,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1399
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T19:29:13.000Z",
+        "description": "魔方速拧爱好者，喜欢吉他，喜欢看书，喜欢写点短篇小说，尤其喜欢村上春树\n一名16岁男高中生，为留学的困难事业热情奋斗中，不希望与没有素质礼貌的人沟通，希望我们能友善地一起交流，很希望成为你的朋友",
+        "id": "2007534563007049735",
+        "name": "はるとLiyuexuan",
+        "pinned_tweet_id": "2041961360884375864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007534827684409344/L95ruiQK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 54,
+          "like_count": 223,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 213
+        },
+        "username": "HappyJumpFish",
+        "verified": false
+      }
+    ]
+  }
+}

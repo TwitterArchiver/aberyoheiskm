@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042981465181560832"
+      ]
+    },
+    "author_id": "1804875241367433216",
+    "conversation_id": "2042908123179159799",
+    "created_at": "2026-04-11T15:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T16:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042981468847378858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1920438574715154432",
+          "start": 0,
+          "username": "jiushubaike"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iJ8Rdr30H2",
+          "end": 62,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2042981468847378858/photo/1",
+          "media_key": "3_2042981465181560832",
+          "start": 39,
+          "url": "https://t.co/iJ8Rdr30H2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042981468847378858",
+    "in_reply_to_user_id": "1920438574715154432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042908123179159799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiushubaike 求助网站打不开了😭😭😭是要登录这个才能进去吗😭😭😭 https://t.co/iJ8Rdr30H2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1738,
+        "media_key": "3_2042981465181560832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFog0YLaoAATZkc.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042981465181560832"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "conversation_id": "2042908123179159799",
+        "created_at": "2026-04-11T15:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T16:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042981468847378858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1920438574715154432",
+              "start": 0,
+              "username": "jiushubaike"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iJ8Rdr30H2",
+              "end": 62,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2042981468847378858/photo/1",
+              "media_key": "3_2042981465181560832",
+              "start": 39,
+              "url": "https://t.co/iJ8Rdr30H2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042981468847378858",
+        "in_reply_to_user_id": "1920438574715154432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042908123179159799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiushubaike 求助网站打不开了😭😭😭是要登录这个才能进去吗😭😭😭 https://t.co/iJ8Rdr30H2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920438574715154432",
+        "conversation_id": "2042908123179159799",
+        "created_at": "2026-04-11T10:10:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042908123179159799"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042908123179159799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "磕药的人都是没有救的，我以后不会劝了，不听话，为了买药撒谎跟你拼命，都是完蛋的人，只有看了我网站丢掉药片的人才救"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 不安所以到处评论见谅⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様  ◎  同担  ◎( 恋愛不可 🆖)看成分回fo↓来提问箱！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 127,
+          "like_count": 839,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 541
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T11:20:19.000Z",
+        "description": "TG交流群：https://t.co/Q0S9z9tNVv\nDC交流群：https://t.co/HId4n2CV2B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/weizhanersheng…",
+                "end": 29,
+                "expanded_url": "https://t.me/weizhanersheng666",
+                "start": 6,
+                "url": "https://t.co/Q0S9z9tNVv"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 59,
+                "expanded_url": "https://discord.gg/XmNt8AXCEb",
+                "start": 36,
+                "url": "https://t.co/HId4n2CV2B"
+              }
+            ]
+          }
+        },
+        "id": "1920438574715154432",
+        "name": "救赎百科",
+        "pinned_tweet_id": "2036728396714311988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036726953869549568/CsU2778i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 298,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 165
+        },
+        "username": "jiushubaike",
+        "verified": false
+      }
+    ]
+  }
+}

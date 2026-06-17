@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2034910998709370909",
+    "created_at": "2026-03-20T08:32:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T09:32:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034910998709370909"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2034910998709370909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好想死好想死好想死好想死好想死好想死好想死好想死好想死好想死真的不想活了我草我瘦不下来啊怎么办好焦虑好痛苦不要这样对我啊我草了我去死好了好想吃东西好想暴饮暴食我做的减脂餐好难吃结果呕吐的时候还把下水管道堵住了666这辈子有了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2034910998709370909",
+        "created_at": "2026-03-20T08:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T09:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034910998709370909"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034910998709370909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想死好想死好想死好想死好想死好想死好想死好想死好想死好想死真的不想活了我草我瘦不下来啊怎么办好焦虑好痛苦不要这样对我啊我草了我去死好了好想吃东西好想暴饮暴食我做的减脂餐好难吃结果呕吐的时候还把下水管道堵住了666这辈子有了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ ࣪いつかしまった⌇𝟢𝟧⌇天使界隈⌇水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます 💤\n​他担・他界隈様  ◎  同担  ◎(𝖫𝗈𝗏𝖾 ✕ ⌇ 恋愛不可 🆖)",
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹💙",
+        "pinned_tweet_id": "2016649422911000724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993690122920103936/YFN_sE0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 76,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 146
+        },
+        "username": "aberyoheiskm",
+        "verified": false
+      }
+    ]
+  }
+}

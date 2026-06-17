@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2041676356615074211",
+    "created_at": "2026-04-09T04:34:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T05:34:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042098744787923189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1843325725694476288",
+          "start": 0,
+          "username": "ba1LoveU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042098744787923189",
+    "in_reply_to_user_id": "1843325725694476288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041676356615074211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ba1LoveU 哦不我现在就是第二条……已经被挑衅了TT……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2041676356615074211",
+        "created_at": "2026-04-09T04:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T05:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042098744787923189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1843325725694476288",
+              "start": 0,
+              "username": "ba1LoveU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042098744787923189",
+        "in_reply_to_user_id": "1843325725694476288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041676356615074211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ba1LoveU 哦不我现在就是第二条……已经被挑衅了TT……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843325725694476288",
+        "conversation_id": "2041676356615074211",
+        "created_at": "2026-04-08T00:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T01:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041676356615074211"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041676356615074211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 213,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喝牛奶，我的肠胃：一直在挑衅我\n我踢被子，我的肠胃：一直在挑衅我\n我穿少了，我的肠胃：一直在挑衅我\n我不吃饭，我的肠胃：一直在挑衅我\n我吃多了，我的肠胃：一直在挑衅我\n我喝冷水，我的肠胃：一直在挑衅我\n我太累了，我的肠胃：一直在挑衅我\n我生气了，我的肠胃：一直在挑衅我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 不安所以到处评论见谅⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様  ◎  同担  ◎( 恋愛不可 🆖)看成分回fo↓来提问箱！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 116,
+          "like_count": 573,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 375
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T16:21:30.000Z",
+        "description": "梦里会遇见在码头吃薯条的海鸥吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ba1loveu",
+                "end": 23,
+                "expanded_url": "http://ngl.link/ba1loveu",
+                "start": 0,
+                "url": "https://t.co/62hAfvNLRx"
+              }
+            ]
+          }
+        },
+        "id": "1843325725694476288",
+        "location": "❤️",
+        "name": "白白🍀",
+        "pinned_tweet_id": "2040738512937652488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040822086462312448/0uUM_IQp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 578,
+          "like_count": 3323,
+          "listed_count": 1,
+          "media_count": 243,
+          "tweet_count": 1620
+        },
+        "url": "https://t.co/62hAfvNLRx",
+        "username": "ba1LoveU",
+        "verified": false
+      }
+    ]
+  }
+}

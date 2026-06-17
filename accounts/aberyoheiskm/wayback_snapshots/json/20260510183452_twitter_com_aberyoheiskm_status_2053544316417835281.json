@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2053535404318490742",
+    "created_at": "2026-05-10T18:34:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T19:34:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053544316417835281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1878441068649426944",
+          "start": 0,
+          "username": "xian_zi17640"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053544316417835281",
+    "in_reply_to_user_id": "1878441068649426944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053535404318490742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xian_zi17640 什么猎奇暗网视频把我看爽了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12033,
+        "height": 1280,
+        "media_key": "7_2053535348890767360",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2053535348890767360/pu/img/N53ZGMAX-vvXBl5o.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053535348890767360/pu/vid/avc1/320x702/BH_hk4KmJkCW4Xfs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053535348890767360/pu/vid/avc1/480x1054/bH7Pz4KvZR0F2YAU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053535348890767360/pu/vid/avc1/582x1280/-9BPLEDbg9J9ALBi.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2053535348890767360/pu/pl/gJG-hCwM0j0uH97Y.m3u8?tag=12"
+          }
+        ],
+        "width": 582
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2053535404318490742",
+        "created_at": "2026-05-10T18:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T19:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053544316417835281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1878441068649426944",
+              "start": 0,
+              "username": "xian_zi17640"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053544316417835281",
+        "in_reply_to_user_id": "1878441068649426944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053535404318490742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xian_zi17640 什么猎奇暗网视频把我看爽了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2053535348890767360"
+          ]
+        },
+        "author_id": "1878441068649426944",
+        "conversation_id": "2053535404318490742",
+        "created_at": "2026-05-10T17:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T18:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053535404318490742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jd9B1rjMwm",
+              "end": 31,
+              "expanded_url": "https://x.com/xian_zi17640/status/2053535404318490742/video/1",
+              "media_key": "7_2053535348890767360",
+              "start": 8,
+              "url": "https://t.co/Jd9B1rjMwm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053535404318490742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想歪的出去罚站 https://t.co/Jd9B1rjMwm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 小号：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 242,
+          "like_count": 2410,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 1377
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T13:57:19.000Z",
+        "description": "名字:xx辉  生日:1215或1209  身高:160以上  体重:不知道  年龄:15  心理年龄:16  性别:未知  心理性别:猫娘  身高:我也不知道  性格:随机  听不懂客家看不懂粤语的一个废广东人 招蚊体质 免费树洞欢迎来找我聊天",
+        "id": "1878441068649426944",
+        "name": "huizxlkファイ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041259774965395456/QJN4Ra5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 258,
+          "like_count": 897,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 825
+        },
+        "username": "xian_zi17640",
+        "verified": false
+      }
+    ]
+  }
+}

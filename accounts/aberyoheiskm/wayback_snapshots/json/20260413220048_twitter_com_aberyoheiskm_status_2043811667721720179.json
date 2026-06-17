@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2043811667721720179",
+    "created_at": "2026-04-13T22:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T23:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043811667721720179"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/6mhzph/status/…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/6mhzph/status/2043507316943954030",
+          "start": 29,
+          "url": "https://t.co/q6EMEFdOgK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043811667721720179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043507316943954030",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有这种好事吗……🥹\n我能不能直接〇Ð晕倒三天快进一下🤤 https://t.co/q6EMEFdOgK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2043811667721720179",
+        "created_at": "2026-04-13T22:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T23:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043811667721720179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/6mhzph/status/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/6mhzph/status/2043507316943954030",
+              "start": 29,
+              "url": "https://t.co/q6EMEFdOgK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043811667721720179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043507316943954030",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有这种好事吗……🥹\n我能不能直接〇Ð晕倒三天快进一下🤤 https://t.co/q6EMEFdOgK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672461374180450305",
+        "conversation_id": "2043507316943954030",
+        "created_at": "2026-04-13T01:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T02:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043507316943954030"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043507316943954030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1098,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果寿命只剩下三天都会做什么呢.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 不安所以到处评论见谅⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 141,
+          "like_count": 1023,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 640
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-24T04:27:28.000Z",
+        "description": "想成为大家的情绪垃圾桶🗑️                                                           07小孩 / 🇮 🇳 🇫 🇵 / 互fo / #树洞 / 精神病人 / 心理敏感 / 大一休学 / 永远的艾拉厨/最爱的@siuuuuneo｜下面有好玩的喵↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 98,
+                "start": 95,
+                "tag": "树洞"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 142,
+                "start": 132,
+                "username": "siuuuuneo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aidn.jp/mikutap/",
+                "end": 23,
+                "expanded_url": "https://aidn.jp/mikutap/",
+                "start": 0,
+                "url": "https://t.co/U7b6ZO9vMm"
+              }
+            ]
+          }
+        },
+        "id": "1672461374180450305",
+        "location": "距离520km",
+        "name": "inia🌠",
+        "pinned_tweet_id": "1998113705805193226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005808317197922304/KkK6l6bM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 258,
+          "like_count": 1760,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1271
+        },
+        "url": "https://t.co/U7b6ZO9vMm",
+        "username": "6mhzph",
+        "verified": true
+      }
+    ]
+  }
+}

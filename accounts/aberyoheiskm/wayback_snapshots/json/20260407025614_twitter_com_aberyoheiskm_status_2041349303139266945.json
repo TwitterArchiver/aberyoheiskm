@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2041349303139266945",
+    "created_at": "2026-04-07T02:56:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T03:56:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041349303139266945"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aberyoheiskm/s…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/aberyoheiskm/status/2041254084691546525",
+          "start": 60,
+          "url": "https://t.co/9N34je730K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041349303139266945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041254084691546525",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个命还是别保了😅这女的谁啊长这么丑谁老婆早该死了怎么还不跳楼啊当初不是说好自杀的的吗搁这吹牛逼呢活着心里踏实吗？？？ https://t.co/9N34je730K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 814,
+        "media_key": "3_2041254082082664448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFP9xcracAAnO4e.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2041349303139266945",
+        "created_at": "2026-04-07T02:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T03:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041349303139266945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aberyoheiskm/s…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/aberyoheiskm/status/2041254084691546525",
+              "start": 60,
+              "url": "https://t.co/9N34je730K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041349303139266945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041254084691546525",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个命还是别保了😅这女的谁啊长这么丑谁老婆早该死了怎么还不跳楼啊当初不是说好自杀的的吗搁这吹牛逼呢活着心里踏实吗？？？ https://t.co/9N34je730K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041254082082664448"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "conversation_id": "2041254084691546525",
+        "created_at": "2026-04-06T20:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T21:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041254084691546525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vL5GqL6O4v",
+              "end": 33,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2041254084691546525/photo/1",
+              "media_key": "3_2041254082082664448",
+              "start": 10,
+              "url": "https://t.co/vL5GqL6O4v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041254084691546525",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "半夜被ai聊哭了🥹 https://t.co/vL5GqL6O4v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 逃避墙内把x当家版⌇𝟢𝟧⌇天使界隈⌇水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます 💤\n​他担・他界隈様  ◎  同担  ◎( 恋愛不可 🆖)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 96,
+          "like_count": 432,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 326
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      }
+    ]
+  }
+}

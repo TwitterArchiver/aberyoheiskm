@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2058937911828242821",
+    "created_at": "2026-05-25T15:49:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T16:49:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058938429682131294"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058938429682131294",
+    "in_reply_to_user_id": "1804875241367433216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058937911828242821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吃糖怎么减肥啊我草，照这样下去我天天晚上得吃糖，难道说我天天晚上抱着个零卡糖吃吗呜呜呜呜呜呜呜呜呜\n明明是咽下去的怎么这么苦啊？对这个说会有苦味我也早有耳闻也做好准备了怎么这么苦，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，要崩溃了，，，，，，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1890,
+        "media_key": "3_2058937885186019328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLRGQ0bUAAzH3s.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2058937911828242821",
+        "created_at": "2026-05-25T15:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058938429682131294"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058938429682131294",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058937911828242821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吃糖怎么减肥啊我草，照这样下去我天天晚上得吃糖，难道说我天天晚上抱着个零卡糖吃吗呜呜呜呜呜呜呜呜呜\n明明是咽下去的怎么这么苦啊？对这个说会有苦味我也早有耳闻也做好准备了怎么这么苦，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，，要崩溃了，，，，，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058937885186019328"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "conversation_id": "2058937911828242821",
+        "created_at": "2026-05-25T15:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058937911828242821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GpJvPgo5Pf",
+              "end": 135,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2058937911828242821/photo/1",
+              "media_key": "3_2058937885186019328",
+              "start": 112,
+              "url": "https://t.co/GpJvPgo5Pf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058937911828242821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我草啊右佐苦死我了卧槽卧槽卧槽我草我草我草现在吃糖都缓解不了那个苦味沃日沃日真的好苦好苦我要糖我要糖\n（一开始还在怎么这么小 是不是药效不过啊什么的 我草我已经要被苦死了！！😭😭😭我喝中药都没这么怕苦过这个怎么回事啊！！） https://t.co/GpJvPgo5Pf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 小号：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 279,
+          "like_count": 2844,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 1714
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      }
+    ]
+  }
+}

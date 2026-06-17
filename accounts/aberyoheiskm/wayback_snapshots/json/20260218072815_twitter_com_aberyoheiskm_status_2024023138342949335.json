@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2023739814601015406",
+    "created_at": "2026-02-18T07:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T08:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024023138342949335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2013943666084339713",
+          "start": 0,
+          "username": "dou_jue96788"
+        },
+        {
+          "end": 22,
+          "id": "1821560692140544000",
+          "start": 14,
+          "username": "Numiouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024023138342949335",
+    "in_reply_to_user_id": "2013943666084339713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023777036100399166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dou_jue96788 @Numiouo ∑竟然是这样吗、那有什么好的办法吗orz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2023739814601015406",
+        "created_at": "2026-02-18T07:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T08:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024023138342949335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2013943666084339713",
+              "start": 0,
+              "username": "dou_jue96788"
+            },
+            {
+              "end": 22,
+              "id": "1821560692140544000",
+              "start": 14,
+              "username": "Numiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024023138342949335",
+        "in_reply_to_user_id": "2013943666084339713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023777036100399166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dou_jue96788 @Numiouo ∑竟然是这样吗、那有什么好的办法吗orz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013943666084339713",
+        "conversation_id": "2023739814601015406",
+        "created_at": "2026-02-17T15:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T16:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023777036100399166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            },
+            {
+              "end": 22,
+              "id": "1821560692140544000",
+              "start": 14,
+              "username": "Numiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023777036100399166",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023744159044300993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm @Numiouo 寶寶你這個就是嚴重過敏了⋯⋯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "いつかしまった",
+        "id": "1804875241367433216",
+        "name": "すずめたん",
+        "pinned_tweet_id": "2008592579928248523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993690122920103936/YFN_sE0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 55,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 67
+        },
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T11:56:16.000Z",
+        "description": "同類互fo 隨便叫我什麼都行 爭取早日o死飛昇中 喜歡交朋友快來找我聊天呀",
+        "id": "2013943666084339713",
+        "name": "小卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014257037342027776/P9XLzj0q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 57,
+          "like_count": 574,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "dou_jue96788",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "糯米守护互关们(っ˘зʕ•̫͡•ʔ纯血精神病-同类回fo漏fo可私-爱点赞评论-讨厌私信闲聊♡喜欢sex & drug♡除推文外 不提供咨询解答 ♡non-binary友全部🏳️‍🌈🏳️‍⚧️",
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ",
+        "pinned_tweet_id": "1988581028534059496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998372144540164096/6L5oLwea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2515,
+          "following_count": 1797,
+          "like_count": 6269,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 5926
+        },
+        "username": "Numiouo",
+        "verified": false
+      }
+    ]
+  }
+}

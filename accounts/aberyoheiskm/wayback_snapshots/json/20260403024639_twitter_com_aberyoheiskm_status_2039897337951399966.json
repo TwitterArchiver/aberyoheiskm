@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039897328480661504",
+        "3_2039897328488943616",
+        "3_2039897328430264320",
+        "3_2039897329113960448"
+      ]
+    },
+    "author_id": "1804875241367433216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2039897337951399966",
+    "created_at": "2026-04-03T02:46:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T03:46:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039897337951399966"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iZSIagu6Oy",
+          "end": 140,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2039897337951399966/photo/1",
+          "media_key": "3_2039897328480661504",
+          "start": 117,
+          "url": "https://t.co/iZSIagu6Oy"
+        },
+        {
+          "display_url": "pic.x.com/iZSIagu6Oy",
+          "end": 140,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2039897337951399966/photo/1",
+          "media_key": "3_2039897328488943616",
+          "start": 117,
+          "url": "https://t.co/iZSIagu6Oy"
+        },
+        {
+          "display_url": "pic.x.com/iZSIagu6Oy",
+          "end": 140,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2039897337951399966/photo/1",
+          "media_key": "3_2039897328430264320",
+          "start": 117,
+          "url": "https://t.co/iZSIagu6Oy"
+        },
+        {
+          "display_url": "pic.x.com/iZSIagu6Oy",
+          "end": 140,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2039897337951399966/photo/1",
+          "media_key": "3_2039897329113960448",
+          "start": 117,
+          "url": "https://t.co/iZSIagu6Oy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039897337951399966",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的被问的怀疑人生了\n好像所有问题都在我身上一样\n为什么觉得自己是个病人\n为什么要吃药，觉得吃药有用是吗\n为什么不离开原生家庭\n为什么不自己生活\n我明明好不容易和自己和解了的……\n都怪我是吧\n全都是我的错\n全部あたしのせいだよ^^ https://t.co/iZSIagu6Oy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1961,
+        "media_key": "3_2039897328480661504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE8rz_pbsAA8Tt5.jpg",
+        "width": 776
+      },
+      {
+        "height": 1836,
+        "media_key": "3_2039897328488943616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE8rz_raEAAjeuX.jpg",
+        "width": 773
+      },
+      {
+        "height": 2067,
+        "media_key": "3_2039897328430264320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE8rz_dasAAGqnB.jpg",
+        "width": 928
+      },
+      {
+        "height": 1299,
+        "media_key": "3_2039897329113960448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE8r0CAbEAAGvm0.jpg",
+        "width": 774
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039897328480661504",
+            "3_2039897328488943616",
+            "3_2039897328430264320",
+            "3_2039897329113960448"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039897337951399966",
+        "created_at": "2026-04-03T02:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T03:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039897337951399966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iZSIagu6Oy",
+              "end": 140,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2039897337951399966/photo/1",
+              "media_key": "3_2039897328480661504",
+              "start": 117,
+              "url": "https://t.co/iZSIagu6Oy"
+            },
+            {
+              "display_url": "pic.x.com/iZSIagu6Oy",
+              "end": 140,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2039897337951399966/photo/1",
+              "media_key": "3_2039897328488943616",
+              "start": 117,
+              "url": "https://t.co/iZSIagu6Oy"
+            },
+            {
+              "display_url": "pic.x.com/iZSIagu6Oy",
+              "end": 140,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2039897337951399966/photo/1",
+              "media_key": "3_2039897328430264320",
+              "start": 117,
+              "url": "https://t.co/iZSIagu6Oy"
+            },
+            {
+              "display_url": "pic.x.com/iZSIagu6Oy",
+              "end": 140,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2039897337951399966/photo/1",
+              "media_key": "3_2039897329113960448",
+              "start": 117,
+              "url": "https://t.co/iZSIagu6Oy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039897337951399966",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的被问的怀疑人生了\n好像所有问题都在我身上一样\n为什么觉得自己是个病人\n为什么要吃药，觉得吃药有用是吗\n为什么不离开原生家庭\n为什么不自己生活\n我明明好不容易和自己和解了的……\n都怪我是吧\n全都是我的错\n全部あたしのせいだよ^^ https://t.co/iZSIagu6Oy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ ࣪いつかしまった⌇𝟢𝟧⌇天使界隈⌇水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます 💤\n​他担・他界隈様  ◎  同担  ◎( 恋愛不可 🆖)",
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2039523324586541170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993690122920103936/YFN_sE0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 97,
+          "like_count": 278,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 222
+        },
+        "username": "aberyoheiskm",
+        "verified": false
+      }
+    ]
+  }
+}

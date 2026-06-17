@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058458156699967488"
+      ]
+    },
+    "author_id": "1804875241367433216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058458165235359793",
+    "created_at": "2026-05-24T08:00:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T09:00:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058458165235359793"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LnxWcfAHBh",
+          "end": 23,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2058458165235359793/photo/1",
+          "media_key": "3_2058458156699967488",
+          "start": 0,
+          "url": "https://t.co/LnxWcfAHBh"
+        },
+        {
+          "display_url": "x.com/aberyoheiskm/s…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/aberyoheiskm/status/2057568096408506573",
+          "start": 24,
+          "url": "https://t.co/I6wbAdElMU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058458165235359793",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057568096408506573",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/LnxWcfAHBh https://t.co/I6wbAdElMU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1452,
+        "media_key": "3_2058458156699967488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJEcyY8bYAAdFUK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1538,
+        "media_key": "3_2057568092998569984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI3zR3RbkAAitAN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058458156699967488"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058458165235359793",
+        "created_at": "2026-05-24T08:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T09:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058458165235359793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LnxWcfAHBh",
+              "end": 23,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2058458165235359793/photo/1",
+              "media_key": "3_2058458156699967488",
+              "start": 0,
+              "url": "https://t.co/LnxWcfAHBh"
+            },
+            {
+              "display_url": "x.com/aberyoheiskm/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/aberyoheiskm/status/2057568096408506573",
+              "start": 24,
+              "url": "https://t.co/I6wbAdElMU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058458165235359793",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057568096408506573",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/LnxWcfAHBh https://t.co/I6wbAdElMU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057568092998569984"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "conversation_id": "2057568096408506573",
+        "created_at": "2026-05-21T21:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T22:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057568096408506573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ByRKVK3iNm",
+              "end": 63,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2057568096408506573/photo/1",
+              "media_key": "3_2057568092998569984",
+              "start": 40,
+              "url": "https://t.co/ByRKVK3iNm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057568096408506573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 24028,
+          "like_count": 115,
+          "quote_count": 8,
+          "reply_count": 31,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "剧烈避雷这个牌子的卫生巾……一股愈创甘油醚的味道……特别特别浓……谁敢闻😭😭😭 https://t.co/ByRKVK3iNm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 小号：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 266,
+          "like_count": 2624,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 1587
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      }
+    ]
+  }
+}

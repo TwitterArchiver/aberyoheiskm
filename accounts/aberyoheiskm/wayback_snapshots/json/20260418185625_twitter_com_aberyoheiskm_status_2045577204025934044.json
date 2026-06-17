@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2045574536008270137",
+    "created_at": "2026-04-18T18:56:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T19:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045577204025934044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1746556017683644416",
+          "start": 0,
+          "username": "hualuo2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045577204025934044",
+    "in_reply_to_user_id": "1746556017683644416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045574536008270137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hualuo2022 ∑（虽然很心疼但是真的好好看……）一定要及时消毒哇߹ ߹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045574501476556800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGNXK9IbYAANK8Y.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045574501510033408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGNXK9QaMAAue2l.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2045574536008270137",
+        "created_at": "2026-04-18T18:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T19:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045577204025934044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1746556017683644416",
+              "start": 0,
+              "username": "hualuo2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045577204025934044",
+        "in_reply_to_user_id": "1746556017683644416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045574536008270137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hualuo2022 ∑（虽然很心疼但是真的好好看……）一定要及时消毒哇߹ ߹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045574501476556800",
+            "3_2045574501510033408"
+          ]
+        },
+        "author_id": "1746556017683644416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2045574536008270137",
+        "created_at": "2026-04-18T18:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T19:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045574536008270137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CTBRa6dwq1",
+              "end": 40,
+              "expanded_url": "https://x.com/hualuo2022/status/2045574536008270137/photo/1",
+              "media_key": "3_2045574501476556800",
+              "start": 17,
+              "url": "https://t.co/CTBRa6dwq1"
+            },
+            {
+              "display_url": "pic.x.com/CTBRa6dwq1",
+              "end": 40,
+              "expanded_url": "https://x.com/hualuo2022/status/2045574536008270137/photo/1",
+              "media_key": "3_2045574501510033408",
+              "start": 17,
+              "url": "https://t.co/CTBRa6dwq1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045574536008270137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两张酒精湿巾搞定，快速结束战斗🥰 https://t.co/CTBRa6dwq1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 不安所以到处评论见谅⌇逃离墙内中⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 157,
+          "like_count": 1618,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 957
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T15:33:23.000Z",
+        "description": "这里什么都没有",
+        "id": "1746556017683644416",
+        "name": "卷毛狗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021659585107668992/kBqLe48K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 232,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 153
+        },
+        "username": "hualuo2022",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2036664943383310534",
+    "created_at": "2026-03-25T05:51:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T06:51:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036682447451205982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1914017703888838656",
+          "start": 0,
+          "username": "i_love_reiwa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036682447451205982",
+    "in_reply_to_user_id": "1914017703888838656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036664943383310534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@i_love_reiwa ピース＆ラブ🕊️🌐💗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1516,
+        "media_key": "3_2036664937419014144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEOv-ElagAAn0TQ.jpg",
+        "width": 1213
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2036664943383310534",
+        "created_at": "2026-03-25T05:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T06:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036682447451205982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1914017703888838656",
+              "start": 0,
+              "username": "i_love_reiwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036682447451205982",
+        "in_reply_to_user_id": "1914017703888838656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036664943383310534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@i_love_reiwa ピース＆ラブ🕊️🌐💗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036664937419014144"
+          ]
+        },
+        "author_id": "1914017703888838656",
+        "conversation_id": "2036664943383310534",
+        "created_at": "2026-03-25T04:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T05:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036664943383310534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lvyW1U8upz",
+              "end": 39,
+              "expanded_url": "https://x.com/i_love_reiwa/status/2036664943383310534/photo/1",
+              "media_key": "3_2036664937419014144",
+              "start": 16,
+              "url": "https://t.co/lvyW1U8upz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036664943383310534",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 239,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "戦争はダメ\n\nシンプルでしょ？ https://t.co/lvyW1U8upz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ ࣪いつかしまった⌇𝟢𝟧⌇天使界隈⌇水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます 💤\n​他担・他界隈様  ◎  同担  ◎(𝖫𝗈𝗏𝖾 ✕ ⌇ 恋愛不可 🆖)",
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹💙",
+        "pinned_tweet_id": "2016649422911000724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993690122920103936/YFN_sE0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 82,
+          "like_count": 212,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 164
+        },
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T18:06:07.000Z",
+        "description": "しんどいのは自分だけじゃない。ニュースの向こうに、同じ思いの人がたくさんいる。だから一緒に変えたい。あきらめずに希望を持ち続けたい！　お問い合わせはDMまで！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/i_love_reiwa",
+                "end": 23,
+                "expanded_url": "https://note.com/i_love_reiwa",
+                "start": 0,
+                "url": "https://t.co/tCaFYxdRcz"
+              }
+            ]
+          }
+        },
+        "id": "1914017703888838656",
+        "location": "京都",
+        "name": "ささみ",
+        "pinned_tweet_id": "2034922104425156810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916619401337688064/1sAGcgib_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6972,
+          "following_count": 1865,
+          "like_count": 16769,
+          "listed_count": 438,
+          "media_count": 235,
+          "tweet_count": 3485
+        },
+        "url": "https://t.co/tCaFYxdRcz",
+        "username": "i_love_reiwa",
+        "verified": false
+      }
+    ]
+  }
+}

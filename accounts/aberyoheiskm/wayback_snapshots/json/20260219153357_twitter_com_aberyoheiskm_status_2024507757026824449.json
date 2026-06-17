@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2024402970453180680",
+    "created_at": "2026-02-19T15:33:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T16:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024507757026824449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2883213786",
+          "start": 0,
+          "username": "hitorikanawo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024507757026824449",
+    "in_reply_to_user_id": "2883213786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024402970453180680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hitorikanawo 我要去尿尿淹了日本了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2024402944993742848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgfwLKbUAAQqFi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2024402970453180680",
+        "created_at": "2026-02-19T15:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T16:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024507757026824449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2883213786",
+              "start": 0,
+              "username": "hitorikanawo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024507757026824449",
+        "in_reply_to_user_id": "2883213786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024402970453180680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hitorikanawo 我要去尿尿淹了日本了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024402944993742848"
+          ]
+        },
+        "author_id": "2883213786",
+        "conversation_id": "2024402970453180680",
+        "created_at": "2026-02-19T08:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T09:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024402970453180680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XEob0PVCFm",
+              "end": 23,
+              "expanded_url": "https://x.com/hitorikanawo/status/2024402970453180680/photo/1",
+              "media_key": "3_2024402944993742848",
+              "start": 0,
+              "url": "https://t.co/XEob0PVCFm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024402970453180680",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 167,
+          "impression_count": 36310,
+          "like_count": 835,
+          "quote_count": 98,
+          "reply_count": 384,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XEob0PVCFm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "いつかしまった",
+        "id": "1804875241367433216",
+        "name": "すずめたん💙",
+        "pinned_tweet_id": "2008592579928248523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993690122920103936/YFN_sE0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 58,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 75
+        },
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-30T11:39:58.000Z",
+        "description": "PPP Sounds所属。癖なものを描いています イラスト・曲 作ります youtube：https://t.co/pKDBCrZd0j skeb：https://t.co/XEn6030RLo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ppp_sounds",
+                "end": 68,
+                "expanded_url": "https://www.youtube.com/@ppp_sounds",
+                "start": 45,
+                "url": "https://t.co/pKDBCrZd0j"
+              },
+              {
+                "display_url": "skeb.jp/@hitorikanawo",
+                "end": 97,
+                "expanded_url": "https://skeb.jp/@hitorikanawo",
+                "start": 74,
+                "url": "https://t.co/XEn6030RLo"
+              }
+            ]
+          }
+        },
+        "id": "2883213786",
+        "name": "LOL-苦解幸成",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874803901884723200/SCK8C7AP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32350,
+          "following_count": 8677,
+          "like_count": 19831,
+          "listed_count": 103,
+          "media_count": 92,
+          "tweet_count": 231
+        },
+        "username": "hitorikanawo",
+        "verified": false
+      }
+    ]
+  }
+}

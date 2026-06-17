@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2012257997435847092",
+    "created_at": "2026-01-23T17:06:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T18:06:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014746465168670980"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 29,
+          "normalized_text": "福瑞",
+          "probability": 0.4745,
+          "start": 28,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "965248178177134592",
+          "start": 0,
+          "username": "tzhhone1"
+        },
+        {
+          "end": 25,
+          "id": "1796937387899064320",
+          "start": 10,
+          "username": "CleverFf050755"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014746465168670980",
+    "in_reply_to_user_id": "965248178177134592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012616796663132521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tzhhone1 @CleverFf050755 普通福瑞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2012257997435847092",
+        "created_at": "2026-01-23T17:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T18:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014746465168670980"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "福瑞",
+              "probability": 0.4745,
+              "start": 28,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "965248178177134592",
+              "start": 0,
+              "username": "tzhhone1"
+            },
+            {
+              "end": 25,
+              "id": "1796937387899064320",
+              "start": 10,
+              "username": "CleverFf050755"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014746465168670980",
+        "in_reply_to_user_id": "965248178177134592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012616796663132521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tzhhone1 @CleverFf050755 普通福瑞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "965248178177134592",
+        "conversation_id": "2012257997435847092",
+        "created_at": "2026-01-17T20:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T21:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012616796663132521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1796937387899064320",
+              "start": 0,
+              "username": "CleverFf050755"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012616796663132521",
+        "in_reply_to_user_id": "1796937387899064320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 27162,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012257997435847092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CleverFf050755 不懂就问，普瑞是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "いつかしまった",
+        "id": "1804875241367433216",
+        "name": "すずめたん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993690122920103936/YFN_sE0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 29,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-18T15:34:33.000Z",
+        "description": "区块链攻城狮 👨‍💻 | 链上侦探 🕵️‍ | 教程分享 📝 | 不定时抽奖 🎁 | 所有发帖均是自言自语不构成任何投资建议 | #蓝识社群 共同创办人| #币安广场创作者 | #Binance | DYOR",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 70,
+                "start": 65,
+                "tag": "蓝识社群"
+              },
+              {
+                "end": 86,
+                "start": 78,
+                "tag": "币安广场创作者"
+              },
+              {
+                "end": 97,
+                "start": 89,
+                "tag": "Binance"
+              }
+            ]
+          }
+        },
+        "id": "965248178177134592",
+        "location": "天天都犯困",
+        "name": "小天0xOne",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922609581789782016/_DDgXbQY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6007,
+          "following_count": 2551,
+          "like_count": 12103,
+          "listed_count": 21,
+          "media_count": 379,
+          "tweet_count": 6963
+        },
+        "username": "tzhhone1",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-01T16:11:39.000Z",
+        "description": "完全理解一个人是异常困难的，你所能做的只能是理解，再理解。\n提问盒：https://t.co/ZSBub0KBoe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/texas96541",
+                "end": 57,
+                "expanded_url": "https://ngl.link/texas96541",
+                "start": 34,
+                "url": "https://t.co/ZSBub0KBoe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/T0F6hStYWr"
+              }
+            ]
+          }
+        },
+        "id": "1796937387899064320",
+        "location": "普瑞巴林生产制造区A3车间",
+        "name": "Texas#缄默",
+        "pinned_tweet_id": "2000592634600149206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009457486680760321/2cLUiZf9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 259,
+          "like_count": 195,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 2110
+        },
+        "url": "https://t.co/T0F6hStYWr",
+        "username": "CleverFf050755",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2051675873347309844",
+    "created_at": "2026-05-05T15:07:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T16:07:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051680198157037999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1926826099406737409",
+          "start": 0,
+          "username": "TeA_3_xx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051680198157037999",
+    "in_reply_to_user_id": "1926826099406737409",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051679334520569901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TeA_3_xx てあちゃん!!ありがとうwww😭😭😭めっちゃ感動してるんだ\nてあちゃんもとってもかっわ!!💖💞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2051675873347309844",
+        "created_at": "2026-05-05T15:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T16:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051680198157037999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1926826099406737409",
+              "start": 0,
+              "username": "TeA_3_xx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051680198157037999",
+        "in_reply_to_user_id": "1926826099406737409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051679334520569901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TeA_3_xx てあちゃん!!ありがとうwww😭😭😭めっちゃ感動してるんだ\nてあちゃんもとってもかっわ!!💖💞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926826099406737409",
+        "conversation_id": "2051675873347309844",
+        "created_at": "2026-05-05T15:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T16:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051679334520569901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051679334520569901",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051675873347309844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm とてもかわいい！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 小号：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 235,
+          "like_count": 2309,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1314
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T02:22:08.000Z",
+        "description": "いいねはなかよくしたい気持ちの現れ",
+        "id": "1926826099406737409",
+        "location": "♡トラマ♡ガバリ♡カリソ♡ハイプ♡DXM etc…",
+        "name": "てあ",
+        "pinned_tweet_id": "1934987400952074532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033540200560005123/AtNGkZ4l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 19,
+          "like_count": 894,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 437
+        },
+        "username": "TeA_3_xx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2041879041150685306",
+    "created_at": "2026-04-09T14:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T15:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042241670100717778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1866114456411099137",
+          "start": 0,
+          "username": "rinko910409"
+        },
+        {
+          "end": 25,
+          "id": "1458297761552826369",
+          "start": 13,
+          "username": "Dicencencen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042241670100717778",
+    "in_reply_to_user_id": "1866114456411099137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042238219736207567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rinko910409 @Dicencencen 我之前确实也遇到过一个年轻的，不过应该也是太年轻的缘故，好像只能开药，现病史都是完全复制上一个医生的不做任何删改😰不知道怎么回事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2041879041150685306",
+        "created_at": "2026-04-09T14:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T15:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042241670100717778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1866114456411099137",
+              "start": 0,
+              "username": "rinko910409"
+            },
+            {
+              "end": 25,
+              "id": "1458297761552826369",
+              "start": 13,
+              "username": "Dicencencen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042241670100717778",
+        "in_reply_to_user_id": "1866114456411099137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042238219736207567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rinko910409 @Dicencencen 我之前确实也遇到过一个年轻的，不过应该也是太年轻的缘故，好像只能开药，现病史都是完全复制上一个医生的不做任何删改😰不知道怎么回事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866114456411099137",
+        "conversation_id": "2041879041150685306",
+        "created_at": "2026-04-09T13:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T14:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042238219736207567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1458297761552826369",
+              "start": 0,
+              "username": "Dicencencen"
+            },
+            {
+              "end": 26,
+              "id": "1804875241367433216",
+              "start": 13,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042238219736207567",
+        "in_reply_to_user_id": "1458297761552826369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042225659410538994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dicencencen @aberyoheiskm 那个心理医生就是很年轻的😨应该是刚毕业，反而另一个年龄老一点的医生要好一些（可能是有经验吧）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 不安所以到处评论见谅⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様  ◎  同担  ◎( 恋愛不可 🆖)看成分回fo↓来提问箱！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 121,
+          "like_count": 658,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 436
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T13:35:42.000Z",
+        "description": "",
+        "id": "1866114456411099137",
+        "location": "六本木",
+        "name": "りんこShirokane",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866337684836564992/RRKoiS-5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 332,
+          "like_count": 1908,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 478
+        },
+        "username": "rinko910409",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-10T04:57:45.000Z",
+        "description": "心理学B/神经科学M/医学PhD（在读）/LGBTQ友好/废物留子/原耽网文爱好者",
+        "id": "1458297761552826369",
+        "name": "DOMIDO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974525038792744961/O6Fn5KQ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 52,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 126
+        },
+        "username": "Dicencencen",
+        "verified": false
+      }
+    ]
+  }
+}

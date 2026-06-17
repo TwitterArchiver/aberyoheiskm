@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2034418558890029081",
+    "created_at": "2026-03-19T03:30:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T04:30:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034472647669715139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2014105862105890816",
+          "start": 0,
+          "username": "8eEm4JEgAa5527"
+        },
+        {
+          "end": 28,
+          "id": "1560960195676622848",
+          "start": 16,
+          "username": "cookkingali"
+        },
+        {
+          "end": 43,
+          "id": "992679391405662209",
+          "start": 29,
+          "username": "nixon1972viet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034472647669715139",
+    "in_reply_to_user_id": "2014105862105890816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034462482681729407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8eEm4JEgAa5527 @cookkingali @nixon1972viet やっぱり仲良くやるのが一番!!あんまり怒らないでね˙ᵕ˙ᰔ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2034418558890029081",
+        "created_at": "2026-03-19T03:30:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T04:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034472647669715139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2014105862105890816",
+              "start": 0,
+              "username": "8eEm4JEgAa5527"
+            },
+            {
+              "end": 28,
+              "id": "1560960195676622848",
+              "start": 16,
+              "username": "cookkingali"
+            },
+            {
+              "end": 43,
+              "id": "992679391405662209",
+              "start": 29,
+              "username": "nixon1972viet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034472647669715139",
+        "in_reply_to_user_id": "2014105862105890816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034462482681729407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8eEm4JEgAa5527 @cookkingali @nixon1972viet やっぱり仲良くやるのが一番!!あんまり怒らないでね˙ᵕ˙ᰔ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014105862105890816",
+        "conversation_id": "2034418558890029081",
+        "created_at": "2026-03-19T02:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T03:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034462482681729407"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 52,
+              "normalized_text": "中国",
+              "probability": 0.8317,
+              "start": 51,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560960195676622848",
+              "start": 0,
+              "username": "cookkingali"
+            },
+            {
+              "end": 27,
+              "id": "992679391405662209",
+              "start": 13,
+              "username": "nixon1972viet"
+            }
+          ],
+          "urls": [
+            {
+              "description": "世界の嫌われている国ランキング | World Invest は、海外不動産投資ポータルサイト。日本人投資家のための海外不動産投資情報を提供する会社です。ドバイ不動産、フィリピン不動産、カンボジア不動産、エジプト不動産・・・と幅広い外国の不動産投資情報を提供します。",
+              "display_url": "worldinvest.jp/hated-contory-…",
+              "end": 117,
+              "expanded_url": "https://worldinvest.jp/hated-contory-ranking/",
+              "images": [
+                {
+                  "height": 50,
+                  "url": "https://pbs.twimg.com/news_img/2033392202307760128/NBwgZRBc?format=png&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 50,
+                  "url": "https://pbs.twimg.com/news_img/2033392202307760128/NBwgZRBc?format=png&name=150x150",
+                  "width": 50
+                }
+              ],
+              "start": 94,
+              "status": 200,
+              "title": "世界の嫌われている国ランキング | World Invest",
+              "unwound_url": "https://worldinvest.jp/hated-contory-ranking/",
+              "url": "https://t.co/HtmK0DLWm8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034462482681729407",
+        "in_reply_to_user_id": "1560960195676622848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034461838348612076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cookkingali @nixon1972viet そんなことないよ。この嫌われてる国ランキングで中国は1位でしょ？俺のは、狭量な島国的な考えじゃなくて、世界的に普遍的な考えなんだよ。https://t.co/HtmK0DLWm8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ ࣪いつかしまった⌇𝟢𝟧⌇天使界隈⌇水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます 💤\n​他担・他界隈様  ◎  同担  ◎(𝖫𝗈𝗏𝖾 ✕ ⌇ 恋愛不可 🆖)",
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹💙",
+        "pinned_tweet_id": "2016649422911000724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993690122920103936/YFN_sE0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 76,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 131
+        },
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T22:40:51.000Z",
+        "description": "日本と日本人を守ろう！フォローよろしくお願いします！",
+        "id": "2014105862105890816",
+        "name": "んだつ",
+        "pinned_tweet_id": "2027538100491264490",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 1,
+          "like_count": 838,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 4417
+        },
+        "username": "8eEm4JEgAa5527",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-20T12:02:11.000Z",
+        "description": "",
+        "id": "1560960195676622848",
+        "location": "Earth",
+        "name": "alilibuda",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846562626970738688/xygxfnvW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 15,
+          "like_count": 146,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 75
+        },
+        "username": "cookkingali",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-05T08:16:24.000Z",
+        "description": "1000000% safe account・東京外大❓年生・すらーばうくらいーに🇺🇦・カザフ留学終わった！🇰🇿",
+        "id": "992679391405662209",
+        "location": "こりん星",
+        "name": "ニチャリク 🍎",
+        "pinned_tweet_id": "1928711986348515645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950116552667287552/LCTAjxzE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4395,
+          "following_count": 1349,
+          "like_count": 591425,
+          "listed_count": 35,
+          "media_count": 6762,
+          "tweet_count": 43016
+        },
+        "username": "nixon1972viet",
+        "verified": false
+      }
+    ]
+  }
+}

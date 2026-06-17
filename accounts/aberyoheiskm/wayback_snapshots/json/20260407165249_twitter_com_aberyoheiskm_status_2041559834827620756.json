@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2041535273876779273",
+    "created_at": "2026-04-07T16:52:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T17:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041559834827620756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1761631129331957760",
+          "start": 0,
+          "username": "himuro155"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041559834827620756",
+    "in_reply_to_user_id": "1761631129331957760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041535273876779273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@himuro155 誕生日おめでとうー💖💖💖💞💞💞🎂🎂🎂✨✨✨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041535264976449536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFT9gclasAALbS-.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2041535273876779273",
+        "created_at": "2026-04-07T16:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T17:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041559834827620756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1761631129331957760",
+              "start": 0,
+              "username": "himuro155"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041559834827620756",
+        "in_reply_to_user_id": "1761631129331957760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041535273876779273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@himuro155 誕生日おめでとうー💖💖💖💞💞💞🎂🎂🎂✨✨✨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041535264976449536"
+          ]
+        },
+        "author_id": "1761631129331957760",
+        "conversation_id": "2041535273876779273",
+        "created_at": "2026-04-07T15:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T16:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041535273876779273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GDlxURZKoY",
+              "end": 30,
+              "expanded_url": "https://x.com/himuro155/status/2041535273876779273/photo/1",
+              "media_key": "3_2041535264976449536",
+              "start": 7,
+              "url": "https://t.co/GDlxURZKoY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041535273876779273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我18岁了😌 https://t.co/GDlxURZKoY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 不安です所以到处评论见谅⌇𝟢𝟧⌇天使界隈⌇水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます 💤\n​他担・他界隈様  ◎  同担  ◎( 恋愛不可 🆖)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 105,
+          "like_count": 484,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 349
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T05:56:22.000Z",
+        "description": "互fo扩列大欢迎/無限フォロー失礼します 日本語ok\n低浮上",
+        "id": "1761631129331957760",
+        "name": "氷室",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028897111086120962/GGvv1d9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 428,
+          "like_count": 871,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 441
+        },
+        "username": "himuro155",
+        "verified": false
+      }
+    ]
+  }
+}

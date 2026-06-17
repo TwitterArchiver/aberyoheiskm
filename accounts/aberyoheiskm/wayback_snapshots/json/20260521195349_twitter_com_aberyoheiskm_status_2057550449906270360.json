@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057550444977893377",
+        "3_2057550446831783936",
+        "3_2057550445418295296"
+      ]
+    },
+    "author_id": "1804875241367433216",
+    "conversation_id": "2057202211936178574",
+    "created_at": "2026-05-21T19:53:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T20:53:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057550449906270360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1878441068649426944",
+          "start": 0,
+          "username": "xian_zi17640"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oS3bl5QVoT",
+          "end": 153,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2057550449906270360/photo/1",
+          "media_key": "3_2057550444977893377",
+          "start": 130,
+          "url": "https://t.co/oS3bl5QVoT"
+        },
+        {
+          "display_url": "pic.x.com/oS3bl5QVoT",
+          "end": 153,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2057550449906270360/photo/1",
+          "media_key": "3_2057550446831783936",
+          "start": 130,
+          "url": "https://t.co/oS3bl5QVoT"
+        },
+        {
+          "display_url": "pic.x.com/oS3bl5QVoT",
+          "end": 153,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2057550449906270360/photo/1",
+          "media_key": "3_2057550445418295296",
+          "start": 130,
+          "url": "https://t.co/oS3bl5QVoT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057550449906270360",
+    "in_reply_to_user_id": "1878441068649426944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057202326868205790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xian_zi17640 还好还好，换了一个充电头，临时买了一个新的线，希望可以撑一段时间😢\n说如果是真的手机漏电估计很难修了……\n大概率是充电头的原因\n不过我这个充电头也好猎奇，都被电黑了化了，线也断了（话说能不能用胶水把线接上啊，家里其他没快充线了喵） https://t.co/oS3bl5QVoT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 921,
+        "media_key": "3_2057550444977893377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI3jOnRasAEZdTa.jpg",
+        "width": 2048
+      },
+      {
+        "height": 921,
+        "media_key": "3_2057550446831783936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI3jOuLa0AA7sku.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057550445418295296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI3jOo6asAA0XZ9.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057550444977893377",
+            "3_2057550446831783936",
+            "3_2057550445418295296"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "conversation_id": "2057202211936178574",
+        "created_at": "2026-05-21T19:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T20:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057550449906270360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1878441068649426944",
+              "start": 0,
+              "username": "xian_zi17640"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oS3bl5QVoT",
+              "end": 153,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2057550449906270360/photo/1",
+              "media_key": "3_2057550444977893377",
+              "start": 130,
+              "url": "https://t.co/oS3bl5QVoT"
+            },
+            {
+              "display_url": "pic.x.com/oS3bl5QVoT",
+              "end": 153,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2057550449906270360/photo/1",
+              "media_key": "3_2057550446831783936",
+              "start": 130,
+              "url": "https://t.co/oS3bl5QVoT"
+            },
+            {
+              "display_url": "pic.x.com/oS3bl5QVoT",
+              "end": 153,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2057550449906270360/photo/1",
+              "media_key": "3_2057550445418295296",
+              "start": 130,
+              "url": "https://t.co/oS3bl5QVoT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057550449906270360",
+        "in_reply_to_user_id": "1878441068649426944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057202326868205790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xian_zi17640 还好还好，换了一个充电头，临时买了一个新的线，希望可以撑一段时间😢\n说如果是真的手机漏电估计很难修了……\n大概率是充电头的原因\n不过我这个充电头也好猎奇，都被电黑了化了，线也断了（话说能不能用胶水把线接上啊，家里其他没快充线了喵） https://t.co/oS3bl5QVoT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878441068649426944",
+        "conversation_id": "2057202211936178574",
+        "created_at": "2026-05-20T20:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T21:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057202326868205790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057202326868205790",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057202211936178574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm 现在还好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 小号：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 235,
+          "like_count": 2466,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 1436
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T13:57:19.000Z",
+        "description": "生日:1209 年龄:15 性格:随机  初二 玻璃心 大胃袋 小短腿 免费树洞欢迎来找我聊天",
+        "id": "1878441068649426944",
+        "name": "huizxlkファイ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041259774965395456/QJN4Ra5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 305,
+          "like_count": 1412,
+          "listed_count": 0,
+          "media_count": 293,
+          "tweet_count": 1384
+        },
+        "username": "xian_zi17640",
+        "verified": false
+      }
+    ]
+  }
+}

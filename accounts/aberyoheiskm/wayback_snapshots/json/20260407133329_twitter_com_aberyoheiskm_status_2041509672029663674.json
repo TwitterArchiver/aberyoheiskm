@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2041384493412757705",
+    "created_at": "2026-04-07T13:33:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T14:33:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041509672029663674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1937642720815906818",
+          "start": 0,
+          "username": "n491N2ar0E92832"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041509672029663674",
+    "in_reply_to_user_id": "1937642720815906818",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041384493412757705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@n491N2ar0E92832 リリカはガチで耐性つくの早すぎてしんどいー……もう前には戻れにゃいかも……😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2041384493412757705",
+        "created_at": "2026-04-07T13:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T14:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041509672029663674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1937642720815906818",
+              "start": 0,
+              "username": "n491N2ar0E92832"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041509672029663674",
+        "in_reply_to_user_id": "1937642720815906818",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041384493412757705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@n491N2ar0E92832 リリカはガチで耐性つくの早すぎてしんどいー……もう前には戻れにゃいかも……😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937642720815906818",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2041384493412757705",
+        "created_at": "2026-04-07T05:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T06:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041384493412757705"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041384493412757705",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 9617,
+          "like_count": 521,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "【私の体の中の💊の化学反応】\nブロソ→ぎもぢぇぇぇ🤓\nレ夕ス→きしょいいぃ虫ぃぃぁﾀﾋねぁぁ\n金パ部→臭っ\n〆ｼﾞｺﾝ→ぎもぢぇぇ…ここ何処ですか？あ、閉鎖病棟？なるほど。\nハイフﾟ→なんで私救急車乗ってるんですか？(健忘)\nリリ力→ぎもぢぇぇ。(2回目)あれ？もう耐性ついた？早すぎん？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 不安です所以到处评论见谅⌇𝟢𝟧⌇天使界隈⌇水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます 💤\n​他担・他界隈様  ◎  同担  ◎( 恋愛不可 🆖)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 100,
+          "like_count": 460,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 345
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T22:43:24.000Z",
+        "description": "下ネタ ¦ 淫夢厨@Rashinndayo ¦ 251 @_oha_sy__ /@Memu_bitter ¦ 彼氏@rennogenzitu131",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Rashinndayo"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "_oha_sy__"
+              },
+              {
+                "end": 52,
+                "start": 40,
+                "username": "Memu_bitter"
+              },
+              {
+                "end": 73,
+                "start": 57,
+                "username": "rennogenzitu131"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/n491N2ar0E9…",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/n491N2ar0E92832/",
+                "start": 0,
+                "url": "https://t.co/awFqCTlgS5"
+              }
+            ]
+          }
+        },
+        "id": "1937642720815906818",
+        "location": "✎️おきなわ ¦ バイ ¦ 3Markets［］",
+        "name": "俺俺俺俺‼️ Ahh～↑↑↑💥💥真夏🌞🌴🏄🎇🎆🌺のJambo留",
+        "pinned_tweet_id": "2039528002569306280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990683652188221440/_afvpNUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 848,
+          "like_count": 58919,
+          "listed_count": 50,
+          "media_count": 1480,
+          "tweet_count": 36003
+        },
+        "url": "https://t.co/awFqCTlgS5",
+        "username": "n491N2ar0E92832",
+        "verified": false
+      }
+    ]
+  }
+}

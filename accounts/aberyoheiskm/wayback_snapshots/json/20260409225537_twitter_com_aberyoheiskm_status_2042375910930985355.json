@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2041879041150685306",
+    "created_at": "2026-04-09T22:55:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T23:55:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042375910930985355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1737545103852314624",
+          "start": 0,
+          "username": "ybo2050504"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042375910930985355",
+    "in_reply_to_user_id": "1737545103852314624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042349529438306506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ybo2050504 死了估计还会庆幸终于有一个社会的祸害败类没哩😉，⏰你就这样整我们精神病患者就这样禁药一点一点把我们逼死……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2041879041150685306",
+        "created_at": "2026-04-09T22:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T23:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042375910930985355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1737545103852314624",
+              "start": 0,
+              "username": "ybo2050504"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042375910930985355",
+        "in_reply_to_user_id": "1737545103852314624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042349529438306506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ybo2050504 死了估计还会庆幸终于有一个社会的祸害败类没哩😉，⏰你就这样整我们精神病患者就这样禁药一点一点把我们逼死……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1737545103852314624",
+        "conversation_id": "2041879041150685306",
+        "created_at": "2026-04-09T21:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T22:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042349529438306506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042349529438306506",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041879041150685306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm 关注了个几把😹我生病四年从来没被关心过 只会嘴上说说  要真关注了还会有这么多青少年嗑药自残吗？就算是死了也不在意😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 不安所以到处评论见谅⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様  ◎  同担  ◎( 恋愛不可 🆖)看成分回fo↓来提问箱！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 121,
+          "like_count": 751,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 480
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T18:47:15.000Z",
+        "description": "🚪88",
+        "id": "1737545103852314624",
+        "location": "Tokyo-to, Japan",
+        "name": "对你而言我是天使吗",
+        "pinned_tweet_id": "2042120490219635005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037612747421306880/OLqcHjk-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 9,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 53
+        },
+        "username": "ybo2050504",
+        "verified": false
+      }
+    ]
+  }
+}

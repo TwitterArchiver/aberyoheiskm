@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2045572816335176179",
+    "created_at": "2026-04-19T14:50:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T15:50:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045877661873094813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1894709491452768256",
+          "start": 0,
+          "username": "mkdwng162135"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045877661873094813",
+    "in_reply_to_user_id": "1894709491452768256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045796297278636047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mkdwng162135 有百达广场附近的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2045572816335176179",
+        "created_at": "2026-04-19T14:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045877661873094813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1894709491452768256",
+              "start": 0,
+              "username": "mkdwng162135"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045877661873094813",
+        "in_reply_to_user_id": "1894709491452768256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045796297278636047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mkdwng162135 有百达广场附近的吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894709491452768256",
+        "conversation_id": "2045572816335176179",
+        "created_at": "2026-04-19T09:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T10:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045796297278636047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045796297278636047",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045572816335176179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm 有千达广场附近的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 不安所以到处评论见谅⌇逃离墙内中⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 162,
+          "like_count": 1765,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1017
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T11:22:12.000Z",
+        "description": "就是个正常男生，没有心理疾病没有精神疾病没有生理疾病，备战高考中，不鉴证，喜欢MIKU，看到不太好的行为会好言相劝，心情不好可以找我，我很高兴开导你们！(((o(*ﾟ▽ﾟ*)o)))传播正能量喵！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pornhub.com",
+                "end": 23,
+                "expanded_url": "http://pornhub.com",
+                "start": 0,
+                "url": "https://t.co/Y1XoGqoHYV"
+              }
+            ]
+          }
+        },
+        "id": "1894709491452768256",
+        "location": "seikai 距离您461953836494916434光年",
+        "name": "MIKU King",
+        "pinned_tweet_id": "2044971657648099485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894709653982048256/haTxtVg9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 62,
+          "like_count": 216,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 297
+        },
+        "url": "https://t.co/Y1XoGqoHYV",
+        "username": "mkdwng162135",
+        "verified": false
+      }
+    ]
+  }
+}

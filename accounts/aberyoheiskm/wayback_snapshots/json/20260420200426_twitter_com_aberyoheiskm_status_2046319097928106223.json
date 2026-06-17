@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2046319097928106223",
+    "created_at": "2026-04-20T20:04:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T21:04:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046319097928106223"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sunset__3000/s…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Sunset__3000/status/2046091541975109749",
+          "start": 15,
+          "url": "https://t.co/uPm5bSRajX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046319097928106223",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046091541975109749",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我草大家努力争取第二轮上电视 https://t.co/uPm5bSRajX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046091534450487296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGUtaPDa8AAqErS.jpg",
+        "width": 1193
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2046319097928106223",
+        "created_at": "2026-04-20T20:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T21:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046319097928106223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sunset__3000/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Sunset__3000/status/2046091541975109749",
+              "start": 15,
+              "url": "https://t.co/uPm5bSRajX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046319097928106223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046091541975109749",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草大家努力争取第二轮上电视 https://t.co/uPm5bSRajX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046091534450487296"
+          ]
+        },
+        "author_id": "1777129646867542016",
+        "conversation_id": "2046091541975109749",
+        "created_at": "2026-04-20T05:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T06:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046091541975109749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pTkF43rJJp",
+              "end": 43,
+              "expanded_url": "https://x.com/Sunset__3000/status/2046091541975109749/photo/1",
+              "media_key": "3_2046091534450487296",
+              "start": 20,
+              "url": "https://t.co/pTkF43rJJp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046091541975109749",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 31027,
+          "like_count": 229,
+          "quote_count": 9,
+          "reply_count": 30,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "娜娜警官彻底怒了！五月上新第二季🫡🫡🫡 https://t.co/pTkF43rJJp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 不安所以到处评论见谅⌇逃离墙内中⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 175,
+          "like_count": 1907,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1081
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T00:21:51.000Z",
+        "description": "o割餐券女 | 精神病 | 家里蹲备考 | 极端悲观主义 | 爱好生化药理板绘 | 同类互fo呀♡漏回提醒我🥹",
+        "id": "1777129646867542016",
+        "location": "宛平南路600号",
+        "name": "日落三千次💊",
+        "pinned_tweet_id": "2034272198798811213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040999312478621696/QZAhsYwI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 523,
+          "like_count": 3404,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 687
+        },
+        "username": "Sunset__3000",
+        "verified": false
+      }
+    ]
+  }
+}

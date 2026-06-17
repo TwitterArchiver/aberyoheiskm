@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2041879041150685306",
+    "created_at": "2026-04-09T12:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T13:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042211504645406964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1866114456411099137",
+          "start": 0,
+          "username": "rinko910409"
+        },
+        {
+          "end": 25,
+          "id": "1458297761552826369",
+          "start": 13,
+          "username": "Dicencencen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042211504645406964",
+    "in_reply_to_user_id": "1866114456411099137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042205952934604810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rinko910409 @Dicencencen 还真是现在能遇到的正常的心理医生真tm不多了😰我做好准备下次跑路去别的医院了🙏🏻🙏🏻🙏🏻感觉纯花钱找罪受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2041879041150685306",
+        "created_at": "2026-04-09T12:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042211504645406964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1866114456411099137",
+              "start": 0,
+              "username": "rinko910409"
+            },
+            {
+              "end": 25,
+              "id": "1458297761552826369",
+              "start": 13,
+              "username": "Dicencencen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042211504645406964",
+        "in_reply_to_user_id": "1866114456411099137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042205952934604810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rinko910409 @Dicencencen 还真是现在能遇到的正常的心理医生真tm不多了😰我做好准备下次跑路去别的医院了🙏🏻🙏🏻🙏🏻感觉纯花钱找罪受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866114456411099137",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2041879041150685306",
+        "created_at": "2026-04-09T11:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T12:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042205952934604810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1458297761552826369",
+              "start": 0,
+              "username": "Dicencencen"
+            },
+            {
+              "end": 26,
+              "id": "1804875241367433216",
+              "start": 13,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042205952934604810",
+        "in_reply_to_user_id": "1458297761552826369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042109391097491645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dicencencen @aberyoheiskm 妈的逼我看的第一个心理医生跟他妈怨灵一样上班一股怨气😓跟审讯一样问了我十几分钟实在是受不了了😄后面我直接跑出去不做了谁他妈爱做谁做去（没有针对正常的心理学医生和学生 单纯想骂人）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 不安所以到处评论见谅⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様  ◎  同担  ◎( 恋愛不可 🆖)看成分回fo↓来提问箱！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 119,
+          "like_count": 643,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 423
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T13:35:42.000Z",
+        "description": "",
+        "id": "1866114456411099137",
+        "location": "六本木",
+        "name": "りんこShirokane",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866337684836564992/RRKoiS-5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 332,
+          "like_count": 1903,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 477
+        },
+        "username": "rinko910409",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-10T04:57:45.000Z",
+        "description": "心理学B，神经科学M，医学PhD（在读），LGBTQ友好。原耽网文爱好者。",
+        "id": "1458297761552826369",
+        "name": "DOMIDO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974525038792744961/O6Fn5KQ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 52,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 142
+        },
+        "username": "Dicencencen",
+        "verified": false
+      }
+    ]
+  }
+}

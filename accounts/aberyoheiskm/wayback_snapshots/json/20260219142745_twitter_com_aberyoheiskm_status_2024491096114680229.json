@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2024459501085348148",
+    "created_at": "2026-02-19T14:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T15:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024491096114680229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1594011092270780416",
+          "start": 0,
+          "username": "1_0xll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024491096114680229",
+    "in_reply_to_user_id": "1594011092270780416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024459501085348148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1_0xll すっご!!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2024459492315004928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBhTLqWagAACwZL.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2024459501085348148",
+        "created_at": "2026-02-19T14:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T15:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024491096114680229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1594011092270780416",
+              "start": 0,
+              "username": "1_0xll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024491096114680229",
+        "in_reply_to_user_id": "1594011092270780416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024459501085348148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1_0xll すっご!!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024459492315004928"
+          ]
+        },
+        "author_id": "1594011092270780416",
+        "conversation_id": "2024459501085348148",
+        "created_at": "2026-02-19T12:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T13:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024459501085348148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tZPnxw5PHs",
+              "end": 23,
+              "expanded_url": "https://x.com/1_0xll/status/2024459501085348148/photo/1",
+              "media_key": "3_2024459492315004928",
+              "start": 0,
+              "url": "https://t.co/tZPnxw5PHs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024459501085348148",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2211,
+          "like_count": 229,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tZPnxw5PHs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "いつかしまった",
+        "id": "1804875241367433216",
+        "name": "すずめたん💙",
+        "pinned_tweet_id": "2008592579928248523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993690122920103936/YFN_sE0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 57,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 74
+        },
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T16:54:08.000Z",
+        "description": "05 ｜摂食",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/10796777…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/107967779/illustrations",
+                "start": 0,
+                "url": "https://t.co/a4r3lrBnzd"
+              }
+            ]
+          }
+        },
+        "id": "1594011092270780416",
+        "name": "吐瀉",
+        "pinned_tweet_id": "2012551536799347017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991946249956896768/CtRHgqp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2444,
+          "following_count": 60,
+          "like_count": 6470,
+          "listed_count": 11,
+          "media_count": 403,
+          "tweet_count": 2119
+        },
+        "url": "https://t.co/a4r3lrBnzd",
+        "username": "1_0xll",
+        "verified": false
+      }
+    ]
+  }
+}

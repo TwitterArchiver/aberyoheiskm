@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2053737761694466048"
+      ],
+      "media_source_tweet_id": [
+        "2053737823141065169"
+      ]
+    },
+    "author_id": "1804875241367433216",
+    "conversation_id": "2054005860108800162",
+    "created_at": "2026-05-12T01:08:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T02:08:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054005860108800162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2052760341411708928",
+          "start": 3,
+          "username": "Sui17171Fei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aRluFMiT3L",
+          "end": 50,
+          "expanded_url": "https://x.com/Sui17171Fei/status/2053737823141065169/video/1",
+          "media_key": "7_2053737761694466048",
+          "start": 27,
+          "url": "https://t.co/aRluFMiT3L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054005860108800162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053737823141065169",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sui17171Fei: 账号被封后我就这样 https://t.co/aRluFMiT3L"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17925,
+        "height": 720,
+        "media_key": "7_2053737761694466048",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2053737761694466048/pu/img/HiYYsvCSL4lyEt1z.jpg",
+        "public_metrics": {
+          "view_count": 42
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053737761694466048/pu/vid/avc1/322x270/xCsOkn8I4OySu6--.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053737761694466048/pu/vid/avc1/430x360/ZFLC-NdesBI6tl2z.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053737761694466048/pu/vid/avc1/860x720/i1XBUiaksZfxTJeb.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2053737761694466048/pu/pl/NwbFz1-51Xx6CIhC.m3u8?tag=12"
+          }
+        ],
+        "width": 860
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2053737761694466048"
+          ],
+          "media_source_tweet_id": [
+            "2053737823141065169"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "conversation_id": "2054005860108800162",
+        "created_at": "2026-05-12T01:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T02:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054005860108800162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2052760341411708928",
+              "start": 3,
+              "username": "Sui17171Fei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aRluFMiT3L",
+              "end": 50,
+              "expanded_url": "https://x.com/Sui17171Fei/status/2053737823141065169/video/1",
+              "media_key": "7_2053737761694466048",
+              "start": 27,
+              "url": "https://t.co/aRluFMiT3L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054005860108800162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053737823141065169",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sui17171Fei: 账号被封后我就这样 https://t.co/aRluFMiT3L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2053737761694466048"
+          ]
+        },
+        "author_id": "2052760341411708928",
+        "conversation_id": "2053737823141065169",
+        "created_at": "2026-05-11T07:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T08:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053737823141065169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aRluFMiT3L",
+              "end": 33,
+              "expanded_url": "https://x.com/Sui17171Fei/status/2053737823141065169/video/1",
+              "media_key": "7_2053737761694466048",
+              "start": 10,
+              "url": "https://t.co/aRluFMiT3L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053737823141065169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "账号被封后我就这样 https://t.co/aRluFMiT3L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 小号：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 242,
+          "like_count": 2430,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1397
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T14:39:47.000Z",
+        "description": "是千早的姐姐大人千岁/药理学习中/可以称为千岁/心理学重度依赖/魔法少女千岁/LGBT全友好/提供自杀干预思路详解",
+        "id": "2052760341411708928",
+        "name": "妃宫千岁",
+        "pinned_tweet_id": "2053188472073281774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053203840141500416/0ozHzqR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 159,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 140
+        },
+        "username": "Sui17171Fei",
+        "verified": false
+      }
+    ]
+  }
+}

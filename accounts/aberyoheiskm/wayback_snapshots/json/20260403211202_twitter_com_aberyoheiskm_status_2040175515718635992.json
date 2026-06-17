@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2040160292047651263",
+    "created_at": "2026-04-03T21:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T22:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040175515718635992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1718776457198280704",
+          "start": 0,
+          "username": "yng014522566684"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040175515718635992",
+    "in_reply_to_user_id": "1718776457198280704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040160292047651263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yng014522566684 不知道怎么安慰比较好，とりあえずぎゅーってしてあげるん"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1773,
+        "media_key": "3_2040160279053643776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFAa9u3asAASBa7.jpg",
+        "width": 2240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2040160292047651263",
+        "created_at": "2026-04-03T21:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T22:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040175515718635992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1718776457198280704",
+              "start": 0,
+              "username": "yng014522566684"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040175515718635992",
+        "in_reply_to_user_id": "1718776457198280704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040160292047651263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yng014522566684 不知道怎么安慰比较好，とりあえずぎゅーってしてあげるん"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040160279053643776"
+          ]
+        },
+        "author_id": "1718776457198280704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2040160292047651263",
+        "created_at": "2026-04-03T20:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T21:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040160292047651263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qZBKQ5xELX",
+              "end": 174,
+              "expanded_url": "https://x.com/yng014522566684/status/2040160292047651263/photo/1",
+              "media_key": "3_2040160279053643776",
+              "start": 151,
+              "url": "https://t.co/qZBKQ5xELX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040160292047651263",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的身体频临崩溃 \n我的精神扭曲灰暗\n自殺は本当に素晴らしいものだ\n毒品救赎了我 一次又一次\n我感到多巴胺在大量释放\n抑郁症吗 不是 是双相 是治不好的\n你会一辈子反复承受着这种痛苦\n开心吗 还是难以承受呢\n精神病 毒虫 大恶人之死\n私はもう未来がないのだ\n最后最后生命会走到终点 吗\n终点外是什么？ https://t.co/qZBKQ5xELX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ ࣪いつかしまった⌇𝟢𝟧⌇天使界隈⌇水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます 💤\n​他担・他界隈様  ◎  同担  ◎( 恋愛不可 🆖)",
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2039523324586541170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993690122920103936/YFN_sE0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 91,
+          "like_count": 330,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 253
+        },
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-29T23:47:10.000Z",
+        "description": "药物百科wiki主 凌雪.\nR.I.P沐雨 不再收门槛 有药物问题可以咨询我.提问箱：https://t.co/L1c5rhlDC1.\n我会重启药百 继续建设",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist2",
+                "end": 66,
+                "expanded_url": "https://ngl.link/drug_artist2",
+                "start": 43,
+                "url": "https://t.co/L1c5rhlDC1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/vxEtciQBnh"
+              }
+            ]
+          }
+        },
+        "id": "1718776457198280704",
+        "location": "浙江",
+        "name": "凌雪",
+        "pinned_tweet_id": "2033978896883073514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033965567074557952/9caXrlJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 123,
+          "like_count": 2220,
+          "listed_count": 3,
+          "media_count": 80,
+          "tweet_count": 621
+        },
+        "url": "https://t.co/vxEtciQBnh",
+        "username": "yng014522566684",
+        "verified": false
+      }
+    ]
+  }
+}
