@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067137026760302592",
+        "3_2067137026395394048",
+        "3_2067137027095805952",
+        "3_2067137026764468224"
+      ]
+    },
+    "author_id": "1804875241367433216",
+    "conversation_id": "2067137029662769322",
+    "created_at": "2026-06-17T06:47:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T07:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067137029662769322"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pn9F244UjF",
+          "end": 89,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2067137029662769322/photo/1",
+          "media_key": "3_2067137026760302592",
+          "start": 66,
+          "url": "https://t.co/Pn9F244UjF"
+        },
+        {
+          "display_url": "pic.x.com/Pn9F244UjF",
+          "end": 89,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2067137029662769322/photo/1",
+          "media_key": "3_2067137026395394048",
+          "start": 66,
+          "url": "https://t.co/Pn9F244UjF"
+        },
+        {
+          "display_url": "pic.x.com/Pn9F244UjF",
+          "end": 89,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2067137029662769322/photo/1",
+          "media_key": "3_2067137027095805952",
+          "start": 66,
+          "url": "https://t.co/Pn9F244UjF"
+        },
+        {
+          "display_url": "pic.x.com/Pn9F244UjF",
+          "end": 89,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2067137029662769322/photo/1",
+          "media_key": "3_2067137026764468224",
+          "start": 66,
+          "url": "https://t.co/Pn9F244UjF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067137029662769322",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这些都是对外人，对聚餐，对老板，这些我都知道\n有没有什么可以测测对熟悉的人，对亲友的社交障碍……\n想要的不是这些没用的东西浪费时间 https://t.co/Pn9F244UjF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1047,
+        "media_key": "3_2067137026760302592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_yLHYa4AAUk_T.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1076,
+        "media_key": "3_2067137026395394048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_yLGBa0AA_jUl.jpg",
+        "width": 1080
+      },
+      {
+        "height": 875,
+        "media_key": "3_2067137027095805952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_yLIoaQAA5lcu.jpg",
+        "width": 1080
+      },
+      {
+        "height": 847,
+        "media_key": "3_2067137026764468224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_yLHZacAAQRVm.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067137026760302592",
+            "3_2067137026395394048",
+            "3_2067137027095805952",
+            "3_2067137026764468224"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "conversation_id": "2067137029662769322",
+        "created_at": "2026-06-17T06:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T07:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067137029662769322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pn9F244UjF",
+              "end": 89,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2067137029662769322/photo/1",
+              "media_key": "3_2067137026760302592",
+              "start": 66,
+              "url": "https://t.co/Pn9F244UjF"
+            },
+            {
+              "display_url": "pic.x.com/Pn9F244UjF",
+              "end": 89,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2067137029662769322/photo/1",
+              "media_key": "3_2067137026395394048",
+              "start": 66,
+              "url": "https://t.co/Pn9F244UjF"
+            },
+            {
+              "display_url": "pic.x.com/Pn9F244UjF",
+              "end": 89,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2067137029662769322/photo/1",
+              "media_key": "3_2067137027095805952",
+              "start": 66,
+              "url": "https://t.co/Pn9F244UjF"
+            },
+            {
+              "display_url": "pic.x.com/Pn9F244UjF",
+              "end": 89,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2067137029662769322/photo/1",
+              "media_key": "3_2067137026764468224",
+              "start": 66,
+              "url": "https://t.co/Pn9F244UjF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067137029662769322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这些都是对外人，对聚餐，对老板，这些我都知道\n有没有什么可以测测对熟悉的人，对亲友的社交障碍……\n想要的不是这些没用的东西浪费时间 https://t.co/Pn9F244UjF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 297,
+          "like_count": 2933,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1828
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      }
+    ]
+  }
+}

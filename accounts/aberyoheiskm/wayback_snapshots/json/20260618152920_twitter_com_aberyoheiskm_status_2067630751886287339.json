@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2067479114546884972",
+    "created_at": "2026-06-18T15:29:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T16:29:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067630751886287339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1994689378783039488",
+          "start": 0,
+          "username": "nemulasete"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067630751886287339",
+    "in_reply_to_user_id": "1994689378783039488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067551294630531258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nemulasete 这次吃完→←我也想去试试开一点マイスリー了……来回路费好贵且珍惜吧呜呜呜 但是太难受的时候 总是想着“鼠了算了”什么的根本不会考虑这么多一饮而尽醒来后开始懊恼自责( ๑ŏ ﹏ ŏ๑ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2067479114546884972",
+        "created_at": "2026-06-18T15:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067630751886287339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1994689378783039488",
+              "start": 0,
+              "username": "nemulasete"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067630751886287339",
+        "in_reply_to_user_id": "1994689378783039488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067551294630531258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nemulasete 这次吃完→←我也想去试试开一点マイスリー了……来回路费好贵且珍惜吧呜呜呜 但是太难受的时候 总是想着“鼠了算了”什么的根本不会考虑这么多一饮而尽醒来后开始懊恼自责( ๑ŏ ﹏ ŏ๑ )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994689378783039488",
+        "conversation_id": "2067479114546884972",
+        "created_at": "2026-06-18T10:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067551294630531258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067551294630531258",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067479114546884972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm 我也一样，但总是心疼药太少不敢吃..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 303,
+          "like_count": 2994,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 1888
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T08:46:43.000Z",
+        "description": "メンヘラのひとりごと。",
+        "id": "1994689378783039488",
+        "name": "マイスリー",
+        "pinned_tweet_id": "2064893045703905515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016577871855439874/85apBSRK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 34,
+          "like_count": 1002,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 579
+        },
+        "url": "",
+        "username": "nemulasete",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2067334079612326084",
+    "created_at": "2026-06-17T19:50:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T20:50:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067334079612326084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1697936336228126721",
+          "start": 3,
+          "username": "Rainstryin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067334079612326084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067235512533012672",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rainstryin: 情况说明:1.昨日此账号 @Recz3eth 所发的“号主跳楼去世”经确认内容不实，是“假死”（P1）号主目前正处于朋友家中。\n2.我今天上午的帖子中部分内容表述夸大，现予以纠正，在此向各位致以最诚挚的歉意。（P2）\n3.希望大家在用金钱给予他人…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1155,
+        "media_key": "3_2067235503024513024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBLvMDaIAAw8pB.jpg",
+        "width": 1078
+      },
+      {
+        "height": 1785,
+        "media_key": "3_2067235503439757312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBLvNmaQAAAbJc.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2067334079612326084",
+        "created_at": "2026-06-17T19:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T20:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067334079612326084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1697936336228126721",
+              "start": 3,
+              "username": "Rainstryin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067334079612326084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067235512533012672",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rainstryin: 情况说明:1.昨日此账号 @Recz3eth 所发的“号主跳楼去世”经确认内容不实，是“假死”（P1）号主目前正处于朋友家中。\n2.我今天上午的帖子中部分内容表述夸大，现予以纠正，在此向各位致以最诚挚的歉意。（P2）\n3.希望大家在用金钱给予他人…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067235503024513024",
+            "3_2067235503439757312"
+          ]
+        },
+        "author_id": "1697936336228126721",
+        "conversation_id": "2067235512533012672",
+        "created_at": "2026-06-17T13:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067235512533012672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/evPFh1I5TM",
+              "end": 164,
+              "expanded_url": "https://x.com/Rainstryin/status/2067235512533012672/photo/1",
+              "media_key": "3_2067235503024513024",
+              "start": 141,
+              "url": "https://t.co/evPFh1I5TM"
+            },
+            {
+              "display_url": "pic.x.com/evPFh1I5TM",
+              "end": 164,
+              "expanded_url": "https://x.com/Rainstryin/status/2067235512533012672/photo/1",
+              "media_key": "3_2067235503439757312",
+              "start": 141,
+              "url": "https://t.co/evPFh1I5TM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067235512533012672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1528,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "情况说明:1.昨日此账号 @Recz3eth 所发的“号主跳楼去世”经确认内容不实，是“假死”（P1）号主目前正处于朋友家中。\n2.我今天上午的帖子中部分内容表述夸大，现予以纠正，在此向各位致以最诚挚的歉意。（P2）\n3.希望大家在用金钱给予他人帮助前，一定要慎重考虑，远离赌徒。 https://t.co/evPFh1I5TM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 302,
+          "like_count": 2981,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 1873
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T11:35:50.000Z",
+        "description": "退役老男娘 游戏群909853647 欢迎来玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/xrufZbE",
+                "end": 23,
+                "expanded_url": "https://b23.tv/xrufZbE",
+                "start": 0,
+                "url": "https://t.co/HHJcrPfn1y"
+              }
+            ]
+          }
+        },
+        "id": "1697936336228126721",
+        "location": "MYTV",
+        "name": "雨斯特云云☁️",
+        "pinned_tweet_id": "2067235512533012672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055732571032702976/rvxadw4q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2129,
+          "following_count": 1585,
+          "like_count": 103010,
+          "listed_count": 7,
+          "media_count": 506,
+          "tweet_count": 6831
+        },
+        "url": "https://t.co/HHJcrPfn1y",
+        "username": "Rainstryin",
+        "verified": false
+      }
+    ]
+  }
+}

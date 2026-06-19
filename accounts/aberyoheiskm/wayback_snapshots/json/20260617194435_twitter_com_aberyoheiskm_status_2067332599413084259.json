@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2067285190314197492",
+    "created_at": "2026-06-17T19:44:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T20:44:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067332599413084259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1732763258325762048",
+          "start": 0,
+          "username": "AmeAsukaLangley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067332599413084259",
+    "in_reply_to_user_id": "1732763258325762048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067285190314197492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmeAsukaLangley 不好的回忆涌现而来……虽然现在完全习惯了但是初体验真的哭得我连喊卧槽……后面睡前嘴里都含着一颗话梅糖就这样睡 睡醒了糖也没了😭😭😭吃这个太遭罪了呃啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2067285190314197492",
+        "created_at": "2026-06-17T19:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T20:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067332599413084259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1732763258325762048",
+              "start": 0,
+              "username": "AmeAsukaLangley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067332599413084259",
+        "in_reply_to_user_id": "1732763258325762048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067285190314197492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeAsukaLangley 不好的回忆涌现而来……虽然现在完全习惯了但是初体验真的哭得我连喊卧槽……后面睡前嘴里都含着一颗话梅糖就这样睡 睡醒了糖也没了😭😭😭吃这个太遭罪了呃啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2067285190314197492",
+        "created_at": "2026-06-17T16:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067285190314197492"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067285190314197492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 249,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "3mg右佐，白开水送服，一开始还好，后面过了一段时间开始，口腔里药片碰到的哪几个地方就开始酸苦，到现在我连呼吸都感觉有股味。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 302,
+          "like_count": 2971,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 1869
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "description": "恋人@marisa114514191 \n应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "marisa114514191"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitR0OB"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "raincandy_U",
+        "pinned_tweet_id": "2061022848504991748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 328,
+          "like_count": 23342,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1629
+        },
+        "url": "https://t.co/tFlSitR0OB",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      }
+    ]
+  }
+}
