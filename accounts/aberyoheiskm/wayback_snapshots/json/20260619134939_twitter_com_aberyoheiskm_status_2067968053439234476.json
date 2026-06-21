@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2067642568754524349",
+    "created_at": "2026-06-19T13:49:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T14:49:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067968053439234476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2050253104935997440",
+          "start": 0,
+          "username": "auspiceshirley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067968053439234476",
+    "in_reply_to_user_id": "2050253104935997440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067642568754524349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@auspiceshirley 比例复合原作"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 850,
+        "media_key": "3_2067642508872499200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLG96C_XwAAVvow.jpg",
+        "width": 850
+      },
+      {
+        "height": 850,
+        "media_key": "3_2067642523493769216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLG965dWoAAfv_4.jpg",
+        "width": 850
+      },
+      {
+        "height": 850,
+        "media_key": "3_2067642536408051712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLG97pkW8AAY6l5.jpg",
+        "width": 850
+      },
+      {
+        "height": 850,
+        "media_key": "3_2067642552358998017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLG98k_XEAED-Gq.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2067642568754524349",
+        "created_at": "2026-06-19T13:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067968053439234476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2050253104935997440",
+              "start": 0,
+              "username": "auspiceshirley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067968053439234476",
+        "in_reply_to_user_id": "2050253104935997440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067642568754524349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@auspiceshirley 比例复合原作"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067642508872499200",
+            "3_2067642523493769216",
+            "3_2067642536408051712",
+            "3_2067642552358998017"
+          ]
+        },
+        "author_id": "2050253104935997440",
+        "conversation_id": "2067642568754524349",
+        "created_at": "2026-06-18T16:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067642568754524349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jw6ovddv5j",
+              "end": 50,
+              "expanded_url": "https://x.com/auspiceshirley/status/2067642568754524349/photo/1",
+              "media_key": "3_2067642508872499200",
+              "start": 27,
+              "url": "https://t.co/jw6ovddv5j"
+            },
+            {
+              "display_url": "pic.x.com/jw6ovddv5j",
+              "end": 50,
+              "expanded_url": "https://x.com/auspiceshirley/status/2067642568754524349/photo/1",
+              "media_key": "3_2067642523493769216",
+              "start": 27,
+              "url": "https://t.co/jw6ovddv5j"
+            },
+            {
+              "display_url": "pic.x.com/jw6ovddv5j",
+              "end": 50,
+              "expanded_url": "https://x.com/auspiceshirley/status/2067642568754524349/photo/1",
+              "media_key": "3_2067642536408051712",
+              "start": 27,
+              "url": "https://t.co/jw6ovddv5j"
+            },
+            {
+              "display_url": "pic.x.com/jw6ovddv5j",
+              "end": 50,
+              "expanded_url": "https://x.com/auspiceshirley/status/2067642568754524349/photo/1",
+              "media_key": "3_2067642552358998017",
+              "start": 27,
+              "url": "https://t.co/jw6ovddv5j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067642568754524349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2783,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "证件照合集(1/3)\n为什么 𝕏 一次只能发四张图🥹 https://t.co/jw6ovddv5j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 309,
+          "like_count": 3025,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 1917
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T16:38:27.000Z",
+        "description": "ENG/中文 | Daily life & Technology &「魔法少女ノ魔女裁判」🍎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/auspiceshirley",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/auspiceshirley",
+                "start": 0,
+                "url": "https://t.co/2Fyt0qKe8z"
+              }
+            ]
+          }
+        },
+        "id": "2050253104935997440",
+        "location": "Hong Kong",
+        "name": "Shirley Auspice",
+        "pinned_tweet_id": "2065781030783472110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050253824372412417/h-oCtpG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 460,
+          "like_count": 373,
+          "listed_count": 2,
+          "media_count": 105,
+          "tweet_count": 862
+        },
+        "url": "https://t.co/2Fyt0qKe8z",
+        "username": "auspiceshirley",
+        "verified": true
+      }
+    ]
+  }
+}
