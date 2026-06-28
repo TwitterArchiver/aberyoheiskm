@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2068214362159153363",
+    "created_at": "2026-06-21T02:48:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T03:48:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068526556880990541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2007890949645680640",
+          "start": 0,
+          "username": "TayTrony"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068526556880990541",
+    "in_reply_to_user_id": "2007890949645680640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068214362159153363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TayTrony 多买点野猫上坟，再不买就买不到了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2068214362159153363",
+        "created_at": "2026-06-21T02:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T03:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068526556880990541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2007890949645680640",
+              "start": 0,
+              "username": "TayTrony"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068526556880990541",
+        "in_reply_to_user_id": "2007890949645680640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068214362159153363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TayTrony 多买点野猫上坟，再不买就买不到了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007890949645680640",
+        "conversation_id": "2068214362159153363",
+        "created_at": "2026-06-20T06:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068214362159153363"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068214362159153363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4711,
+          "like_count": 22,
+          "quote_count": 2,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果重返大一，你会做什么?\n\n我是个大二的丑屌丝\n而推特上都是历经千帆的老屌丝\n\n想听听大家的看法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 310,
+          "like_count": 3174,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 2016
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-04T19:05:08.000Z",
+        "description": "🎓07年985工科学士（全球最好的大学----武汉大学）\n💰实业创业月入五位数，fire\n📈教你拿捏流量，光速起号，互动多的互关",
+        "id": "2007890949645680640",
+        "name": "Trony",
+        "pinned_tweet_id": "2066944577320464461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066584645781848064/GK7VIhjA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 246,
+          "like_count": 894,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 588
+        },
+        "url": "",
+        "username": "TayTrony",
+        "verified": true
+      }
+    ]
+  }
+}

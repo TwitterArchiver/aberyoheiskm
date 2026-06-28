@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2069074144382296247",
+    "created_at": "2026-06-22T20:40:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T21:40:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069158531899822195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1637005395171618817",
+          "start": 0,
+          "username": "tada_roa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069158531899822195",
+    "in_reply_to_user_id": "1637005395171618817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069074144382296247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tada_roa おめたん~☆🎂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1084,
+        "media_key": "3_2069074138946568193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbT94nbgAEzg2Y.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2069074144382296247",
+        "created_at": "2026-06-22T20:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T21:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069158531899822195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1637005395171618817",
+              "start": 0,
+              "username": "tada_roa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069158531899822195",
+        "in_reply_to_user_id": "1637005395171618817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069074144382296247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tada_roa おめたん~☆🎂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069074138946568193"
+          ]
+        },
+        "author_id": "1637005395171618817",
+        "conversation_id": "2069074144382296247",
+        "created_at": "2026-06-22T15:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069074144382296247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/avmAKvUrIL",
+              "end": 25,
+              "expanded_url": "https://x.com/tada_roa/status/2069074144382296247/photo/1",
+              "media_key": "3_2069074138946568193",
+              "start": 2,
+              "url": "https://t.co/avmAKvUrIL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069074144382296247",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 321,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "あ https://t.co/avmAKvUrIL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 322,
+          "like_count": 3368,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 2165
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-18T08:18:02.000Z",
+        "description": "僕はねぐちだ",
+        "id": "1637005395171618817",
+        "name": "ただロウ",
+        "pinned_tweet_id": "1925840204637634593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962470115905355776/CtHWWAJ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 426,
+          "like_count": 42778,
+          "listed_count": 2,
+          "media_count": 409,
+          "tweet_count": 5283
+        },
+        "url": "",
+        "username": "tada_roa",
+        "verified": false
+      }
+    ]
+  }
+}

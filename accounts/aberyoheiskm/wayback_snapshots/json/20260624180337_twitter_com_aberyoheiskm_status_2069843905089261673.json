@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2069332148545298873",
+    "created_at": "2026-06-24T18:03:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T19:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069843905089261673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1862765396111368192",
+          "start": 0,
+          "username": "LithusEric"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069843905089261673",
+    "in_reply_to_user_id": "1862765396111368192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069332148545298873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LithusEric 水色好萌……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1809,
+        "media_key": "3_2069331563997790208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLe-F_qXgAAb6_7.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069331965287727104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLe-dWlWAAApMQj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2069332148545298873",
+        "created_at": "2026-06-24T18:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T19:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069843905089261673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1862765396111368192",
+              "start": 0,
+              "username": "LithusEric"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069843905089261673",
+        "in_reply_to_user_id": "1862765396111368192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069332148545298873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LithusEric 水色好萌……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069331563997790208",
+            "3_2069331965287727104"
+          ]
+        },
+        "author_id": "1862765396111368192",
+        "conversation_id": "2069332148545298873",
+        "created_at": "2026-06-23T08:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069332148545298873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tNTWNA5iZq",
+              "end": 47,
+              "expanded_url": "https://x.com/LithusEric/status/2069332148545298873/photo/1",
+              "media_key": "3_2069331563997790208",
+              "start": 24,
+              "url": "https://t.co/tNTWNA5iZq"
+            },
+            {
+              "display_url": "pic.x.com/tNTWNA5iZq",
+              "end": 47,
+              "expanded_url": "https://x.com/LithusEric/status/2069332148545298873/photo/1",
+              "media_key": "3_2069331965287727104",
+              "start": 24,
+              "url": "https://t.co/tNTWNA5iZq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069332148545298873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 72067,
+          "like_count": 413,
+          "quote_count": 5,
+          "reply_count": 59,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "每月任务：徐汇上精卫😇\n偶遇一只可爱的水色系喵 https://t.co/tNTWNA5iZq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 327,
+          "like_count": 3498,
+          "listed_count": 1,
+          "media_count": 220,
+          "tweet_count": 2254
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T07:47:47.000Z",
+        "description": "MTF | HRT since 2023 | GnRHa since 2026 | MDD | Chemistry Olympiad | High School Dropout | English/Chinese/Japanese",
+        "id": "1862765396111368192",
+        "location": "Shanghai",
+        "name": "Ericka Lithi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012882001116729344/N20yvaJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 65,
+          "like_count": 648,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 58
+        },
+        "url": "",
+        "username": "LithusEric",
+        "verified": false
+      }
+    ]
+  }
+}

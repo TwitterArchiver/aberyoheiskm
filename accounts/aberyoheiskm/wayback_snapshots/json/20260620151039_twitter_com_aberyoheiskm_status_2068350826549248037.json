@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2068350826549248037",
+    "created_at": "2026-06-20T15:10:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T16:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068350826549248037"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yoshino_2333/s…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/yoshino_2333/status/2067746168306802801",
+          "start": 30,
+          "url": "https://t.co/aZHVQda0xX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068350826549248037",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067746168306802801",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "医生我听说查血锂浓度每次都要一百多块钱听着可消肿了我也想查 https://t.co/aZHVQda0xX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1178,
+        "media_key": "3_2067746153773588480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLIcK-Va4AA4lr5.jpg",
+        "width": 1603
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2068350826549248037",
+        "created_at": "2026-06-20T15:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068350826549248037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yoshino_2333/s…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/yoshino_2333/status/2067746168306802801",
+              "start": 30,
+              "url": "https://t.co/aZHVQda0xX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068350826549248037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067746168306802801",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "医生我听说查血锂浓度每次都要一百多块钱听着可消肿了我也想查 https://t.co/aZHVQda0xX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067746153773588480"
+          ]
+        },
+        "author_id": "1319578357395156993",
+        "conversation_id": "2067746168306802801",
+        "created_at": "2026-06-18T23:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T00:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067746168306802801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YlG2xjyZV1",
+              "end": 92,
+              "expanded_url": "https://x.com/yoshino_2333/status/2067746168306802801/photo/1",
+              "media_key": "3_2067746153773588480",
+              "start": 69,
+              "url": "https://t.co/YlG2xjyZV1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067746168306802801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 290187,
+          "like_count": 1546,
+          "quote_count": 17,
+          "reply_count": 235,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "“医生医生，我感觉我最近精神状态突然特别好，干什么都特别有劲，只睡两三个小时也不会困，甚至那些消极想法也没有了。我抑郁症是不是好了啊？” https://t.co/YlG2xjyZV1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 310,
+          "like_count": 3100,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 1963
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-23T09:56:17.000Z",
+        "description": "希望成为一个有趣、独特的人 | Frontend/ReactNative Developer | AI 拉屎督察官 | Tweets in EN/CN | 逃生舱 @roitium\n\n「I love the world and everything in it.」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 82,
+                "username": "roitium"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/roitium",
+                "end": 23,
+                "expanded_url": "https://github.com/roitium",
+                "start": 0,
+                "url": "https://t.co/z8BZ98SA9U"
+              }
+            ]
+          }
+        },
+        "id": "1319578357395156993",
+        "location": "你的电脑",
+        "name": "Yoshino233",
+        "pinned_tweet_id": "2030998636159730141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058124254395400192/V-ESBVRl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2009,
+          "following_count": 687,
+          "like_count": 19276,
+          "listed_count": 5,
+          "media_count": 825,
+          "tweet_count": 13324
+        },
+        "url": "https://t.co/z8BZ98SA9U",
+        "username": "yoshino_2333",
+        "verified": true
+      }
+    ]
+  }
+}

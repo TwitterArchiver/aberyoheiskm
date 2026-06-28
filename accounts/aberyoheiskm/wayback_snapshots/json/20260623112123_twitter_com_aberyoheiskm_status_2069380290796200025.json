@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069380287906373632"
+      ]
+    },
+    "author_id": "1804875241367433216",
+    "conversation_id": "2069380290796200025",
+    "created_at": "2026-06-23T11:21:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T12:21:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069380290796200025"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LHvvHQT6l9",
+          "end": 78,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2069380290796200025/photo/1",
+          "media_key": "3_2069380287906373632",
+          "start": 55,
+          "url": "https://t.co/LHvvHQT6l9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069380290796200025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "心脏好疼……一直犯恶心……\n医院会同时给开sns和氯硝吗……\n就算能开我连买的钱都没有\n浑身上下什么都没有了 https://t.co/LHvvHQT6l9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 530,
+        "media_key": "3_2069380287906373632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfqaGXa4AAZDpd.jpg",
+        "width": 749
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069380287906373632"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "conversation_id": "2069380290796200025",
+        "created_at": "2026-06-23T11:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069380290796200025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LHvvHQT6l9",
+              "end": 78,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2069380290796200025/photo/1",
+              "media_key": "3_2069380287906373632",
+              "start": 55,
+              "url": "https://t.co/LHvvHQT6l9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069380290796200025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心脏好疼……一直犯恶心……\n医院会同时给开sns和氯硝吗……\n就算能开我连买的钱都没有\n浑身上下什么都没有了 https://t.co/LHvvHQT6l9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 322,
+          "like_count": 3411,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 2190
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      }
+    ]
+  }
+}

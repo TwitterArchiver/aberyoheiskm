@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2069092176710275072"
+      ]
+    },
+    "author_id": "1804875241367433216",
+    "conversation_id": "2068872348766462253",
+    "created_at": "2026-06-22T16:16:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T17:16:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069092189607727207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1494669485214633984",
+          "start": 0,
+          "username": "Nu1tZ333216"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iHQinDSLev",
+          "end": 65,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2069092189607727207/photo/1",
+          "media_key": "16_2069092176710275072",
+          "start": 42,
+          "url": "https://t.co/iHQinDSLev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069092189607727207",
+    "in_reply_to_user_id": "1494669485214633984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069091925085532635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nu1tZ333216 草竟然是badtrip……解离真的太难受了哇啊狠狠共情了 https://t.co/iHQinDSLev"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2069091925085532635].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2069091925085532635",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2069091925085532635"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 112,
+        "media_key": "16_2069092176710275072",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HLbkX0hbEAAjPa-.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HLbkX0hbEAAjPa-.mp4"
+          }
+        ],
+        "width": 112
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2069092176710275072"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "conversation_id": "2068872348766462253",
+        "created_at": "2026-06-22T16:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T17:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069092189607727207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1494669485214633984",
+              "start": 0,
+              "username": "Nu1tZ333216"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iHQinDSLev",
+              "end": 65,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2069092189607727207/photo/1",
+              "media_key": "16_2069092176710275072",
+              "start": 42,
+              "url": "https://t.co/iHQinDSLev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069092189607727207",
+        "in_reply_to_user_id": "1494669485214633984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069091925085532635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nu1tZ333216 草竟然是badtrip……解离真的太难受了哇啊狠狠共情了 https://t.co/iHQinDSLev"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 319,
+          "like_count": 3292,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 2101
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "=汐音  07 asd/adhd可能性微存？ 航天/观鸟/音游 enby any pronoun hrt2026.3 阴湿自闭地雷精神病药蛆毒虫促智批 混沌中立 已去键政化......                 \n夜鹭窝➡️https://t.co/SuFqJ2PRQa⬅️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/edgeshelter2",
+                "end": 138,
+                "expanded_url": "http://t.me/edgeshelter2",
+                "start": 115,
+                "url": "https://t.co/SuFqJ2PRQa"
+              }
+            ]
+          }
+        },
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "v10L3T",
+        "pinned_tweet_id": "2058580985353265378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 1791,
+          "like_count": 79704,
+          "listed_count": 1,
+          "media_count": 413,
+          "tweet_count": 5052
+        },
+        "url": "",
+        "username": "Nu1tZ333216",
+        "verified": false
+      }
+    ]
+  }
+}

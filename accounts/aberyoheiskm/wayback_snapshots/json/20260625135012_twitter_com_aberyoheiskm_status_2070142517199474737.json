@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2070142447313932288"
+      ]
+    },
+    "author_id": "1804875241367433216",
+    "conversation_id": "2070121744350998867",
+    "created_at": "2026-06-25T13:50:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T14:50:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070142517199474737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1835865640072364032",
+          "start": 0,
+          "username": "shiawase_shi004"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ryvIiF5LbE",
+          "end": 68,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2070142517199474737/photo/1",
+          "media_key": "16_2070142447313932288",
+          "start": 45,
+          "url": "https://t.co/ryvIiF5LbE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070142517199474737",
+    "in_reply_to_user_id": "1835865640072364032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070121744350998867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiawase_shi004 摸摸宝宝……其实泥已经很棒了很努力了，先好好休息吧🥺🫳 https://t.co/ryvIiF5LbE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 112,
+        "media_key": "16_2070142447313932288",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HLqflnaa0AAHwjb.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HLqflnaa0AAHwjb.mp4"
+          }
+        ],
+        "width": 112
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2070142447313932288"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "conversation_id": "2070121744350998867",
+        "created_at": "2026-06-25T13:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T14:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070142517199474737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1835865640072364032",
+              "start": 0,
+              "username": "shiawase_shi004"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ryvIiF5LbE",
+              "end": 68,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2070142517199474737/photo/1",
+              "media_key": "16_2070142447313932288",
+              "start": 45,
+              "url": "https://t.co/ryvIiF5LbE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070142517199474737",
+        "in_reply_to_user_id": "1835865640072364032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070121744350998867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawase_shi004 摸摸宝宝……其实泥已经很棒了很努力了，先好好休息吧🥺🫳 https://t.co/ryvIiF5LbE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835865640072364032",
+        "conversation_id": "2070121744350998867",
+        "created_at": "2026-06-25T12:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070121744350998867"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070121744350998867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很懦弱總是在逃避 還將自己的行為合理化 這樣的我簡直糟糕透了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 331,
+          "like_count": 3574,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 2305
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-17T02:18:15.000Z",
+        "description": "叫我幸叶（小幸）｜16歲｜病み垢｜♀｜日記｜重鬱｜自傷｜歡迎互fo、交友",
+        "id": "1835865640072364032",
+        "location": "人間觀察站",
+        "name": "MAO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070086157946490880/gr2ra7mF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 85,
+          "like_count": 10028,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "shiawase_shi004",
+        "verified": false
+      }
+    ]
+  }
+}

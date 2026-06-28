@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2069113166743932928"
+      ]
+    },
+    "author_id": "1804875241367433216",
+    "conversation_id": "2069105343901364357",
+    "created_at": "2026-06-22T17:39:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T18:39:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069113178773139841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1878441068649426944",
+          "start": 0,
+          "username": "xian_zi17640"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e4ZyLuwsm6",
+          "end": 55,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2069113178773139841/photo/1",
+          "media_key": "16_2069113166743932928",
+          "start": 32,
+          "url": "https://t.co/e4ZyLuwsm6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069113178773139841",
+    "in_reply_to_user_id": "1878441068649426944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069105343901364357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xian_zi17640 摸摸摸摸摸摸摸摸摸放点音乐睡觉试试 https://t.co/e4ZyLuwsm6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 112,
+        "media_key": "16_2069113166743932928",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HLb3dmfbEAApvTY.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HLb3dmfbEAApvTY.mp4"
+          }
+        ],
+        "width": 112
+      },
+      {
+        "height": 512,
+        "media_key": "3_2069105341447671808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbwWG_aEAA5JLj.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2069113166743932928"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "conversation_id": "2069105343901364357",
+        "created_at": "2026-06-22T17:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T18:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069113178773139841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1878441068649426944",
+              "start": 0,
+              "username": "xian_zi17640"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e4ZyLuwsm6",
+              "end": 55,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2069113178773139841/photo/1",
+              "media_key": "16_2069113166743932928",
+              "start": 32,
+              "url": "https://t.co/e4ZyLuwsm6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069113178773139841",
+        "in_reply_to_user_id": "1878441068649426944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069105343901364357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xian_zi17640 摸摸摸摸摸摸摸摸摸放点音乐睡觉试试 https://t.co/e4ZyLuwsm6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069105341447671808"
+          ]
+        },
+        "author_id": "1878441068649426944",
+        "conversation_id": "2069105343901364357",
+        "created_at": "2026-06-22T17:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T18:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069105343901364357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LOHkrn8XoK",
+              "end": 31,
+              "expanded_url": "https://x.com/xian_zi17640/status/2069105343901364357/photo/1",
+              "media_key": "3_2069105341447671808",
+              "start": 8,
+              "url": "https://t.co/LOHkrn8XoK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069105343901364357",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "乱想一堆快炸了 https://t.co/LOHkrn8XoK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 321,
+          "like_count": 3348,
+          "listed_count": 1,
+          "media_count": 211,
+          "tweet_count": 2139
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T13:57:19.000Z",
+        "description": "找咪交朋友好不好咪的tg链接在这了喵https://t.co/vlsV6eBXq3\nhttps://t.co/Qntfz9TM3m",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/huizxlk",
+                "end": 41,
+                "expanded_url": "http://t.me/huizxlk",
+                "start": 18,
+                "url": "https://t.co/vlsV6eBXq3"
+              },
+              {
+                "display_url": "ngl.link/huizxlk",
+                "end": 65,
+                "expanded_url": "https://ngl.link/huizxlk",
+                "start": 42,
+                "url": "https://t.co/Qntfz9TM3m"
+              }
+            ]
+          }
+        },
+        "id": "1878441068649426944",
+        "name": "huizxlkファイ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041259774965395456/QJN4Ra5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 428,
+          "like_count": 2845,
+          "listed_count": 0,
+          "media_count": 917,
+          "tweet_count": 2960
+        },
+        "url": "",
+        "username": "xian_zi17640",
+        "verified": false
+      }
+    ]
+  }
+}

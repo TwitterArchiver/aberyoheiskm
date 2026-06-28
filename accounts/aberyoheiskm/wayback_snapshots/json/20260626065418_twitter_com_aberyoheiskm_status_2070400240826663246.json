@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070400238389784576"
+      ]
+    },
+    "author_id": "1804875241367433216",
+    "conversation_id": "2070400240826663246",
+    "created_at": "2026-06-26T06:54:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T07:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070400240826663246"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dDzn0cKr40",
+          "end": 72,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2070400240826663246/photo/1",
+          "media_key": "3_2070400238389784576",
+          "start": 49,
+          "url": "https://t.co/dDzn0cKr40"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070400240826663246",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "6·26国际禁毒日，认清新型毒品伪装，防范麻精药品滥用，珍爱生命远离毒品，全民共创禁毒示范城市！ https://t.co/dDzn0cKr40"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 961,
+        "media_key": "3_2070400238389784576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLuKDCAbcAAxwZa.jpg",
+        "width": 908
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070400238389784576"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "conversation_id": "2070400240826663246",
+        "created_at": "2026-06-26T06:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T07:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070400240826663246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dDzn0cKr40",
+              "end": 72,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2070400240826663246/photo/1",
+              "media_key": "3_2070400238389784576",
+              "start": 49,
+              "url": "https://t.co/dDzn0cKr40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070400240826663246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "6·26国际禁毒日，认清新型毒品伪装，防范麻精药品滥用，珍爱生命远离毒品，全民共创禁毒示范城市！ https://t.co/dDzn0cKr40"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 336,
+          "like_count": 3646,
+          "listed_count": 1,
+          "media_count": 239,
+          "tweet_count": 2349
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      }
+    ]
+  }
+}
