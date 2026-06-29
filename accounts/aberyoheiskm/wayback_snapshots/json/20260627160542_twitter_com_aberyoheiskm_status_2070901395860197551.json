@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2070172630750220446",
+    "created_at": "2026-06-27T16:05:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T17:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070901395860197551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1817580817125867520",
+          "start": 0,
+          "username": "koekotae0819"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070901395860197551",
+    "in_reply_to_user_id": "1817580817125867520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070895256107979021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@koekotae0819 此男真的很萌啊声音软绵绵的人飒飒的呜呜呜ദ്ദി˶ｰ̀֊ｰ́ )\n结男坑的果然都太有品了……(இωஇ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2070172630750220446",
+        "created_at": "2026-06-27T16:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070901395860197551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1817580817125867520",
+              "start": 0,
+              "username": "koekotae0819"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070901395860197551",
+        "in_reply_to_user_id": "1817580817125867520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070895256107979021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@koekotae0819 此男真的很萌啊声音软绵绵的人飒飒的呜呜呜ദ്ദി˶ｰ̀֊ｰ́ )\n结男坑的果然都太有品了……(இωஇ )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817580817125867520",
+        "conversation_id": "2070172630750220446",
+        "created_at": "2026-06-27T15:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070895256107979021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070895256107979021",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070563107643252906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm www对呀我也很久没见过有人喜欢此ip了(ಥ﹏ಥ) 小圆镜男子超辣舞 ୧⍢⃝୨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 346,
+          "like_count": 3785,
+          "listed_count": 1,
+          "media_count": 251,
+          "tweet_count": 2446
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T15:20:34.000Z",
+        "description": "🌧️可以称呼雨滴或koe(こえ)！┆很杂什么都发的号┆过期男高┆青い風声鶴唳\n押し込んで┆請繼續夢見我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/track/0yEvK14l…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/track/0yEvK14lJzaw4UcvZh12du?si=iDAxpvb2QSmMqTxGnUYnsA",
+                "start": 0,
+                "url": "https://t.co/6FzVqpU57n"
+              }
+            ]
+          }
+        },
+        "id": "1817580817125867520",
+        "location": "灰版電機工業",
+        "name": "春起拂枝意🌧️",
+        "pinned_tweet_id": "2040723949932499306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023849908806316035/m7wNetyr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 264,
+          "like_count": 1251,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 240
+        },
+        "url": "https://t.co/6FzVqpU57n",
+        "username": "koekotae0819",
+        "verified": false
+      }
+    ]
+  }
+}
