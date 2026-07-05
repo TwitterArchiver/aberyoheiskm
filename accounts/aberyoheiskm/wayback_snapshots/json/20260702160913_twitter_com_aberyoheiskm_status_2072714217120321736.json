@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072668702923976704"
+      ],
+      "media_source_tweet_id": [
+        "2072668711216124015"
+      ]
+    },
+    "author_id": "1804875241367433216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2072714217120321736",
+    "created_at": "2026-07-02T16:09:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T17:09:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072714217120321736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1766669368396574720",
+          "start": 3,
+          "username": "kanono167"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YaexmUvbg6",
+          "end": 38,
+          "expanded_url": "https://x.com/kanono167/status/2072668711216124015/photo/1",
+          "media_key": "3_2072668702923976704",
+          "start": 15,
+          "url": "https://t.co/YaexmUvbg6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072714217120321736",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072668711216124015",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kanono167: https://t.co/YaexmUvbg6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072668702923976704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOZNC7acAAAkqY.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072668702923976704"
+          ],
+          "media_source_tweet_id": [
+            "2072668711216124015"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072714217120321736",
+        "created_at": "2026-07-02T16:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T17:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072714217120321736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1766669368396574720",
+              "start": 3,
+              "username": "kanono167"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YaexmUvbg6",
+              "end": 38,
+              "expanded_url": "https://x.com/kanono167/status/2072668711216124015/photo/1",
+              "media_key": "3_2072668702923976704",
+              "start": 15,
+              "url": "https://t.co/YaexmUvbg6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072714217120321736",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072668711216124015",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kanono167: https://t.co/YaexmUvbg6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072668702923976704"
+          ]
+        },
+        "author_id": "1766669368396574720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072668711216124015",
+        "created_at": "2026-07-02T13:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072668711216124015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YaexmUvbg6",
+              "end": 23,
+              "expanded_url": "https://x.com/kanono167/status/2072668711216124015/photo/1",
+              "media_key": "3_2072668702923976704",
+              "start": 0,
+              "url": "https://t.co/YaexmUvbg6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072668711216124015",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YaexmUvbg6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 362,
+          "like_count": 4063,
+          "listed_count": 1,
+          "media_count": 273,
+          "tweet_count": 2616
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T03:36:31.000Z",
+        "description": "絶対一生推し@JURI_MAGMAZ/前世@KISSnoyume",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "JURI_MAGMAZ"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "KISSnoyume"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kano620",
+                "end": 23,
+                "expanded_url": "https://lit.link/kano620",
+                "start": 0,
+                "url": "https://t.co/fX756BuBuB"
+              }
+            ]
+          }
+        },
+        "id": "1766669368396574720",
+        "location": "外星🛜",
+        "name": "可丽饼",
+        "pinned_tweet_id": "2011668924811678206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064091713782849536/5MPSeq0r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 521,
+          "like_count": 4204,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 927
+        },
+        "url": "https://t.co/fX756BuBuB",
+        "username": "kanono167",
+        "verified": false
+      }
+    ]
+  }
+}

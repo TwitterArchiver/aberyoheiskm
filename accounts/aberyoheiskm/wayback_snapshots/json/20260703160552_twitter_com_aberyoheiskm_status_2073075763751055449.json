@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2072913359901696255",
+    "created_at": "2026-07-03T16:05:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T17:05:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073075763751055449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2013583237147463680",
+          "start": 0,
+          "username": "HanaBfky3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073075763751055449",
+    "in_reply_to_user_id": "2013583237147463680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072913359901696255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HanaBfky3 好美味的小熊……🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3603,
+        "height": 1280,
+        "media_key": "13_2072913345464938496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072913345464938496/img/UHAXYdTHcvMZDjgc.jpg",
+        "public_metrics": {
+          "view_count": 9665
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072913345464938496/vid/avc1/320x568/7inBphXpJLjqoG6p.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072913345464938496/vid/avc1/480x852/i6yWg4PZJw3duUIr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072913345464938496/vid/avc1/720x1280/U8q7QsglCo0MJJdu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072913345464938496/pl/6fz7ibKzyG7I1McA.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072913345427169280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMR3tHRaYAA5MKa.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2072913345418776576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMR3tHPaUAAIoXw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2072913359901696255",
+        "created_at": "2026-07-03T16:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073075763751055449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2013583237147463680",
+              "start": 0,
+              "username": "HanaBfky3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073075763751055449",
+        "in_reply_to_user_id": "2013583237147463680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072913359901696255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HanaBfky3 好美味的小熊……🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072913345464938496",
+            "3_2072913345427169280",
+            "3_2072913345418776576"
+          ]
+        },
+        "author_id": "2013583237147463680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072913359901696255",
+        "created_at": "2026-07-03T05:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T06:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072913359901696255"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "瀉血"
+            },
+            {
+              "end": 9,
+              "start": 4,
+              "tag": "自傷行為"
+            },
+            {
+              "end": 23,
+              "start": 10,
+              "tag": "bloodletting"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "sh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R68qo6TxaG",
+              "end": 51,
+              "expanded_url": "https://x.com/HanaBfky3/status/2072913359901696255/video/1",
+              "media_key": "13_2072913345464938496",
+              "start": 28,
+              "url": "https://t.co/R68qo6TxaG"
+            },
+            {
+              "display_url": "pic.x.com/R68qo6TxaG",
+              "end": 51,
+              "expanded_url": "https://x.com/HanaBfky3/status/2072913359901696255/video/1",
+              "media_key": "3_2072913345427169280",
+              "start": 28,
+              "url": "https://t.co/R68qo6TxaG"
+            },
+            {
+              "display_url": "pic.x.com/R68qo6TxaG",
+              "end": 51,
+              "expanded_url": "https://x.com/HanaBfky3/status/2072913359901696255/video/1",
+              "media_key": "3_2072913345418776576",
+              "start": 28,
+              "url": "https://t.co/R68qo6TxaG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072913359901696255",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 272,
+          "impression_count": 17701,
+          "like_count": 2140,
+          "quote_count": 33,
+          "reply_count": 28,
+          "retweet_count": 335
+        },
+        "reply_settings": "everyone",
+        "text": "#瀉血 #自傷行為　#bloodletting #sh https://t.co/R68qo6TxaG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 375,
+          "like_count": 4178,
+          "listed_count": 1,
+          "media_count": 275,
+          "tweet_count": 2659
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-20T12:04:27.000Z",
+        "description": "",
+        "id": "2013583237147463680",
+        "name": "HanaB",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072911819526819840/yzUkH6S9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "HanaBfky3",
+        "verified": false
+      }
+    ]
+  }
+}

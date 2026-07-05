@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2072291576295153788",
+    "created_at": "2026-07-01T23:59:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T00:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072470256032137363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2053892249851998208",
+          "start": 0,
+          "username": "iiq1427276"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072470256032137363",
+    "in_reply_to_user_id": "2053892249851998208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072369157551894836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iiq1427276 ai还自己生成了一些意义不明的表情和姿势……很懂哇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2072291576295153788",
+        "created_at": "2026-07-01T23:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T00:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072470256032137363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053892249851998208",
+              "start": 0,
+              "username": "iiq1427276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072470256032137363",
+        "in_reply_to_user_id": "2053892249851998208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072369157551894836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iiq1427276 ai还自己生成了一些意义不明的表情和姿势……很懂哇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053892249851998208",
+        "conversation_id": "2072291576295153788",
+        "created_at": "2026-07-01T17:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T18:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072369157551894836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072369157551894836",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072291576295153788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm 我真的笑爆缸了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 356,
+          "like_count": 3980,
+          "listed_count": 1,
+          "media_count": 263,
+          "tweet_count": 2568
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T17:38:33.000Z",
+        "description": "hi可以叫我夏美💟08|infp|双相|ADHD|双性恋|超高p线下无此人|几乎全是碎碎念神经发言偶尔雪图牢骚还有一点我的画🤲|日语学习中|我推 水上由岐 曾根美雪 祢豆子|友跨友一切！我爱所有的宝宝们🥺💟查成分互fo~爱你们喵~\nhttps://t.co/2LuNaTO1e4提问箱来玩吧嗯",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/natsumi5005",
+                "end": 139,
+                "expanded_url": "https://ngl.link/natsumi5005",
+                "start": 116,
+                "url": "https://t.co/2LuNaTO1e4"
+              }
+            ]
+          }
+        },
+        "id": "2053892249851998208",
+        "location": "🚪52  纯绿收获一个萌萌的现生夏美",
+        "name": "众生蒙太奇",
+        "pinned_tweet_id": "2068297602161054201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063990512311541760/CciKliQx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 167,
+          "like_count": 1567,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 681
+        },
+        "url": "",
+        "username": "iiq1427276",
+        "verified": false
+      }
+    ]
+  }
+}

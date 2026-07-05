@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073093067759050752"
+      ]
+    },
+    "author_id": "1804875241367433216",
+    "conversation_id": "2073093080744608010",
+    "created_at": "2026-07-03T17:14:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T18:14:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073093080744608010"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7zo1fidgtF",
+          "end": 155,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2073093080744608010/photo/1",
+          "media_key": "3_2073093067759050752",
+          "start": 132,
+          "url": "https://t.co/7zo1fidgtF"
+        },
+        {
+          "display_url": "x.com/Aumileude/stat…",
+          "end": 179,
+          "expanded_url": "https://twitter.com/Aumileude/status/2072946096213782720",
+          "start": 156,
+          "url": "https://t.co/kVI61oVbDj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073093080744608010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072946096213782720",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "掷圣杯吗……以前去福建的时候许过愿，我问我的记忆力什么时候可以恢复……大师对我说哇、“入夏晴乾雨又愆”，是说最近（正处）夏天闷热气运不好，“節氣直交三伏始，喜逢滂沛足田園”，意思就是我日后只要到秋天了哇，天气越来越好，大雨下下来了，我的记忆力就……回来……了…… https://t.co/7zo1fidgtF https://t.co/kVI61oVbDj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073093067759050752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMUbKVIaYAA4b8w.jpg",
+        "width": 921
+      },
+      {
+        "height": 642,
+        "media_key": "3_2072946087196016641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSVe73awAES9hj.jpg",
+        "width": 726
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073093067759050752"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "conversation_id": "2073093080744608010",
+        "created_at": "2026-07-03T17:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T18:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073093080744608010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7zo1fidgtF",
+              "end": 155,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2073093080744608010/photo/1",
+              "media_key": "3_2073093067759050752",
+              "start": 132,
+              "url": "https://t.co/7zo1fidgtF"
+            },
+            {
+              "display_url": "x.com/Aumileude/stat…",
+              "end": 179,
+              "expanded_url": "https://twitter.com/Aumileude/status/2072946096213782720",
+              "start": 156,
+              "url": "https://t.co/kVI61oVbDj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073093080744608010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072946096213782720",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "掷圣杯吗……以前去福建的时候许过愿，我问我的记忆力什么时候可以恢复……大师对我说哇、“入夏晴乾雨又愆”，是说最近（正处）夏天闷热气运不好，“節氣直交三伏始，喜逢滂沛足田園”，意思就是我日后只要到秋天了哇，天气越来越好，大雨下下来了，我的记忆力就……回来……了…… https://t.co/7zo1fidgtF https://t.co/kVI61oVbDj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072946087196016641"
+          ]
+        },
+        "author_id": "1354705112149729280",
+        "conversation_id": "2072946096213782720",
+        "created_at": "2026-07-03T07:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T08:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072946096213782720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4kTc02joQz",
+              "end": 28,
+              "expanded_url": "https://x.com/Aumileude/status/2072946096213782720/photo/1",
+              "media_key": "3_2072946087196016641",
+              "start": 5,
+              "url": "https://t.co/4kTc02joQz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072946096213782720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8460,
+          "like_count": 292,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "福建豆包 https://t.co/4kTc02joQz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 375,
+          "like_count": 4192,
+          "listed_count": 1,
+          "media_count": 277,
+          "tweet_count": 2668
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-28T08:17:37.000Z",
+        "description": "05年笨蛋钱 | 目标是成为交易大师｜meme猎手 | @MossAi_Official Ambassador | building @McDonalds | 女朋友@be6b1143",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 28,
+                "username": "MossAi_Official"
+              },
+              {
+                "end": 77,
+                "start": 67,
+                "username": "McDonalds"
+              },
+              {
+                "end": 92,
+                "start": 83,
+                "username": "be6b1143"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+5ApNAf0JWU9jM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+5ApNAf0JWU9jMWU9",
+                "start": 0,
+                "url": "https://t.co/Lais9nHIC9"
+              }
+            ]
+          }
+        },
+        "id": "1354705112149729280",
+        "name": "三三",
+        "pinned_tweet_id": "1986427871817310452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997860653877665792/qvKqHuER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17903,
+          "following_count": 2022,
+          "like_count": 78166,
+          "listed_count": 57,
+          "media_count": 1879,
+          "tweet_count": 26256
+        },
+        "url": "https://t.co/Lais9nHIC9",
+        "username": "Aumileude",
+        "verified": true
+      }
+    ]
+  }
+}

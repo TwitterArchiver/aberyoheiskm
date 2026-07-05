@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2072499313939460180",
+    "created_at": "2026-07-02T04:14:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T05:14:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072534336537251842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1593658370367660032",
+          "start": 0,
+          "username": "momomok56801208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072534336537251842",
+    "in_reply_to_user_id": "1593658370367660032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072533081865777209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momomok56801208 我也是，其实在KTV唱歌很爽但是又不想让别人听到我唱歌😭😭😭……一个人真的不划算但是人多了又不好意思呜呜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 790,
+        "media_key": "3_2072533058147045376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMMd1ewb0AAxbXS.jpg",
+        "width": 648
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2072499313939460180",
+        "created_at": "2026-07-02T04:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T05:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072534336537251842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1593658370367660032",
+              "start": 0,
+              "username": "momomok56801208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072534336537251842",
+        "in_reply_to_user_id": "1593658370367660032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072533081865777209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momomok56801208 我也是，其实在KTV唱歌很爽但是又不想让别人听到我唱歌😭😭😭……一个人真的不划算但是人多了又不好意思呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072533058147045376"
+          ]
+        },
+        "author_id": "1593658370367660032",
+        "conversation_id": "2072499313939460180",
+        "created_at": "2026-07-02T04:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T05:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072533081865777209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JJDP9vTDh2",
+              "end": 104,
+              "expanded_url": "https://x.com/momomok56801208/status/2072533081865777209/photo/1",
+              "media_key": "3_2072533058147045376",
+              "start": 81,
+              "url": "https://t.co/JJDP9vTDh2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072533081865777209",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072499313939460180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm 辣我的更绝望，还有其实我是喜欢去ktv唱歌的，但是一个人浪费钱所以一般不去，团建我也是喜欢的但是太社恐了不知道怎么团建也没人带我玩（ https://t.co/JJDP9vTDh2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 358,
+          "like_count": 3999,
+          "listed_count": 1,
+          "media_count": 264,
+          "tweet_count": 2576
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-18T17:32:29.000Z",
+        "description": "东方绀zun传苦手/红魔馆起爆器持有者/十六夜咲夜激推/日本語は本当に下手だけど、話したい話題があれば頑張るよ/还有什么的话再让我想想\n请多关照，想交朋友/友達募集中（",
+        "id": "1593658370367660032",
+        "name": "もも もか",
+        "pinned_tweet_id": "2071554118141776142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072341986280173568/FsFJtrU8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 80,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 52
+        },
+        "url": "",
+        "username": "momomok56801208",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2070537692241412161",
+    "created_at": "2026-06-28T01:21:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T02:21:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071041319590674888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2035435929607737344",
+          "start": 0,
+          "username": "xiaosumao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071041319590674888",
+    "in_reply_to_user_id": "2035435929607737344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070984739872526649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaosumao 问问胶囊用几号的哇，感觉之前买的0号好像买大了ww꜀(^. .^꜀  )꜆੭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2070537692241412161",
+        "created_at": "2026-06-28T01:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T02:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071041319590674888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2035435929607737344",
+              "start": 0,
+              "username": "xiaosumao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071041319590674888",
+        "in_reply_to_user_id": "2035435929607737344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070984739872526649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaosumao 问问胶囊用几号的哇，感觉之前买的0号好像买大了ww꜀(^. .^꜀  )꜆੭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035435929607737344",
+        "conversation_id": "2070537692241412161",
+        "created_at": "2026-06-27T21:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T22:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070984739872526649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070984739872526649",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070537692241412161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm 蜜蜜你把他放到胶囊试试 就是会有点难吞了🌚我是三颗胶囊一块吞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 347,
+          "like_count": 3817,
+          "listed_count": 1,
+          "media_count": 252,
+          "tweet_count": 2466
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-21T19:19:55.000Z",
+        "description": "",
+        "id": "2035435929607737344",
+        "name": "Seren",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045933593747140608/z9jQhqd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 14,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 104
+        },
+        "url": "",
+        "username": "xiaosumao",
+        "verified": false
+      }
+    ]
+  }
+}

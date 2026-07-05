@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2072706128656609280"
+      ]
+    },
+    "author_id": "1804875241367433216",
+    "conversation_id": "2072336342659531102",
+    "created_at": "2026-07-02T15:37:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T16:37:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072706141034013155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "971003340602486784",
+          "start": 0,
+          "username": "Ixoryss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tJLY68k0hX",
+          "end": 32,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2072706141034013155/photo/1",
+          "media_key": "16_2072706128656609280",
+          "start": 9,
+          "url": "https://t.co/tJLY68k0hX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072706141034013155",
+    "in_reply_to_user_id": "971003340602486784",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072640500814020892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ixoryss https://t.co/tJLY68k0hX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "16_2072706128656609280",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HMO7PgpaMAAv4mw.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HMO7PgpaMAAv4mw.mp4"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2072706128656609280"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "conversation_id": "2072336342659531102",
+        "created_at": "2026-07-02T15:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072706141034013155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "971003340602486784",
+              "start": 0,
+              "username": "Ixoryss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tJLY68k0hX",
+              "end": 32,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2072706141034013155/photo/1",
+              "media_key": "16_2072706128656609280",
+              "start": 9,
+              "url": "https://t.co/tJLY68k0hX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072706141034013155",
+        "in_reply_to_user_id": "971003340602486784",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072640500814020892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ixoryss https://t.co/tJLY68k0hX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "971003340602486784",
+        "conversation_id": "2072336342659531102",
+        "created_at": "2026-07-02T11:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072640500814020892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072640500814020892",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072336342659531102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm 核不扩散公约"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 362,
+          "like_count": 4048,
+          "listed_count": 1,
+          "media_count": 272,
+          "tweet_count": 2612
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-06T12:43:31.000Z",
+        "description": "别让猫照镜子\n｜苏州 硬件工作室\n｜00 174 50",
+        "id": "971003340602486784",
+        "name": "镜子里的猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042862643762102272/_mIwOzB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 353,
+          "like_count": 950,
+          "listed_count": 1,
+          "media_count": 557,
+          "tweet_count": 2033
+        },
+        "url": "",
+        "username": "Ixoryss",
+        "verified": false
+      }
+    ]
+  }
+}

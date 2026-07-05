@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2072180656113610906",
+    "created_at": "2026-07-01T13:27:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T14:27:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072311007989662072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1976313339224653828",
+          "start": 0,
+          "username": "Naiv46528_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072311007989662072",
+    "in_reply_to_user_id": "1976313339224653828",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072180656113610906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Naiv46528_ \\lithium/\\lithium/\\lithium/\\lithium/\\lithium/\\lithium/\\lithium/\\lithium/"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072180643778240512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHdUQ7XoAARgZs.jpg",
+        "width": 1476
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2072180656113610906",
+        "created_at": "2026-07-01T13:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T14:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072311007989662072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976313339224653828",
+              "start": 0,
+              "username": "Naiv46528_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072311007989662072",
+        "in_reply_to_user_id": "1976313339224653828",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072180656113610906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Naiv46528_ \\lithium/\\lithium/\\lithium/\\lithium/\\lithium/\\lithium/\\lithium/\\lithium/"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072180643778240512"
+          ]
+        },
+        "author_id": "1976313339224653828",
+        "conversation_id": "2072180656113610906",
+        "created_at": "2026-07-01T04:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T05:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072180656113610906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tc4a9RCCeD",
+              "end": 31,
+              "expanded_url": "https://x.com/Naiv46528_/status/2072180656113610906/photo/1",
+              "media_key": "3_2072180643778240512",
+              "start": 8,
+              "url": "https://t.co/tc4a9RCCeD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072180656113610906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 630,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "碳酸锂烟色反应 https://t.co/tc4a9RCCeD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 353,
+          "like_count": 3912,
+          "listed_count": 1,
+          "media_count": 260,
+          "tweet_count": 2520
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T15:46:43.000Z",
+        "description": "我是蓝，除中文外皆为机翻，请多关照",
+        "id": "1976313339224653828",
+        "name": "嗳寺藍Naiv",
+        "pinned_tweet_id": "2071971546604748906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071965593180295168/1S4gwjyI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 159,
+          "like_count": 572,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 223
+        },
+        "url": "",
+        "username": "Naiv46528_",
+        "verified": false
+      }
+    ]
+  }
+}

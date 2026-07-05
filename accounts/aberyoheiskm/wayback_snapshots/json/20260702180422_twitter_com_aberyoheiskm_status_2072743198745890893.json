@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2072530620325257594",
+    "created_at": "2026-07-02T18:04:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T19:04:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072743198745890893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1994689378783039488",
+          "start": 0,
+          "username": "nemulasete"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072743198745890893",
+    "in_reply_to_user_id": "1994689378783039488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072725896151359994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nemulasete 可以、已经记下来了！等我下次去复诊的时候点菜看看有没有🥹谢谢你……阿里嘎多ww……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2072530620325257594",
+        "created_at": "2026-07-02T18:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T19:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072743198745890893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1994689378783039488",
+              "start": 0,
+              "username": "nemulasete"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072743198745890893",
+        "in_reply_to_user_id": "1994689378783039488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072725896151359994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nemulasete 可以、已经记下来了！等我下次去复诊的时候点菜看看有没有🥹谢谢你……阿里嘎多ww……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994689378783039488",
+        "conversation_id": "2072530620325257594",
+        "created_at": "2026-07-02T16:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T17:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072725896151359994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072725896151359994",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072530620325257594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm 试试抵达悉尼，以前在安定医生给我开过这个，是23年上市的新药。虽然我个人体质觉得对我来说用处不大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 365,
+          "like_count": 4078,
+          "listed_count": 1,
+          "media_count": 274,
+          "tweet_count": 2623
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T08:46:43.000Z",
+        "description": "メンヘラのひとりごと。",
+        "id": "1994689378783039488",
+        "name": "マイスリー",
+        "pinned_tweet_id": "2064893045703905515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016577871855439874/85apBSRK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 37,
+          "like_count": 1057,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 610
+        },
+        "url": "",
+        "username": "nemulasete",
+        "verified": false
+      }
+    ]
+  }
+}

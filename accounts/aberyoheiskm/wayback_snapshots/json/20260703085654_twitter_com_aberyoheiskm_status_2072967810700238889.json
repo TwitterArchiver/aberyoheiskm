@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2072805099345219746",
+    "created_at": "2026-07-03T08:56:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T09:56:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072967810700238889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1491080744508489731",
+          "start": 0,
+          "username": "0308_Sodashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072967810700238889",
+    "in_reply_to_user_id": "1491080744508489731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072805099345219746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0308_Sodashi 生日快乐！ʕ ◦`꒳´◦ʔ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1184,
+        "media_key": "3_2072805093036941312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMQVP_sWYAAt39e.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2072805099345219746",
+        "created_at": "2026-07-03T08:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T09:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072967810700238889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1491080744508489731",
+              "start": 0,
+              "username": "0308_Sodashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072967810700238889",
+        "in_reply_to_user_id": "1491080744508489731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072805099345219746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0308_Sodashi 生日快乐！ʕ ◦`꒳´◦ʔ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072805093036941312"
+          ]
+        },
+        "author_id": "1491080744508489731",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072805099345219746",
+        "created_at": "2026-07-02T22:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T23:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072805099345219746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GkheaUsKM5",
+              "end": 28,
+              "expanded_url": "https://x.com/0308_Sodashi/status/2072805099345219746/photo/1",
+              "media_key": "3_2072805093036941312",
+              "start": 5,
+              "url": "https://t.co/GkheaUsKM5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072805099345219746",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4076,
+          "like_count": 147,
+          "quote_count": 2,
+          "reply_count": 81,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "19岁力 https://t.co/GkheaUsKM5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 372,
+          "like_count": 4133,
+          "listed_count": 1,
+          "media_count": 275,
+          "tweet_count": 2647
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T16:05:39.000Z",
+        "description": "｜德國在住｜鉄道・帝国海軍・競馬が好き｜艦これ 柱島泊地｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "whofuckingcares.com",
+                "end": 23,
+                "expanded_url": "http://whofuckingcares.com",
+                "start": 0,
+                "url": "https://t.co/bup4Aua3Sh"
+              }
+            ]
+          }
+        },
+        "id": "1491080744508489731",
+        "location": "Osaka-shi Tennoji-ku, Osaka",
+        "name": "葉",
+        "pinned_tweet_id": "2026320201122554124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067957780565106688/JvRTf8sR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3720,
+          "following_count": 3663,
+          "like_count": 126027,
+          "listed_count": 16,
+          "media_count": 5003,
+          "tweet_count": 33358
+        },
+        "url": "https://t.co/bup4Aua3Sh",
+        "username": "0308_Sodashi",
+        "verified": false
+      }
+    ]
+  }
+}

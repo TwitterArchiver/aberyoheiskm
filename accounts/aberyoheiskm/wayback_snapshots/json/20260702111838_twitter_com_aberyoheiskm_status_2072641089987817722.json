@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2072469937428516982",
+    "created_at": "2026-07-02T11:18:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T12:18:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072641089987817722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1638959586140098560",
+          "start": 0,
+          "username": "fanwei_17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072641089987817722",
+    "in_reply_to_user_id": "1638959586140098560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072469937428516982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fanwei_17 正愁最近吃sns呼吸抑制怎么办呢，阿里嘎多火速下单！🤤🤤🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2072469934245040128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMLkbL5aUAArhow.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2072469937428516982",
+        "created_at": "2026-07-02T11:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072641089987817722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "fanwei_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072641089987817722",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072469937428516982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanwei_17 正愁最近吃sns呼吸抑制怎么办呢，阿里嘎多火速下单！🤤🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072469934245040128"
+          ]
+        },
+        "author_id": "1638959586140098560",
+        "conversation_id": "2072469937428516982",
+        "created_at": "2026-07-01T23:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T00:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072469937428516982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xfb7zb6WBC",
+              "end": 101,
+              "expanded_url": "https://x.com/fanwei_17/status/2072469937428516982/photo/1",
+              "media_key": "3_2072469934245040128",
+              "start": 78,
+              "url": "https://t.co/xfb7zb6WBC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072469937428516982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 3206,
+          "like_count": 64,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "教个有用的\n呼吸抑制时含一颗这个糖 或者慢慢嚼碎\n虽然不能解决呼吸抑制 但是主观上能让呼吸变通透 顺畅 舒服很多\n(我自己研究出的方法 不一定适用所有人) https://t.co/xfb7zb6WBC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 362,
+          "like_count": 4039,
+          "listed_count": 1,
+          "media_count": 271,
+          "tweet_count": 2608
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互动互fo/偏爱:@Numiouoo/友跨友同友全部",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2072335278312931584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2516,
+          "following_count": 1551,
+          "like_count": 5769,
+          "listed_count": 3,
+          "media_count": 58,
+          "tweet_count": 2599
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "fanwei_17",
+        "verified": true
+      }
+    ]
+  }
+}

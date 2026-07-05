@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2071615458676289786",
+    "created_at": "2026-06-29T15:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T16:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071616538302623905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688556439865090048",
+          "start": 0,
+          "username": "ysn42231385235"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071616538302623905",
+    "in_reply_to_user_id": "1688556439865090048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071615458676289786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ysn42231385235 摸摸摸摸……还好吗😨😨😨感觉胃都要吐出来了……"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 66186,
+        "height": 1280,
+        "media_key": "7_2071614891224657921",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2071614891224657921/pu/img/YMpfivzXYcamSn9Q.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071614891224657921/pu/vid/avc1/320x568/VmyKIMrJ-770bCoT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071614891224657921/pu/vid/avc1/480x852/6Q2LxmEySdh8ZYYk.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2071614891224657921/pu/vid/avc1/720x1280/u1bzoBEth7xEzYq5.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2071614891224657921/pu/pl/HKadCEi4keM85cPm.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2071615458676289786",
+        "created_at": "2026-06-29T15:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T16:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071616538302623905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688556439865090048",
+              "start": 0,
+              "username": "ysn42231385235"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071616538302623905",
+        "in_reply_to_user_id": "1688556439865090048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071615458676289786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ysn42231385235 摸摸摸摸……还好吗😨😨😨感觉胃都要吐出来了……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2071614891224657921"
+          ]
+        },
+        "author_id": "1688556439865090048",
+        "conversation_id": "2071615458676289786",
+        "created_at": "2026-06-29T15:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T16:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071615458676289786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ksqpvBTtR0",
+              "end": 30,
+              "expanded_url": "https://x.com/ysn42231385235/status/2071615458676289786/video/1",
+              "media_key": "7_2071614891224657921",
+              "start": 7,
+              "url": "https://t.co/ksqpvBTtR0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071615458676289786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "烟越来越大。 https://t.co/ksqpvBTtR0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 351,
+          "like_count": 3833,
+          "listed_count": 1,
+          "media_count": 252,
+          "tweet_count": 2470
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T14:23:45.000Z",
+        "description": "请称呼我月誓就好！                                                            \n男的，od狗音游狗光棒狗。我没有啥道德感只想操逼，上网只是性压抑和想冲浪还有发泄情绪。本质上是一个开心的傻子，可爱小妹妹可以私信我 (*^▽^*)",
+        "id": "1688556439865090048",
+        "location": "想认识更多朋友 互fo欢迎",
+        "name": "ミエナイ",
+        "pinned_tweet_id": "2026775867977007254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062582170120855552/o_wJwRLU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 584,
+          "like_count": 8948,
+          "listed_count": 0,
+          "media_count": 280,
+          "tweet_count": 2880
+        },
+        "url": "",
+        "username": "ysn42231385235",
+        "verified": false
+      }
+    ]
+  }
+}
