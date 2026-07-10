@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073362067265036288"
+      ]
+    },
+    "author_id": "1804875241367433216",
+    "conversation_id": "2073308328265199977",
+    "created_at": "2026-07-04T11:03:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T12:03:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073362074261188870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1481172876589821952",
+          "start": 0,
+          "username": "Easter_buny"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2TY0wQeaUG",
+          "end": 43,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2073362074261188870/photo/1",
+          "media_key": "3_2073362067265036288",
+          "start": 20,
+          "url": "https://t.co/2TY0wQeaUG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073362074261188870",
+    "in_reply_to_user_id": "1481172876589821952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073360957049536971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Easter_buny 没办法哇…… https://t.co/2TY0wQeaUG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2073362067265036288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYP0KYaIAARV8_.jpg",
+        "width": 1375
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073362067265036288"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "conversation_id": "2073308328265199977",
+        "created_at": "2026-07-04T11:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073362074261188870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "Easter_buny"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2TY0wQeaUG",
+              "end": 43,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2073362074261188870/photo/1",
+              "media_key": "3_2073362067265036288",
+              "start": 20,
+              "url": "https://t.co/2TY0wQeaUG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073362074261188870",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073360957049536971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Easter_buny 没办法哇…… https://t.co/2TY0wQeaUG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481172876589821952",
+        "conversation_id": "2073308328265199977",
+        "created_at": "2026-07-04T10:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073360957049536971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073360957049536971",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073359756706849254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm 太奇怪了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 376,
+          "like_count": 4220,
+          "listed_count": 1,
+          "media_count": 281,
+          "tweet_count": 2701
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "buny",
+        "pinned_tweet_id": "2053423562250465515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065339877789724672/EArQgT61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8402,
+          "following_count": 1242,
+          "like_count": 66712,
+          "listed_count": 8,
+          "media_count": 3073,
+          "tweet_count": 18962
+        },
+        "url": "",
+        "username": "Easter_buny",
+        "verified": false
+      }
+    ]
+  }
+}

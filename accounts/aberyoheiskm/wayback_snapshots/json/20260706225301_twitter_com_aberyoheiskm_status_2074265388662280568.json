@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2074204553969545421",
+    "created_at": "2026-07-06T22:53:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T23:53:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074265388662280568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1229811974763974658",
+          "start": 0,
+          "username": "Aokigawa8964"
+        },
+        {
+          "end": 24,
+          "id": "94999172",
+          "start": 14,
+          "username": "toukorina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074265388662280568",
+    "in_reply_to_user_id": "1229811974763974658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074213428974260487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aokigawa8964 @toukorina 原来是这样，怪不得我吃了好像效果大打折扣了一样……学会了学会了感谢分享"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2074204553969545421",
+        "created_at": "2026-07-06T22:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T23:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074265388662280568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1229811974763974658",
+              "start": 0,
+              "username": "Aokigawa8964"
+            },
+            {
+              "end": 24,
+              "id": "94999172",
+              "start": 14,
+              "username": "toukorina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074265388662280568",
+        "in_reply_to_user_id": "1229811974763974658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074213428974260487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aokigawa8964 @toukorina 原来是这样，怪不得我吃了好像效果大打折扣了一样……学会了学会了感谢分享"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1229811974763974658",
+        "conversation_id": "2074204553969545421",
+        "created_at": "2026-07-06T19:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T20:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074213428974260487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "94999172",
+              "start": 0,
+              "username": "toukorina"
+            },
+            {
+              "end": 24,
+              "id": "1804875241367433216",
+              "start": 11,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074213428974260487",
+        "in_reply_to_user_id": "94999172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074210521885315109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@toukorina @aberyoheiskm 思诺思是有点困的时候效果好，比较兴奋的时候单吃完全没用，比较困的时候吃完又容易兴奋脱抑制"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 391,
+          "like_count": 4491,
+          "listed_count": 1,
+          "media_count": 300,
+          "tweet_count": 2871
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-18T16:56:55.000Z",
+        "description": "You jump , I jump.可爱的妹妹雪仙@snowfairy011026 @TamikoTomorika @toukorina 永远爱@NuclearThermal",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 25,
+                "username": "snowfairy011026"
+              },
+              {
+                "end": 57,
+                "start": 42,
+                "username": "TamikoTomorika"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "toukorina"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "NuclearThermal"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Aokigawa",
+                "end": 23,
+                "expanded_url": "https://t.me/Aokigawa",
+                "start": 0,
+                "url": "https://t.co/hRiiUiYzxq"
+              }
+            ]
+          }
+        },
+        "id": "1229811974763974658",
+        "location": "Osaka-shi Naniwa-ku, Osaka",
+        "name": "平平无奇小机场🏳️‍⚧️",
+        "pinned_tweet_id": "1728070700613702059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777114753544208384/uAigzslA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 1101,
+          "like_count": 5681,
+          "listed_count": 2,
+          "media_count": 274,
+          "tweet_count": 5358
+        },
+        "url": "https://t.co/hRiiUiYzxq",
+        "username": "Aokigawa8964",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-06T13:33:23.000Z",
+        "description": "#ActuallyAutistic+ADHD+Bipolar. Transfem/Autigender 退学phd gamedev. 🥰@TamikoTomorika 你太NT了我给你送精神病院关两个月. #ハッピーシュガーライフ × @Aspirinrinn feat. @nilshiro ジェルばんは♡ †昇天†",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 0,
+                "tag": "ActuallyAutistic"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "tag": "ハッピーシュガーライフ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "TamikoTomorika"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "username": "Aspirinrinn"
+              },
+              {
+                "end": 146,
+                "start": 137,
+                "username": "nilshiro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "touko.social",
+                "end": 23,
+                "expanded_url": "https://touko.social",
+                "start": 0,
+                "url": "https://t.co/wlHCBJDIp1"
+              }
+            ]
+          }
+        },
+        "id": "94999172",
+        "location": "/橙子精神病院/Neurodivergent Dept.",
+        "name": "柚原橙子🍄🥕超绝躁郁橙子饼",
+        "pinned_tweet_id": "1527654707765792768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687704514131013632/B9KL8Hpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7369,
+          "following_count": 969,
+          "like_count": 175318,
+          "listed_count": 18,
+          "media_count": 1520,
+          "tweet_count": 44346
+        },
+        "url": "https://t.co/wlHCBJDIp1",
+        "username": "toukorina",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074401966953013248"
+      ],
+      "media_source_tweet_id": [
+        "2074401981670809733"
+      ]
+    },
+    "author_id": "1804875241367433216",
+    "conversation_id": "2074530508390936804",
+    "created_at": "2026-07-07T16:26:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T17:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074530508390936804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1753293214826848256",
+          "start": 3,
+          "username": "tatanakots"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xd6DeB8Gb4",
+          "end": 77,
+          "expanded_url": "https://x.com/tatanakots/status/2074401981670809733/photo/1",
+          "media_key": "3_2074401966953013248",
+          "start": 54,
+          "url": "https://t.co/xd6DeB8Gb4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074530508390936804",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074401981670809733",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tatanakots: 京东上的启石医院（方舟健客医疗主体）反馈男证不允许购买补佳乐，有处方也不行 https://t.co/xd6DeB8Gb4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2074401966953013248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnBmSmbIAAVzWb.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074401966953013248"
+          ],
+          "media_source_tweet_id": [
+            "2074401981670809733"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "conversation_id": "2074530508390936804",
+        "created_at": "2026-07-07T16:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T17:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074530508390936804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1753293214826848256",
+              "start": 3,
+              "username": "tatanakots"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xd6DeB8Gb4",
+              "end": 77,
+              "expanded_url": "https://x.com/tatanakots/status/2074401981670809733/photo/1",
+              "media_key": "3_2074401966953013248",
+              "start": 54,
+              "url": "https://t.co/xd6DeB8Gb4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074530508390936804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074401981670809733",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tatanakots: 京东上的启石医院（方舟健客医疗主体）反馈男证不允许购买补佳乐，有处方也不行 https://t.co/xd6DeB8Gb4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074401966953013248"
+          ]
+        },
+        "author_id": "1753293214826848256",
+        "conversation_id": "2074401981670809733",
+        "created_at": "2026-07-07T07:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074401981670809733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xd6DeB8Gb4",
+              "end": 61,
+              "expanded_url": "https://x.com/tatanakots/status/2074401981670809733/photo/1",
+              "media_key": "3_2074401966953013248",
+              "start": 38,
+              "url": "https://t.co/xd6DeB8Gb4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074401981670809733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 23062,
+          "like_count": 91,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "京东上的启石医院（方舟健客医疗主体）反馈男证不允许购买补佳乐，有处方也不行 https://t.co/xd6DeB8Gb4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 406,
+          "like_count": 4562,
+          "listed_count": 1,
+          "media_count": 301,
+          "tweet_count": 2914
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her サブ垢@tatanakots_sub\n逃生舱 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlWBbN"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたねこ🐱",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3963,
+          "following_count": 471,
+          "like_count": 32338,
+          "listed_count": 7,
+          "media_count": 1825,
+          "tweet_count": 14171
+        },
+        "url": "https://t.co/p7LtZlWBbN",
+        "username": "tatanakots",
+        "verified": true
+      }
+    ]
+  }
+}

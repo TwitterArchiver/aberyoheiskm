@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2074204553969545421",
+    "created_at": "2026-07-06T18:57:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T19:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074206008851968217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "94999172",
+          "start": 0,
+          "username": "toukorina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074206008851968217",
+    "in_reply_to_user_id": "94999172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074205352598679829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@toukorina 每天都换可以吗，我现在吃1t的佐匹克隆睡不着了……右佐回头也想吃回来因为价格相对来说便宜很多，不到四块钱7t"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2074204553969545421",
+        "created_at": "2026-07-06T18:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T19:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074206008851968217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "94999172",
+              "start": 0,
+              "username": "toukorina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074206008851968217",
+        "in_reply_to_user_id": "94999172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074205352598679829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@toukorina 每天都换可以吗，我现在吃1t的佐匹克隆睡不着了……右佐回头也想吃回来因为价格相对来说便宜很多，不到四块钱7t"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "94999172",
+        "conversation_id": "2074204553969545421",
+        "created_at": "2026-07-06T18:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T19:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074205352598679829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074205352598679829",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074204553969545421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm zdrug不要好快加量/天天吃 容易耐受 最好换着吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 391,
+          "like_count": 4465,
+          "listed_count": 1,
+          "media_count": 299,
+          "tweet_count": 2850
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": true
+      },
+      {
+        "created_at": "2009-12-06T13:33:23.000Z",
+        "description": "#ActuallyAutistic+ADHD+Bipolar. Transfem/Autigender 退学phd gamedev. 🥰@TamikoTomorika 你太NT了我给你送精神病院关两个月. #ハッピーシュガーライフ × @Aspirinrinn feat. @nilshiro ジェルばんは♡ †昇天†",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 0,
+                "tag": "ActuallyAutistic"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "tag": "ハッピーシュガーライフ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "TamikoTomorika"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "username": "Aspirinrinn"
+              },
+              {
+                "end": 146,
+                "start": 137,
+                "username": "nilshiro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "touko.social",
+                "end": 23,
+                "expanded_url": "https://touko.social",
+                "start": 0,
+                "url": "https://t.co/wlHCBJDIp1"
+              }
+            ]
+          }
+        },
+        "id": "94999172",
+        "location": "/橙子精神病院/Neurodivergent Dept.",
+        "name": "柚原橙子🍄🥕超绝躁郁橙子饼",
+        "pinned_tweet_id": "1527654707765792768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687704514131013632/B9KL8Hpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7368,
+          "following_count": 968,
+          "like_count": 175198,
+          "listed_count": 18,
+          "media_count": 1520,
+          "tweet_count": 44336
+        },
+        "url": "https://t.co/wlHCBJDIp1",
+        "username": "toukorina",
+        "verified": false
+      }
+    ]
+  }
+}

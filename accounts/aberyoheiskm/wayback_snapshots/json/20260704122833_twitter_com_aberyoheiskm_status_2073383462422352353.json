@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2073280375863099665",
+    "created_at": "2026-07-04T12:28:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T13:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073383462422352353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1601893417549967360",
+          "start": 0,
+          "username": "AcboxLiu"
+        },
+        {
+          "end": 24,
+          "id": "1998751032650969088",
+          "start": 10,
+          "username": "Fox_Sakura233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073383462422352353",
+    "in_reply_to_user_id": "1601893417549967360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073291322321186994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcboxLiu @Fox_Sakura233 我还真认识○布洛芬的🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2073280375863099665",
+        "created_at": "2026-07-04T12:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073383462422352353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            },
+            {
+              "end": 24,
+              "id": "1998751032650969088",
+              "start": 10,
+              "username": "Fox_Sakura233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073383462422352353",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073291322321186994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcboxLiu @Fox_Sakura233 我还真认识○布洛芬的🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601893417549967360",
+        "conversation_id": "2073280375863099665",
+        "created_at": "2026-07-04T06:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T07:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073291322321186994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1998751032650969088",
+              "start": 0,
+              "username": "Fox_Sakura233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073291322321186994",
+        "in_reply_to_user_id": "1998751032650969088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 637,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073280375863099665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fox_Sakura233 达利雷生都要搞，再过几年是不是要搞布洛芬了🙄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 385,
+          "like_count": 4241,
+          "listed_count": 1,
+          "media_count": 282,
+          "tweet_count": 2708
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "/ 📦神秘纸箱 / 🐱家里有小猫和大猫\n/ https://t.co/hUTrNHa19i\n/ Co-founder of https://t.co/gLiVpv8l1t https://t.co/PSLnUgusnm\n/ Building https://t.co/1QoAcF6sm4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 45,
+                "expanded_url": "http://github.com/sheepbox8646",
+                "start": 22,
+                "url": "https://t.co/hUTrNHa19i"
+              },
+              {
+                "display_url": "memoh.ai",
+                "end": 85,
+                "expanded_url": "http://memoh.ai",
+                "start": 62,
+                "url": "https://t.co/gLiVpv8l1t"
+              },
+              {
+                "display_url": "felinic.ai",
+                "end": 109,
+                "expanded_url": "http://felinic.ai",
+                "start": 86,
+                "url": "https://t.co/PSLnUgusnm"
+              },
+              {
+                "display_url": "oh-my-github.app",
+                "end": 144,
+                "expanded_url": "http://oh-my-github.app",
+                "start": 121,
+                "url": "https://t.co/1QoAcF6sm4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/acboxawa",
+                "end": 23,
+                "expanded_url": "http://t.me/acboxawa",
+                "start": 0,
+                "url": "https://t.co/ItS4Ve8jNM"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "上海/深圳",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "2039222526803636555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038245960967741441/70mSKMEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12304,
+          "following_count": 2971,
+          "like_count": 3456,
+          "listed_count": 64,
+          "media_count": 1116,
+          "tweet_count": 6382
+        },
+        "url": "https://t.co/ItS4Ve8jNM",
+        "username": "AcboxLiu",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-10T13:46:18.000Z",
+        "description": "02 | ♂ |リスカ| OD | 病み垢 | 去勢済み | くず\n | 希死念慮 | 情緒不安定 |ZH/EN/JP|\n精神活性物質Wiki：https://t.co/XzFTNu4ouS｜本人发布的内容很危险，请合理使用，小心成瘾问题",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 95,
+                "expanded_url": "https://jile.bid/",
+                "start": 72,
+                "url": "https://t.co/XzFTNu4ouS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/XzFTNu4ouS"
+              }
+            ]
+          }
+        },
+        "id": "1998751032650969088",
+        "name": "sakura👾",
+        "pinned_tweet_id": "2069373938770256251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066312345912233984/vlN26lx1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 517,
+          "like_count": 642,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 346
+        },
+        "url": "https://t.co/XzFTNu4ouS",
+        "username": "Fox_Sakura233",
+        "verified": false
+      }
+    ]
+  }
+}

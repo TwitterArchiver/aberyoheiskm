@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2074410779433128395",
+    "created_at": "2026-07-08T04:40:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T05:40:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074715201816186880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1898308906994294784",
+          "start": 0,
+          "username": "TTBRAr12"
+        },
+        {
+          "end": 24,
+          "id": "1937073350750466048",
+          "start": 10,
+          "username": "karo269640607"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074715201816186880",
+    "in_reply_to_user_id": "1898308906994294784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074712771963543843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TTBRAr12 @karo269640607 草，想起来上次给我开药的那个医生好像是直接让我自己看说明书吃，根本就没跟我说怎么吃就把我打发走了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2074410779433128395",
+        "created_at": "2026-07-08T04:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074715201816186880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1898308906994294784",
+              "start": 0,
+              "username": "TTBRAr12"
+            },
+            {
+              "end": 24,
+              "id": "1937073350750466048",
+              "start": 10,
+              "username": "karo269640607"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074715201816186880",
+        "in_reply_to_user_id": "1898308906994294784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074712771963543843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTBRAr12 @karo269640607 草，想起来上次给我开药的那个医生好像是直接让我自己看说明书吃，根本就没跟我说怎么吃就把我打发走了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898308906994294784",
+        "conversation_id": "2074410779433128395",
+        "created_at": "2026-07-08T04:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074712771963543843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            },
+            {
+              "end": 28,
+              "id": "1937073350750466048",
+              "start": 14,
+              "username": "karo269640607"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074712771963543843",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074410779433128395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm @karo269640607 没在精神科住院部轮岗过的很明显能看出来只会按书上写的开药😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 412,
+          "like_count": 4611,
+          "listed_count": 1,
+          "media_count": 302,
+          "tweet_count": 2938
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T09:44:56.000Z",
+        "description": "",
+        "id": "1898308906994294784",
+        "name": "TTAR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966263377233403904/aqrIK04U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 900,
+          "like_count": 7585,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1493
+        },
+        "url": "",
+        "username": "TTBRAr12",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "TR"
+          ]
+        }
+      },
+      {
+        "created_at": "2025-06-23T09:01:20.000Z",
+        "description": "o割餐券  I  ADHD、重焦中抑 |  虚无主义 | 顺女女同 | 生物化学药理板绘❤️ | 同类互fo | 混乱邪恶同人女 | 讨厌宗教 |恐游像素RPG爱好者|任何物种或性取向欢迎 | 化学极乐 | 基佬孝女言切 衛拓拒拆逆、生化里昂右向全肯定| 骂我的全家替我挡灾",
+        "id": "1937073350750466048",
+        "name": "请代我看看这个世界",
+        "pinned_tweet_id": "2070341749247996152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028587877639045120/B1wypVK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 710,
+          "like_count": 37483,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 7621
+        },
+        "url": "",
+        "username": "karo269640607",
+        "verified": false
+      }
+    ]
+  }
+}

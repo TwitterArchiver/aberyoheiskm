@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2074162590700499246",
+    "created_at": "2026-07-06T16:49:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T17:49:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074173809314390315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2007416053450891264",
+          "start": 0,
+          "username": "chaoshidefeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074173809314390315",
+    "in_reply_to_user_id": "2007416053450891264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074170505540845908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chaoshidefeng 真的，稍微其实本来自己没那么着急的，就是不小心心情上有点点点波动，然后身体就开始剧烈躯体化，完全控制不住，本来还好的整个人就更糟糕了，好绝望……摸摸你抱抱……🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2074162590700499246",
+        "created_at": "2026-07-06T16:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074173809314390315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2007416053450891264",
+              "start": 0,
+              "username": "chaoshidefeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074173809314390315",
+        "in_reply_to_user_id": "2007416053450891264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074170505540845908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chaoshidefeng 真的，稍微其实本来自己没那么着急的，就是不小心心情上有点点点波动，然后身体就开始剧烈躯体化，完全控制不住，本来还好的整个人就更糟糕了，好绝望……摸摸你抱抱……🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007416053450891264",
+        "conversation_id": "2074162590700499246",
+        "created_at": "2026-07-06T16:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074170505540845908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074170505540845908",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074162590700499246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm 我就是这样……经常找不到什么东西或者原本的计划被打乱，就开始逐渐变得沉重到后面直接的坐在地上崩溃。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 391,
+          "like_count": 4454,
+          "listed_count": 1,
+          "media_count": 297,
+          "tweet_count": 2839
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T11:37:50.000Z",
+        "description": "您好。你好哇。\n我的爱人→♛@maplemota  我深爱着祂。\n我对祂爱憎的情绪就像猫的眼睛那样，一个晚上能变换好几次 \n   ＊   合法合规成年jk  sw 混沌的普通变态。＊\n成分复杂 # 我很友善欢迎来找我聊天  ( Ꙭ) 喵？\n\n‖警告 可能随机刷出疯语 负面 R18g 鉴证 精神疾病 💊等恶俗言论...",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "maplemota"
+              }
+            ]
+          }
+        },
+        "id": "2007416053450891264",
+        "location": "天空",
+        "name": "查询失败，用户已注销",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028782211147968512/8ZVTD4WK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 1312,
+          "like_count": 8948,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 867
+        },
+        "url": "",
+        "username": "chaoshidefeng",
+        "verified": false
+      }
+    ]
+  }
+}

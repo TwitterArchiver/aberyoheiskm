@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2074390240245219492",
+    "created_at": "2026-07-07T15:50:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T16:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074521456030183937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1969763627210342400",
+          "start": 0,
+          "username": "xueyanmiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074521456030183937",
+    "in_reply_to_user_id": "1969763627210342400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074390240245219492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xueyanmiao 可以问问挂号费多少吗、看着好贵……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 426,
+        "media_key": "3_2074390063061012480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMm2xZJaEAAnSlK.jpg",
+        "width": 1312
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2074390240245219492",
+        "created_at": "2026-07-07T15:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074521456030183937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1969763627210342400",
+              "start": 0,
+              "username": "xueyanmiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074521456030183937",
+        "in_reply_to_user_id": "1969763627210342400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074390240245219492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xueyanmiao 可以问问挂号费多少吗、看着好贵……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074390063061012480"
+          ]
+        },
+        "author_id": "1969763627210342400",
+        "conversation_id": "2074390240245219492",
+        "created_at": "2026-07-07T07:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074390240245219492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pbP5ZDaoLg",
+              "end": 37,
+              "expanded_url": "https://x.com/xueyanmiao/status/2074390240245219492/photo/1",
+              "media_key": "3_2074390063061012480",
+              "start": 14,
+              "url": "https://t.co/pbP5ZDaoLg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074390240245219492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1253,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挂上了，7月14号晚间门诊 https://t.co/pbP5ZDaoLg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 403,
+          "like_count": 4549,
+          "listed_count": 1,
+          "media_count": 301,
+          "tweet_count": 2908
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-21T14:01:21.000Z",
+        "description": "宅舞(想当小偶像)/cos/化妆/物理/pjsk/木桶饭🏳️‍⚧️(rle中)/大证含糖🍥/玉玉焦虑🥲",
+        "id": "1969763627210342400",
+        "name": "雪嫣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970180949163024385/THrMERi7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 79,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 154
+        },
+        "url": "",
+        "username": "xueyanmiao",
+        "verified": false
+      }
+    ]
+  }
+}

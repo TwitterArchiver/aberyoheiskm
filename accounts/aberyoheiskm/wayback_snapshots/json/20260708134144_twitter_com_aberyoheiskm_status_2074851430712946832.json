@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2074410779433128395",
+    "created_at": "2026-07-08T13:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T14:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074851430712946832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2013233628847980544",
+          "start": 0,
+          "username": "Asukai_Yuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074851430712946832",
+    "in_reply_to_user_id": "2013233628847980544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074848996259148256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asukai_Yuki 已经变成离不开主任的形状嘞😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2074410779433128395",
+        "created_at": "2026-07-08T13:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074851430712946832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2013233628847980544",
+              "start": 0,
+              "username": "Asukai_Yuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074851430712946832",
+        "in_reply_to_user_id": "2013233628847980544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074848996259148256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asukai_Yuki 已经变成离不开主任的形状嘞😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013233628847980544",
+        "conversation_id": "2074410779433128395",
+        "created_at": "2026-07-08T13:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074848996259148256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074848996259148256",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074410779433128395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm 药理是啥，听不懂捏，你问我用药我问主任这咋办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 416,
+          "like_count": 4637,
+          "listed_count": 1,
+          "media_count": 303,
+          "tweet_count": 2951
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T12:54:43.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈enby | 餐券女 | bripop、bassist、bipolar | 天真的和感伤的吉他手 \n\n前世/oc堆放处： @SUNSET_ROCK_\n防ban：@Yuki_asukai\n\n好朋友：@0803SUHONG @zou_hua62172 @hynsug_aaugcx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "SUNSET_ROCK_"
+              },
+              {
+                "end": 101,
+                "start": 89,
+                "username": "Yuki_asukai"
+              },
+              {
+                "end": 118,
+                "start": 107,
+                "username": "0803SUHONG"
+              },
+              {
+                "end": 132,
+                "start": 119,
+                "username": "zou_hua62172"
+              },
+              {
+                "end": 147,
+                "start": 133,
+                "username": "hynsug_aaugcx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mikanseinonatsu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mikanseinonatsu",
+                "start": 0,
+                "url": "https://t.co/1wmN2eVRYQ"
+              }
+            ]
+          }
+        },
+        "id": "2013233628847980544",
+        "location": "纯绿🚪52/99/150没福利纯圈钱",
+        "name": "飞鸟井郁希",
+        "pinned_tweet_id": "2068711367943897221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068746223201501184/TohRyGWK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 236,
+          "like_count": 375,
+          "listed_count": 1,
+          "media_count": 291,
+          "tweet_count": 3036
+        },
+        "url": "https://t.co/1wmN2eVRYQ",
+        "username": "Asukai_Yuki",
+        "verified": false
+      }
+    ]
+  }
+}

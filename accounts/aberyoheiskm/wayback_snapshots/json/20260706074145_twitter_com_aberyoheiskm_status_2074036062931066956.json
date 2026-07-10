@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2073308328265199977",
+    "created_at": "2026-07-06T07:41:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T08:41:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074036062931066956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1597105235516076033",
+          "start": 0,
+          "username": "TamikoTomorika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074036062931066956",
+    "in_reply_to_user_id": "1597105235516076033",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073937651674255464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TamikoTomorika 我也是才知道有7t一盒的🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2073308328265199977",
+        "created_at": "2026-07-06T07:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074036062931066956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1597105235516076033",
+              "start": 0,
+              "username": "TamikoTomorika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074036062931066956",
+        "in_reply_to_user_id": "1597105235516076033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073937651674255464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TamikoTomorika 我也是才知道有7t一盒的🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597105235516076033",
+        "conversation_id": "2073308328265199977",
+        "created_at": "2026-07-06T01:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T02:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073937651674255464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073937651674255464",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073308328265199977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm wtf 还有二十片一盒装的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 390,
+          "like_count": 4393,
+          "listed_count": 1,
+          "media_count": 294,
+          "tweet_count": 2800
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T05:49:01.000Z",
+        "description": "躁鬱紗名章魚. 16齡 ♡🍊@toukorina \n欠打親妹🐙@glutinouscloud \nAutisticDHD / intersex. 幼兒退行疑難雜症心臟病。野生菌🍄章魚燒露營 #AnyLanguage",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 94,
+                "tag": "AnyLanguage"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "toukorina"
+              },
+              {
+                "end": 46,
+                "start": 31,
+                "username": "glutinouscloud"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tako.sanae.homes",
+                "end": 23,
+                "expanded_url": "http://tako.sanae.homes",
+                "start": 0,
+                "url": "https://t.co/uZF1kL9uXQ"
+              }
+            ]
+          }
+        },
+        "id": "1597105235516076033",
+        "location": "静岡県浜松市立広沢小学校",
+        "name": "たみこ🍊🐙🍄躁鬱無凡章魚燒",
+        "pinned_tweet_id": "1883250378118205743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049949825282818049/lsa2lhl-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 4080,
+          "like_count": 27621,
+          "listed_count": 0,
+          "media_count": 1546,
+          "tweet_count": 10484
+        },
+        "url": "https://t.co/uZF1kL9uXQ",
+        "username": "TamikoTomorika",
+        "verified": true
+      }
+    ]
+  }
+}

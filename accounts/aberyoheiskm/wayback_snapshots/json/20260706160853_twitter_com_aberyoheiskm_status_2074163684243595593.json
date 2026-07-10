@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2074162590700499246",
+    "created_at": "2026-07-06T16:08:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T17:08:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074163684243595593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2011051704440274947",
+          "start": 0,
+          "username": "luminescence_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074163684243595593",
+    "in_reply_to_user_id": "2011051704440274947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074163318433230861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luminescence_0 😭😭😭好废柴的身体好想毁灭掉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2074162590700499246",
+        "created_at": "2026-07-06T16:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074163684243595593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2011051704440274947",
+              "start": 0,
+              "username": "luminescence_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074163684243595593",
+        "in_reply_to_user_id": "2011051704440274947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074163318433230861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luminescence_0 😭😭😭好废柴的身体好想毁灭掉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011051704440274947",
+        "conversation_id": "2074162590700499246",
+        "created_at": "2026-07-06T16:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074163318433230861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074163318433230861",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074162590700499246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm 🥹在这"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 391,
+          "like_count": 4431,
+          "listed_count": 1,
+          "media_count": 295,
+          "tweet_count": 2821
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-13T12:24:59.000Z",
+        "description": "08 // Agender 🖤🩶🤍💚, 一个孤独的醋坛子，Year 2 in Acc，antipathy world\n私信开放，欢迎扩列（略微负能，缺爱b，我可能会伤到你哦），看成分回fo",
+        "id": "2011051704440274947",
+        "location": "武汉",
+        "name": "Luminescence💚",
+        "pinned_tweet_id": "2074081204878676420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067997695630004224/aWWazFMN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 340,
+          "like_count": 1735,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 140
+        },
+        "url": "",
+        "username": "luminescence_0",
+        "verified": false
+      }
+    ]
+  }
+}

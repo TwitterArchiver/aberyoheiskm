@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2074204553969545421",
+    "created_at": "2026-07-07T15:38:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T16:38:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074518338588590269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1701474166392905729",
+          "start": 0,
+          "username": "NanaNana_os"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074518338588590269",
+    "in_reply_to_user_id": "1701474166392905729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074491856713625626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NanaNana_os 这个也没吃过诶，一起记下来🥹\n下次复诊的时候会跟医生说的呜呜谢谢你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2074204553969545421",
+        "created_at": "2026-07-07T15:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074518338588590269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1701474166392905729",
+              "start": 0,
+              "username": "NanaNana_os"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074518338588590269",
+        "in_reply_to_user_id": "1701474166392905729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074491856713625626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NanaNana_os 这个也没吃过诶，一起记下来🥹\n下次复诊的时候会跟医生说的呜呜谢谢你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701474166392905729",
+        "conversation_id": "2074204553969545421",
+        "created_at": "2026-07-07T13:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T14:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074491856713625626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074491856713625626",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074204553969545421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm sns吧 但我感觉你gaba受体都已经交叉耐受的差不多了\n建议选有h1拮抗的药物喵（如曲唑酮）\n或者阿戈美拉汀（选择性褪黑素受体激动剂，不是褪黑素本体哈）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 402,
+          "like_count": 4539,
+          "listed_count": 1,
+          "media_count": 301,
+          "tweet_count": 2903
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-12T05:54:01.000Z",
+        "description": "enby｜🎐@yuwilmeaning｜❤️‍🩹@_sharkee1024 ｜Sensing - BME-Neuroimaging｜Beijing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "yuwilmeaning"
+              },
+              {
+                "end": 37,
+                "start": 24,
+                "username": "_sharkee1024"
+              }
+            ]
+          }
+        },
+        "id": "1701474166392905729",
+        "location": "DLPFC",
+        "name": "7Na7Na",
+        "pinned_tweet_id": "2072330549587574996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947780376044425216/KXTmmUpW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 732,
+          "like_count": 29443,
+          "listed_count": 1,
+          "media_count": 457,
+          "tweet_count": 3711
+        },
+        "url": "",
+        "username": "NanaNana_os",
+        "verified": true
+      }
+    ]
+  }
+}

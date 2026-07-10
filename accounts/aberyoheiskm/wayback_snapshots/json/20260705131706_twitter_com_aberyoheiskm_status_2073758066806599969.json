@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2073665538073780560",
+    "created_at": "2026-07-05T13:17:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T14:17:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073758066806599969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1865480322978349056",
+          "start": 0,
+          "username": "CharaG51669"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073758066806599969",
+    "in_reply_to_user_id": "1865480322978349056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073665538073780560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CharaG51669 看着毛茸茸的应该很好戴……💖"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073665535183867904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcj0Uea0AAXwrk.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2073665538073780560",
+        "created_at": "2026-07-05T13:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073758066806599969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1865480322978349056",
+              "start": 0,
+              "username": "CharaG51669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073758066806599969",
+        "in_reply_to_user_id": "1865480322978349056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073665538073780560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CharaG51669 看着毛茸茸的应该很好戴……💖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073665535183867904"
+          ]
+        },
+        "author_id": "1865480322978349056",
+        "conversation_id": "2073665538073780560",
+        "created_at": "2026-07-05T07:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073665538073780560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MgOqA7hnf0",
+              "end": 40,
+              "expanded_url": "https://x.com/CharaG51669/status/2073665538073780560/photo/1",
+              "media_key": "3_2073665535183867904",
+              "start": 17,
+              "url": "https://t.co/MgOqA7hnf0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073665538073780560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 603,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小药片都吞完了呀，我准备去天国了 https://t.co/MgOqA7hnf0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 386,
+          "like_count": 4343,
+          "listed_count": 1,
+          "media_count": 288,
+          "tweet_count": 2761
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T19:36:09.000Z",
+        "description": "06/INFP/抑郁/焦虑 /有老公/od/割手/抽烟/互fo请私信💖/欢迎私信/叫我小侑就好/现居深圳，欢迎小萌物们找我玩！\n提问箱：https://t.co/2km1uF0lIH（消息会看但是不怎么回orz）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/onoderayuu",
+                "end": 91,
+                "expanded_url": "https://ngl.link/onoderayuu",
+                "start": 68,
+                "url": "https://t.co/2km1uF0lIH"
+              }
+            ]
+          }
+        },
+        "id": "1865480322978349056",
+        "name": "OnoderaYuu（侑）",
+        "pinned_tweet_id": "2070781014423769469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865662167120564224/GiHXnwwq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 213,
+          "like_count": 1114,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 605
+        },
+        "url": "",
+        "username": "CharaG51669",
+        "verified": false
+      }
+    ]
+  }
+}

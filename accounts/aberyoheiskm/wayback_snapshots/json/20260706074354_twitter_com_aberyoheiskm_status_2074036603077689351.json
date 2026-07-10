@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2074034728177684625",
+    "created_at": "2026-07-06T07:43:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T08:43:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074036603077689351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2011051704440274947",
+          "start": 0,
+          "username": "luminescence_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074036603077689351",
+    "in_reply_to_user_id": "2011051704440274947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074035917200007549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luminescence_0 这只特别特别贪吃，只要手里有猫条哪到哪跟到哪，甚至跟别的猫抢吃的哈哈哈哈哈哈嗝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2074034728177684625",
+        "created_at": "2026-07-06T07:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074036603077689351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2011051704440274947",
+              "start": 0,
+              "username": "luminescence_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074036603077689351",
+        "in_reply_to_user_id": "2011051704440274947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074035917200007549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luminescence_0 这只特别特别贪吃，只要手里有猫条哪到哪跟到哪，甚至跟别的猫抢吃的哈哈哈哈哈哈嗝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011051704440274947",
+        "conversation_id": "2074034728177684625",
+        "created_at": "2026-07-06T07:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T08:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074035917200007549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074035917200007549",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074034728177684625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm 好萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 390,
+          "like_count": 4398,
+          "listed_count": 1,
+          "media_count": 294,
+          "tweet_count": 2805
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-13T12:24:59.000Z",
+        "description": "Agender & Asexual 🖤🩶🤍💚💜 ，一个孤独的醋坛子，电吉他手，文科生，私信开放，缺爱b，可以交朋友，\nTg: https://t.co/MbbjckhgWq\naka: Indigo W.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Luminescence_x",
+                "end": 86,
+                "expanded_url": "http://t.me/Luminescence_x",
+                "start": 63,
+                "url": "https://t.co/MbbjckhgWq"
+              }
+            ]
+          }
+        },
+        "id": "2011051704440274947",
+        "location": "武汉",
+        "name": "Luminescence💚💜",
+        "pinned_tweet_id": "2073302511826723282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067997695630004224/aWWazFMN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 452,
+          "like_count": 1692,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 135
+        },
+        "url": "",
+        "username": "luminescence_0",
+        "verified": false
+      }
+    ]
+  }
+}

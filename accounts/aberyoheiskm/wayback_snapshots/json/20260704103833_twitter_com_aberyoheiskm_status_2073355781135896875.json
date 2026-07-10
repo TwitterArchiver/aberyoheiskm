@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2073308328265199977",
+    "created_at": "2026-07-04T10:38:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T11:38:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073355781135896875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2025216486760157184",
+          "start": 0,
+          "username": "Cosmo2267651"
+        },
+        {
+          "end": 22,
+          "id": "1426079620906975232",
+          "start": 14,
+          "username": "fan_rbq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073355781135896875",
+    "in_reply_to_user_id": "2025216486760157184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073346554099069117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cosmo2267651 @fan_rbq 去小县城的医院，说自己想吃这个，我是拿了之前开过右佐的处方，然后跟医生聊了十分钟终于给我开了10t……今天拿着这个小县城的处方单去省里大医院，我说我一次1粒就给我开这么多&lt;(ºOº)&gt;"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2073308328265199977",
+        "created_at": "2026-07-04T10:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073355781135896875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2025216486760157184",
+              "start": 0,
+              "username": "Cosmo2267651"
+            },
+            {
+              "end": 22,
+              "id": "1426079620906975232",
+              "start": 14,
+              "username": "fan_rbq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073355781135896875",
+        "in_reply_to_user_id": "2025216486760157184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073346554099069117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cosmo2267651 @fan_rbq 去小县城的医院，说自己想吃这个，我是拿了之前开过右佐的处方，然后跟医生聊了十分钟终于给我开了10t……今天拿着这个小县城的处方单去省里大医院，我说我一次1粒就给我开这么多&lt;(ºOº)&gt;"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025216486760157184",
+        "conversation_id": "2073308328265199977",
+        "created_at": "2026-07-04T10:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073346554099069117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1426079620906975232",
+              "start": 0,
+              "username": "fan_rbq"
+            },
+            {
+              "end": 22,
+              "id": "1804875241367433216",
+              "start": 9,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073346554099069117",
+        "in_reply_to_user_id": "1426079620906975232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073346011402297525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fan_rbq @aberyoheiskm 怎么开到这个药的我已经换了好多药、医生就是不开这个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 376,
+          "like_count": 4204,
+          "listed_count": 1,
+          "media_count": 279,
+          "tweet_count": 2685
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-21T14:30:21.000Z",
+        "description": "同类欢迎互fo /oder/自殘\n➕lx互关、喜欢的随便、低能量频道不喜欢划走 infp 穷逼党、可以找我画oc呀🥹🥹无偿呀 https://t.co/f4RFWLyiPR 欢迎找我。男的！！！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cosmo%E2%80%86…",
+                "end": 86,
+                "expanded_url": "https://ngl.link/cosmo%E2%80%86112266",
+                "start": 63,
+                "url": "https://t.co/f4RFWLyiPR"
+              }
+            ]
+          }
+        },
+        "id": "2025216486760157184",
+        "location": "✝️天堂✝️",
+        "name": "なえ",
+        "pinned_tweet_id": "2069954956183167476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068307831737188352/5wIg4SGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 355,
+          "like_count": 1583,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 359
+        },
+        "url": "",
+        "username": "Cosmo2267651",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-13T07:14:18.000Z",
+        "description": "08  生日10.05  167/52  休学ing  不🔪  od   infp  想发啥发啥👿  有一丢丢负能量 碎碎念",
+        "id": "1426079620906975232",
+        "location": "哦齁齁齁齁齁齁",
+        "name": "饭🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017660079424868352/io_4mzAh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 152,
+          "like_count": 1943,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 727
+        },
+        "url": "",
+        "username": "fan_rbq",
+        "verified": false
+      }
+    ]
+  }
+}

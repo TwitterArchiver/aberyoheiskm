@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2074374712562446473",
+    "created_at": "2026-07-07T17:00:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T18:00:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074539150347481487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2050513602096820224",
+          "start": 0,
+          "username": "sleeping_dsc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074539150347481487",
+    "in_reply_to_user_id": "2050513602096820224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074374712562446473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sleeping_dsc 这个药盒好用吗，感觉被种草了（里面粉蓝的药品们的颜色也好适配……💗🩵）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074374692593401856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmoytsXAAAqq_T.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074374692249473024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmoysaXEAA9f4Y.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2074374712562446473",
+        "created_at": "2026-07-07T17:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074539150347481487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2050513602096820224",
+              "start": 0,
+              "username": "sleeping_dsc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074539150347481487",
+        "in_reply_to_user_id": "2050513602096820224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074374712562446473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sleeping_dsc 这个药盒好用吗，感觉被种草了（里面粉蓝的药品们的颜色也好适配……💗🩵）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074374692593401856",
+            "3_2074374692249473024"
+          ]
+        },
+        "author_id": "2050513602096820224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074374712562446473",
+        "created_at": "2026-07-07T06:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T07:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074374712562446473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tAzLA74JYp",
+              "end": 23,
+              "expanded_url": "https://x.com/sleeping_dsc/status/2074374712562446473/photo/1",
+              "media_key": "3_2074374692593401856",
+              "start": 0,
+              "url": "https://t.co/tAzLA74JYp"
+            },
+            {
+              "display_url": "pic.x.com/tAzLA74JYp",
+              "end": 23,
+              "expanded_url": "https://x.com/sleeping_dsc/status/2074374712562446473/photo/1",
+              "media_key": "3_2074374692249473024",
+              "start": 0,
+              "url": "https://t.co/tAzLA74JYp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074374712562446473",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 764,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tAzLA74JYp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 406,
+          "like_count": 4574,
+          "listed_count": 1,
+          "media_count": 301,
+          "tweet_count": 2919
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//分身@sertralina_u\n❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "sertralina_u"
+              },
+              {
+                "end": 43,
+                "start": 28,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "💛🤍💜🖤",
+        "name": "仅此而已的故事",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073538767760109569/4XfUE2Aq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 285,
+          "like_count": 3864,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 1235
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "sleeping_dsc",
+        "verified": true
+      }
+    ]
+  }
+}
