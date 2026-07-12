@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2073791774905287055",
+    "created_at": "2026-07-08T18:21:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T19:21:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074921864116506632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1835865640072364032",
+          "start": 0,
+          "username": "shiawase_shi004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074921864116506632",
+    "in_reply_to_user_id": "1835865640072364032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073791774905287055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiawase_shi004 把那些无视我们的人全都用到捅烂心脏腹部生殖器，用绞肉机绞烂四肢，用榔头敲碎恶臭流油下贱的脑壳！😡😡😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2073791774905287055",
+        "created_at": "2026-07-08T18:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T19:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074921864116506632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1835865640072364032",
+              "start": 0,
+              "username": "shiawase_shi004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074921864116506632",
+        "in_reply_to_user_id": "1835865640072364032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073791774905287055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiawase_shi004 把那些无视我们的人全都用到捅烂心脏腹部生殖器，用绞肉机绞烂四肢，用榔头敲碎恶臭流油下贱的脑壳！😡😡😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835865640072364032",
+        "conversation_id": "2073791774905287055",
+        "created_at": "2026-07-05T15:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073791774905287055"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073791774905287055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就是這樣啊 被無視就想死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 422,
+          "like_count": 4697,
+          "listed_count": 1,
+          "media_count": 309,
+          "tweet_count": 2981
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-17T02:18:15.000Z",
+        "description": "叫我幸叶（小幸）｜16歲｜病み垢｜♀｜日記｜重鬱｜自傷｜歡迎互fo、交友\n我用難聽的字眼或話語罵人通常都是對自己說的",
+        "id": "1835865640072364032",
+        "location": "人間觀察站",
+        "name": "幸福死",
+        "pinned_tweet_id": "2071121530164007362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070086157946490880/gr2ra7mF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 114,
+          "like_count": 10116,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 102
+        },
+        "url": "",
+        "username": "shiawase_shi004",
+        "verified": false
+      }
+    ]
+  }
+}

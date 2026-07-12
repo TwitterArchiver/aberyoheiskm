@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2074835995602899183",
+    "created_at": "2026-07-08T14:20:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T15:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074861250815971667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1781745564738281472",
+          "start": 0,
+          "username": "Stolly21_TG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074861250815971667",
+    "in_reply_to_user_id": "1781745564738281472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074835995602899183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stolly21_TG 吃上细糠了……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2744,
+        "media_key": "3_2074835992100638720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtMV4RakAAOUwv.jpg",
+        "width": 2144
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2074835995602899183",
+        "created_at": "2026-07-08T14:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074861250815971667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074861250815971667",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074835995602899183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 吃上细糠了……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074835992100638720"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2074835995602899183",
+        "created_at": "2026-07-08T12:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074835995602899183"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 25,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 39,
+              "start": 32,
+              "tag": "トー横キッズ"
+            },
+            {
+              "end": 55,
+              "start": 40,
+              "tag": "量産型オタクさんと繋がりたい"
+            },
+            {
+              "end": 64,
+              "start": 56,
+              "tag": "lizlisa"
+            },
+            {
+              "end": 71,
+              "start": 65,
+              "tag": "量產型女子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zxIM3OwWJq",
+              "end": 95,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2074835995602899183/photo/1",
+              "media_key": "3_2074835992100638720",
+              "start": 72,
+              "url": "https://t.co/zxIM3OwWJq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074835995602899183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的发型差点乱了！或许是最重加工的一集awww  #自撮り界隈 #トー横キッズ #量産型オタクさんと繋がりたい #lizlisa #量產型女子 https://t.co/zxIM3OwWJq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 416,
+          "like_count": 4645,
+          "listed_count": 1,
+          "media_count": 303,
+          "tweet_count": 2956
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "学习药理的oder、edtwt、162cm35kg、130mgDPT存活玩家、休学无所事事、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~查成分回fo回私信这些！没有互fo的顺男私信我请给我口令88。不然我会拉黑。我很害怕您。꒰꒪꒫꒪⌯꒱",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2074340731087704215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 231,
+          "like_count": 1343,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 689
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

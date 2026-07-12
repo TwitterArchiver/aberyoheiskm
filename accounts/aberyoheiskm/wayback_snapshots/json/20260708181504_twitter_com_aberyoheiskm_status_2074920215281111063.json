@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2074845873377624194",
+    "created_at": "2026-07-08T18:15:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T19:15:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074920215281111063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032059814348754944",
+          "start": 0,
+          "username": "KrvyScorpii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074920215281111063",
+    "in_reply_to_user_id": "2032059814348754944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074845873377624194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KrvyScorpii 好厉害……！也好羡慕是怎么找到血管的，我每次去医院的时候护士在我的两个胳膊翻来覆去了也找不到血管，扎也经常扎空没血……好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40965,
+        "height": 720,
+        "media_key": "13_2074845531466321920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074845531466321920/img/2yKaWcK2dt_FhIL1.jpg",
+        "public_metrics": {
+          "view_count": 544
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074845531466321920/vid/avc1/480x270/AHtdQcb8FQsYyoJ5.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074845531466321920/vid/avc1/640x360/f8ndz4hHeKgpek07.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074845531466321920/vid/avc1/1280x720/4W2AJH-nhjqIkH-9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074845531466321920/pl/ZWMTTDWRl0VrlYGl.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 35673,
+        "height": 720,
+        "media_key": "13_2074845776640110593",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074845776640110593/img/UyInjpHzINuheICi.jpg",
+        "public_metrics": {
+          "view_count": 88
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074845776640110593/vid/avc1/480x270/iuXHi5YsjtNZTxSR.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074845776640110593/vid/avc1/640x360/EdDdEdnDVYkQJKI8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074845776640110593/vid/avc1/1280x720/rMlXv-EEhgPefI8Q.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074845776640110593/pl/YAa-dfqD_2eFed9c.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2074845873377624194",
+        "created_at": "2026-07-08T18:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T19:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074920215281111063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032059814348754944",
+              "start": 0,
+              "username": "KrvyScorpii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074920215281111063",
+        "in_reply_to_user_id": "2032059814348754944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074845873377624194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KrvyScorpii 好厉害……！也好羡慕是怎么找到血管的，我每次去医院的时候护士在我的两个胳膊翻来覆去了也找不到血管，扎也经常扎空没血……好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕好羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074845531466321920",
+            "13_2074845776640110593"
+          ]
+        },
+        "author_id": "2032059814348754944",
+        "conversation_id": "2074845873377624194",
+        "created_at": "2026-07-08T13:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074845873377624194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JwfhVnLaW1",
+              "end": 32,
+              "expanded_url": "https://x.com/KrvyScorpii/status/2074845873377624194/video/1",
+              "media_key": "13_2074845531466321920",
+              "start": 9,
+              "url": "https://t.co/JwfhVnLaW1"
+            },
+            {
+              "display_url": "pic.x.com/JwfhVnLaW1",
+              "end": 32,
+              "expanded_url": "https://x.com/KrvyScorpii/status/2074845873377624194/video/1",
+              "media_key": "13_2074845776640110593",
+              "start": 9,
+              "url": "https://t.co/JwfhVnLaW1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074845873377624194",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1066,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "首先是小剂量推注 https://t.co/JwfhVnLaW1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 424,
+          "like_count": 4694,
+          "listed_count": 1,
+          "media_count": 309,
+          "tweet_count": 2979
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T11:43:12.000Z",
+        "description": "这里是krvy，pdw wiki管理员 不写wiki的贝斯手",
+        "id": "2032059814348754944",
+        "name": "Krvy #心宿二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055970057549934592/BEgsZwuu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 68,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 135
+        },
+        "url": "",
+        "username": "KrvyScorpii",
+        "verified": false
+      }
+    ]
+  }
+}

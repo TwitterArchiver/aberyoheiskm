@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2074921155316908049",
+    "created_at": "2026-07-08T18:18:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T19:18:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074921155316908049"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shiawase_shi00…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/shiawase_shi004/status/2071121530164007362",
+          "start": 26,
+          "url": "https://t.co/NcONaUT1Y3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074921155316908049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071121530164007362",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真的是一位超萌超温柔的宝宝……！🥺都来找她玩ww🫶 https://t.co/NcONaUT1Y3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1066,
+        "media_key": "3_2071121523986046977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4aDYPaoAErC-M.jpg",
+        "width": 1067
+      },
+      {
+        "height": 1078,
+        "media_key": "3_2071121523998613504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4aDYSaYAAVLrJ.jpg",
+        "width": 1070
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071121524015382528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4aDYWaQAA2Srn.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2071121523981930496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4aDYOb0AAjokB.jpg",
+        "width": 1019
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2074921155316908049",
+        "created_at": "2026-07-08T18:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T19:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074921155316908049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shiawase_shi00…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/shiawase_shi004/status/2071121530164007362",
+              "start": 26,
+              "url": "https://t.co/NcONaUT1Y3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074921155316908049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071121530164007362",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的是一位超萌超温柔的宝宝……！🥺都来找她玩ww🫶 https://t.co/NcONaUT1Y3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071121523986046977",
+            "3_2071121523998613504",
+            "3_2071121524015382528",
+            "3_2071121523981930496"
+          ]
+        },
+        "author_id": "1835865640072364032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2071121530164007362",
+        "created_at": "2026-06-28T06:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T07:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071121530164007362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c8bEVR1qYw",
+              "end": 77,
+              "expanded_url": "https://x.com/shiawase_shi004/status/2071121530164007362/photo/1",
+              "media_key": "3_2071121523986046977",
+              "start": 54,
+              "url": "https://t.co/c8bEVR1qYw"
+            },
+            {
+              "display_url": "pic.x.com/c8bEVR1qYw",
+              "end": 77,
+              "expanded_url": "https://x.com/shiawase_shi004/status/2071121530164007362/photo/1",
+              "media_key": "3_2071121523998613504",
+              "start": 54,
+              "url": "https://t.co/c8bEVR1qYw"
+            },
+            {
+              "display_url": "pic.x.com/c8bEVR1qYw",
+              "end": 77,
+              "expanded_url": "https://x.com/shiawase_shi004/status/2071121530164007362/photo/1",
+              "media_key": "3_2071121524015382528",
+              "start": 54,
+              "url": "https://t.co/c8bEVR1qYw"
+            },
+            {
+              "display_url": "pic.x.com/c8bEVR1qYw",
+              "end": 77,
+              "expanded_url": "https://x.com/shiawase_shi004/status/2071121530164007362/photo/1",
+              "media_key": "3_2071121523981930496",
+              "start": 54,
+              "url": "https://t.co/c8bEVR1qYw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071121530164007362",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 672,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "歡迎大家和我聊天交友喔～\nお話・お友達大歓迎です！\n気軽に絡んでくれるとうれしいです(՞_  ̫ _՞)ᐝ https://t.co/c8bEVR1qYw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 422,
+          "like_count": 4695,
+          "listed_count": 1,
+          "media_count": 309,
+          "tweet_count": 2980
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-17T02:18:15.000Z",
+        "description": "叫我幸叶（小幸）｜16歲｜病み垢｜♀｜日記｜重鬱｜自傷｜歡迎互fo、交友\n我用難聽的字眼或話語罵人通常都是對自己說的",
+        "id": "1835865640072364032",
+        "location": "人間觀察站",
+        "name": "幸福死",
+        "pinned_tweet_id": "2071121530164007362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070086157946490880/gr2ra7mF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 114,
+          "like_count": 10116,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 102
+        },
+        "url": "",
+        "username": "shiawase_shi004",
+        "verified": false
+      }
+    ]
+  }
+}
