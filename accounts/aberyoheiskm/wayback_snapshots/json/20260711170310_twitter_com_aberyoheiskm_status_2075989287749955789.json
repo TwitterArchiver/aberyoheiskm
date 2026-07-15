@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2075989287749955789",
+    "created_at": "2026-07-11T17:03:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T18:03:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075989287749955789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1561806114274287616",
+          "start": 3,
+          "username": "crossyangshe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075989287749955789",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075951935514096024",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @crossyangshe: 在外面打野的时候买到了愈美，只需要登记身份证和电话就可以了，如果大家不知道哪家药店有愈美买，教给大家一个办法：下载一个当地的医保软件，然后搜药名定位到有货的药店买，这样就不用一家一家问了。az回去的时候又买了瓶西柚汁，一会回去品尝一下QAQ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075951205738799104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9Cn20a4AAdfMQ.jpg",
+        "width": 922
+      },
+      {
+        "height": 148,
+        "media_key": "3_2075951205390655488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9Cn1haoAA3QcL.jpg",
+        "width": 180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2075989287749955789",
+        "created_at": "2026-07-11T17:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T18:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075989287749955789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1561806114274287616",
+              "start": 3,
+              "username": "crossyangshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075989287749955789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075951935514096024",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @crossyangshe: 在外面打野的时候买到了愈美，只需要登记身份证和电话就可以了，如果大家不知道哪家药店有愈美买，教给大家一个办法：下载一个当地的医保软件，然后搜药名定位到有货的药店买，这样就不用一家一家问了。az回去的时候又买了瓶西柚汁，一会回去品尝一下QAQ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075951205738799104",
+            "3_2075951205390655488"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075951935514096024",
+        "created_at": "2026-07-11T14:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075951935514096024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OkIyT95Ix4",
+              "end": 144,
+              "expanded_url": "https://x.com/crossyangshe/status/2075951935514096024/photo/1",
+              "media_key": "3_2075951205738799104",
+              "start": 121,
+              "url": "https://t.co/OkIyT95Ix4"
+            },
+            {
+              "display_url": "pic.x.com/OkIyT95Ix4",
+              "end": 144,
+              "expanded_url": "https://x.com/crossyangshe/status/2075951935514096024/photo/1",
+              "media_key": "3_2075951205390655488",
+              "start": 121,
+              "url": "https://t.co/OkIyT95Ix4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075951935514096024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1368,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在外面打野的时候买到了愈美，只需要登记身份证和电话就可以了，如果大家不知道哪家药店有愈美买，教给大家一个办法：下载一个当地的医保软件，然后搜药名定位到有货的药店买，这样就不用一家一家问了。az回去的时候又买了瓶西柚汁，一会回去品尝一下QAQ https://t.co/OkIyT95Ix4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 427,
+          "like_count": 4966,
+          "listed_count": 1,
+          "media_count": 318,
+          "tweet_count": 3104
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推喜欢的东西太多啦\n同类群1053339675\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2075487277191733409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 400,
+          "like_count": 2655,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 762
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      }
+    ]
+  }
+}

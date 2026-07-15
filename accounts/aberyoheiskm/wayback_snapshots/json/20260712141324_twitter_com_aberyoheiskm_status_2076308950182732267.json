@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2076308089704509793",
+    "created_at": "2026-07-12T14:13:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T15:13:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076308950182732267"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076308950182732267",
+    "in_reply_to_user_id": "1804875241367433216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076308089704509793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好吵啊外面好吵啊怎么这么烦怎么回事闹闹闹能不能安静一会啊我解离了让让我不行吗我好痛苦的啊……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2268,
+        "media_key": "3_2076308086722355200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCHNEFbYAA5wWo.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2076308089704509793",
+        "created_at": "2026-07-12T14:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076308950182732267"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076308950182732267",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076308089704509793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好吵啊外面好吵啊怎么这么烦怎么回事闹闹闹能不能安静一会啊我解离了让让我不行吗我好痛苦的啊……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076308086722355200"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076308089704509793",
+        "created_at": "2026-07-12T14:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076308089704509793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZOkySwUHQv",
+              "end": 75,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2076308089704509793/photo/1",
+              "media_key": "3_2076308086722355200",
+              "start": 52,
+              "url": "https://t.co/ZOkySwUHQv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076308089704509793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "sns药效中听这个、那个鼓点，那个和声，什么的，我不会音乐相关的术语，总之戴着耳机真的听得我太爽了…… https://t.co/ZOkySwUHQv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 440,
+          "like_count": 5152,
+          "listed_count": 1,
+          "media_count": 331,
+          "tweet_count": 3199
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      }
+    ]
+  }
+}

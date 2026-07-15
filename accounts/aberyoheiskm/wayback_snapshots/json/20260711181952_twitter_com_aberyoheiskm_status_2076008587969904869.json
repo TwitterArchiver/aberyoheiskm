@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075632895545475072"
+      ],
+      "media_source_tweet_id": [
+        "2075632898234028055"
+      ]
+    },
+    "author_id": "1804875241367433216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2076008587969904869",
+    "created_at": "2026-07-11T18:19:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T19:19:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076008587969904869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2042276998668525573",
+          "start": 3,
+          "username": "HiiroGekkaFlan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RpVAYMrK75",
+          "end": 81,
+          "expanded_url": "https://x.com/HiiroGekkaFlan/status/2075632898234028055/photo/1",
+          "media_key": "3_2075632895545475072",
+          "start": 58,
+          "url": "https://t.co/RpVAYMrK75"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076008587969904869",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075632898234028055",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HiiroGekkaFlan: 坏消息：你有很严重的拖延症\n好消息：你把18岁就自杀的计划一直拖延到现在了 https://t.co/RpVAYMrK75"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_2075632895545475072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4hHw8agAAFx82.jpg",
+        "width": 578
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075632895545475072"
+          ],
+          "media_source_tweet_id": [
+            "2075632898234028055"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076008587969904869",
+        "created_at": "2026-07-11T18:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T19:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076008587969904869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2042276998668525573",
+              "start": 3,
+              "username": "HiiroGekkaFlan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RpVAYMrK75",
+              "end": 81,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2075632898234028055/photo/1",
+              "media_key": "3_2075632895545475072",
+              "start": 58,
+              "url": "https://t.co/RpVAYMrK75"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076008587969904869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075632898234028055",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HiiroGekkaFlan: 坏消息：你有很严重的拖延症\n好消息：你把18岁就自杀的计划一直拖延到现在了 https://t.co/RpVAYMrK75"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075632895545475072"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075632898234028055",
+        "created_at": "2026-07-10T17:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T18:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075632898234028055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RpVAYMrK75",
+              "end": 61,
+              "expanded_url": "https://x.com/HiiroGekkaFlan/status/2075632898234028055/photo/1",
+              "media_key": "3_2075632895545475072",
+              "start": 38,
+              "url": "https://t.co/RpVAYMrK75"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075632898234028055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 4470,
+          "like_count": 232,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "坏消息：你有很严重的拖延症\n好消息：你把18岁就自杀的计划一直拖延到现在了 https://t.co/RpVAYMrK75"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 432,
+          "like_count": 4985,
+          "listed_count": 1,
+          "media_count": 318,
+          "tweet_count": 3114
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "一直在躲一直在躲，没有出口没有出口。梗图转发/音游(韵律源点+舞萌+中二节奏)/友🏳️‍🌈🏳️‍⚧️/双相情感障碍⚠️/fumo爱好者/東方project好き/精品神药享受者/亚文化爱好者 CN/EN/JP OK",
+        "id": "2042276998668525573",
+        "location": "我会一直都在",
+        "name": "✞緋月✞",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069104792442638336/GxUHtIdh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 889,
+          "like_count": 12421,
+          "listed_count": 1,
+          "media_count": 427,
+          "tweet_count": 3719
+        },
+        "url": "",
+        "username": "HiiroGekkaFlan",
+        "verified": false
+      }
+    ]
+  }
+}

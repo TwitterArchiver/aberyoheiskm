@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2076347642087628892",
+    "created_at": "2026-07-13T15:42:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T16:42:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076693722331550199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1769193780329304064",
+          "start": 0,
+          "username": "azhe_713"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076693722331550199",
+    "in_reply_to_user_id": "1769193780329304064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076347642087628892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@azhe_713 生日快乐！۶•͈⚇•͈♡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076347496700456960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCrDBsaMAAsVEf.jpg",
+        "width": 1541
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076347496444674048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCrDAvbQAATfvW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076347496738267136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCrDB1bIAArMEq.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1229,
+        "media_key": "3_2076347496687882240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCrDBpaUAAFLZM.jpg",
+        "width": 1229
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2076347642087628892",
+        "created_at": "2026-07-13T15:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076693722331550199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1769193780329304064",
+              "start": 0,
+              "username": "azhe_713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076693722331550199",
+        "in_reply_to_user_id": "1769193780329304064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076347642087628892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@azhe_713 生日快乐！۶•͈⚇•͈♡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076347496700456960",
+            "3_2076347496444674048",
+            "3_2076347496738267136",
+            "3_2076347496687882240"
+          ]
+        },
+        "author_id": "1769193780329304064",
+        "conversation_id": "2076347642087628892",
+        "created_at": "2026-07-12T16:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076347642087628892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XitaZZ1eXI",
+              "end": 44,
+              "expanded_url": "https://x.com/azhe_713/status/2076347642087628892/photo/1",
+              "media_key": "3_2076347496700456960",
+              "start": 21,
+              "url": "https://t.co/XitaZZ1eXI"
+            },
+            {
+              "display_url": "pic.x.com/XitaZZ1eXI",
+              "end": 44,
+              "expanded_url": "https://x.com/azhe_713/status/2076347642087628892/photo/1",
+              "media_key": "3_2076347496444674048",
+              "start": 21,
+              "url": "https://t.co/XitaZZ1eXI"
+            },
+            {
+              "display_url": "pic.x.com/XitaZZ1eXI",
+              "end": 44,
+              "expanded_url": "https://x.com/azhe_713/status/2076347642087628892/photo/1",
+              "media_key": "3_2076347496738267136",
+              "start": 21,
+              "url": "https://t.co/XitaZZ1eXI"
+            },
+            {
+              "display_url": "pic.x.com/XitaZZ1eXI",
+              "end": 44,
+              "expanded_url": "https://x.com/azhe_713/status/2076347642087628892/photo/1",
+              "media_key": "3_2076347496687882240",
+              "start": 21,
+              "url": "https://t.co/XitaZZ1eXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076347642087628892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 17195,
+          "like_count": 503,
+          "quote_count": 0,
+          "reply_count": 138,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我18岁生日哦\n可以祝我生日快乐吗 https://t.co/XitaZZ1eXI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 453,
+          "like_count": 5278,
+          "listed_count": 1,
+          "media_count": 333,
+          "tweet_count": 3260
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-17T02:47:36.000Z",
+        "description": "",
+        "id": "1769193780329304064",
+        "name": "阿喆喆捏",
+        "pinned_tweet_id": "2060298369281781766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961531199295557637/DwbqjX8j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4855,
+          "following_count": 68,
+          "like_count": 1118,
+          "listed_count": 12,
+          "media_count": 94,
+          "tweet_count": 201
+        },
+        "url": "",
+        "username": "azhe_713",
+        "verified": false
+      }
+    ]
+  }
+}

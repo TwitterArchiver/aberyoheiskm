@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076197818180780032",
+        "3_2076197818201731072",
+        "3_2076197818478563328"
+      ]
+    },
+    "author_id": "1804875241367433216",
+    "conversation_id": "2076165315248169260",
+    "created_at": "2026-07-12T06:51:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T07:51:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076197858404134992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1753076943426301953",
+          "start": 0,
+          "username": "cixkn5703974462"
+        },
+        {
+          "end": 33,
+          "id": "1979068278673981440",
+          "start": 17,
+          "username": "orange219695619"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DgtfkPsZDA",
+          "end": 61,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2076197858404134992/photo/1",
+          "media_key": "3_2076197818180780032",
+          "start": 38,
+          "url": "https://t.co/DgtfkPsZDA"
+        },
+        {
+          "display_url": "pic.x.com/DgtfkPsZDA",
+          "end": 61,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2076197858404134992/photo/1",
+          "media_key": "3_2076197818201731072",
+          "start": 38,
+          "url": "https://t.co/DgtfkPsZDA"
+        },
+        {
+          "display_url": "pic.x.com/DgtfkPsZDA",
+          "end": 61,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2076197858404134992/photo/1",
+          "media_key": "3_2076197818478563328",
+          "start": 38,
+          "url": "https://t.co/DgtfkPsZDA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076197858404134992",
+    "in_reply_to_user_id": "1753076943426301953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076196524128923941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cixkn5703974462 @orange219695619 这些喵 https://t.co/DgtfkPsZDA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076197818180780032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNAi6lwbQAAWxtY.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076197818201731072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNAi6l1a8AARmDo.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076197818478563328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNAi6m3bEAA4kFt.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076197818180780032",
+            "3_2076197818201731072",
+            "3_2076197818478563328"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "conversation_id": "2076165315248169260",
+        "created_at": "2026-07-12T06:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076197858404134992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1753076943426301953",
+              "start": 0,
+              "username": "cixkn5703974462"
+            },
+            {
+              "end": 33,
+              "id": "1979068278673981440",
+              "start": 17,
+              "username": "orange219695619"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DgtfkPsZDA",
+              "end": 61,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2076197858404134992/photo/1",
+              "media_key": "3_2076197818180780032",
+              "start": 38,
+              "url": "https://t.co/DgtfkPsZDA"
+            },
+            {
+              "display_url": "pic.x.com/DgtfkPsZDA",
+              "end": 61,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2076197858404134992/photo/1",
+              "media_key": "3_2076197818201731072",
+              "start": 38,
+              "url": "https://t.co/DgtfkPsZDA"
+            },
+            {
+              "display_url": "pic.x.com/DgtfkPsZDA",
+              "end": 61,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2076197858404134992/photo/1",
+              "media_key": "3_2076197818478563328",
+              "start": 38,
+              "url": "https://t.co/DgtfkPsZDA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076197858404134992",
+        "in_reply_to_user_id": "1753076943426301953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076196524128923941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cixkn5703974462 @orange219695619 这些喵 https://t.co/DgtfkPsZDA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753076943426301953",
+        "conversation_id": "2076165315248169260",
+        "created_at": "2026-07-12T06:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076196524128923941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            },
+            {
+              "end": 30,
+              "id": "1979068278673981440",
+              "start": 14,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076196524128923941",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076174972297572508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm @orange219695619 我草我想看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 434,
+          "like_count": 5062,
+          "listed_count": 1,
+          "media_count": 326,
+          "tweet_count": 3153
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T15:25:38.000Z",
+        "description": "喵🚪-0.01(加我转你一分诱人不                                                                                    愿所有人幸福 ║ 不要od…… ║ 留在这个世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ?si=QkTDIeIQcf5rYpfi",
+                "start": 0,
+                "url": "https://t.co/EQGfsYE7x9"
+              }
+            ]
+          }
+        },
+        "id": "1753076943426301953",
+        "location": "窗缝",
+        "name": "pAsserby",
+        "pinned_tweet_id": "2022392144930210188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073902743203299328/rCRSUDGG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 546,
+          "like_count": 8094,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 779
+        },
+        "url": "https://t.co/EQGfsYE7x9",
+        "username": "cixkn5703974462",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2066776788475449677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 173,
+          "like_count": 17010,
+          "listed_count": 2,
+          "media_count": 520,
+          "tweet_count": 8715
+        },
+        "url": "",
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2076245841963368838",
+    "created_at": "2026-07-12T10:02:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T11:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076245841963368838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1927025054203715584",
+          "start": 3,
+          "username": "pr80_NightHaven"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076245841963368838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075969416429502789",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pr80_NightHaven: 可乐定，如果你玩阿片/普瑞巴林玩到有戒断反应，它一定是你要备的一瓶药，各大平台都可以直接买到，你的虚汗、失眠、不安、心慌都能被它压住，起始剂量75μg(微克)，吃一段时间可以升到150μg，醒来一次睡前一次，你无法指望可乐定能解决你所有…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2075968771450355712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9SmUMaQAARR55.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2076245841963368838",
+        "created_at": "2026-07-12T10:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076245841963368838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1927025054203715584",
+              "start": 3,
+              "username": "pr80_NightHaven"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076245841963368838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075969416429502789",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pr80_NightHaven: 可乐定，如果你玩阿片/普瑞巴林玩到有戒断反应，它一定是你要备的一瓶药，各大平台都可以直接买到，你的虚汗、失眠、不安、心慌都能被它压住，起始剂量75μg(微克)，吃一段时间可以升到150μg，醒来一次睡前一次，你无法指望可乐定能解决你所有…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075968771450355712"
+          ]
+        },
+        "author_id": "1927025054203715584",
+        "conversation_id": "2075969416429502789",
+        "created_at": "2026-07-11T15:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075969416429502789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vpe4wOcGxO",
+              "end": 164,
+              "expanded_url": "https://x.com/pr80_NightHaven/status/2075969416429502789/photo/1",
+              "media_key": "3_2075968771450355712",
+              "start": 141,
+              "url": "https://t.co/Vpe4wOcGxO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075969416429502789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 943,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "可乐定，如果你玩阿片/普瑞巴林玩到有戒断反应，它一定是你要备的一瓶药，各大平台都可以直接买到，你的虚汗、失眠、不安、心慌都能被它压住，起始剂量75μg(微克)，吃一段时间可以升到150μg，醒来一次睡前一次，你无法指望可乐定能解决你所有戒断的痛苦，但它能辅助你至少先好好睡上一觉。 https://t.co/Vpe4wOcGxO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 439,
+          "like_count": 5117,
+          "listed_count": 1,
+          "media_count": 327,
+          "tweet_count": 3181
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T15:32:44.000Z",
+        "description": "永夜安港 https://t.co/zmSYFnzBMP\n没有恶俗与吵架，只有温柔与减害。\nhttps://t.co/HsCioOgdzr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 28,
+                "expanded_url": "http://pr80.net",
+                "start": 5,
+                "url": "https://t.co/zmSYFnzBMP"
+              },
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 69,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 46,
+                "url": "https://t.co/HsCioOgdzr"
+              }
+            ]
+          }
+        },
+        "id": "1927025054203715584",
+        "location": "NightHaven",
+        "name": "⚓️永夜安港 pr80.net",
+        "pinned_tweet_id": "2071982831732142419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069981304528265216/T45W7wQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 440,
+          "like_count": 127,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 340
+        },
+        "url": "",
+        "username": "pr80_NightHaven",
+        "verified": true
+      }
+    ]
+  }
+}

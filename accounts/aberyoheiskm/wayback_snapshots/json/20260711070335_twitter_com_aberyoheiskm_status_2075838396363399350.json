@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2075818704651321611",
+    "created_at": "2026-07-11T07:03:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T08:03:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075838396363399350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1882678524596867072",
+          "start": 0,
+          "username": "gdioiui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075838396363399350",
+    "in_reply_to_user_id": "1882678524596867072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075818704651321611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdioiui 有会烤淀粉肠的猫娘吗ฅ^🥺^ฅ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 825,
+        "media_key": "3_2075818701522419712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7KHGJbQAAx9dB.jpg",
+        "width": 972
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2075818704651321611",
+        "created_at": "2026-07-11T07:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T08:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075838396363399350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075838396363399350",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075818704651321611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 有会烤淀粉肠的猫娘吗ฅ^🥺^ฅ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075818701522419712"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075818704651321611",
+        "created_at": "2026-07-11T05:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T06:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075818704651321611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/475kjAETPY",
+              "end": 27,
+              "expanded_url": "https://x.com/gdioiui/status/2075818704651321611/photo/1",
+              "media_key": "3_2075818701522419712",
+              "start": 4,
+              "url": "https://t.co/475kjAETPY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075818704651321611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 239,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "选咱喵 https://t.co/475kjAETPY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 428,
+          "like_count": 4887,
+          "listed_count": 1,
+          "media_count": 315,
+          "tweet_count": 3077
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥☣️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2195,
+          "following_count": 487,
+          "like_count": 4374,
+          "listed_count": 4,
+          "media_count": 1547,
+          "tweet_count": 8116
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

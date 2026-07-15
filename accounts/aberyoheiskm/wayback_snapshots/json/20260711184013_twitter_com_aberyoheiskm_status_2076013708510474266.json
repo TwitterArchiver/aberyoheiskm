@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076013705285050368",
+        "3_2076013703930245120"
+      ]
+    },
+    "author_id": "1804875241367433216",
+    "conversation_id": "2075864362481500497",
+    "created_at": "2026-07-11T18:40:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T19:40:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076013708510474266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2069444356885667840",
+          "start": 0,
+          "username": "kuzidabaoza"
+        },
+        {
+          "end": 27,
+          "id": "1998751032650969088",
+          "start": 13,
+          "username": "Fox_Sakura233"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IzfCjyGAYY",
+          "end": 127,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2076013708510474266/photo/1",
+          "media_key": "3_2076013705285050368",
+          "start": 104,
+          "url": "https://t.co/IzfCjyGAYY"
+        },
+        {
+          "display_url": "pic.x.com/IzfCjyGAYY",
+          "end": 127,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2076013708510474266/photo/1",
+          "media_key": "3_2076013703930245120",
+          "start": 104,
+          "url": "https://t.co/IzfCjyGAYY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076013708510474266",
+    "in_reply_to_user_id": "2069444356885667840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075976057371652173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuzidabaoza @Fox_Sakura233 她是戴歪啦，其实也很好解决，把假发发缝侧过来一点戴就行啦，最好加个螳螂窝\n你看原图的鬓角也是右边偏低的，如果按照我这样戴这样她的发缝对了鬓角位置剪对了 https://t.co/IzfCjyGAYY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1976,
+        "media_key": "3_2076013705285050368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM97dzxboAAhKwQ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2076013703930245120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM97duua8AATzbj.jpg",
+        "width": 1918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076013705285050368",
+            "3_2076013703930245120"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "conversation_id": "2075864362481500497",
+        "created_at": "2026-07-11T18:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T19:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076013708510474266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2069444356885667840",
+              "start": 0,
+              "username": "kuzidabaoza"
+            },
+            {
+              "end": 27,
+              "id": "1998751032650969088",
+              "start": 13,
+              "username": "Fox_Sakura233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IzfCjyGAYY",
+              "end": 127,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2076013708510474266/photo/1",
+              "media_key": "3_2076013705285050368",
+              "start": 104,
+              "url": "https://t.co/IzfCjyGAYY"
+            },
+            {
+              "display_url": "pic.x.com/IzfCjyGAYY",
+              "end": 127,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2076013708510474266/photo/1",
+              "media_key": "3_2076013703930245120",
+              "start": 104,
+              "url": "https://t.co/IzfCjyGAYY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076013708510474266",
+        "in_reply_to_user_id": "2069444356885667840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075976057371652173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuzidabaoza @Fox_Sakura233 她是戴歪啦，其实也很好解决，把假发发缝侧过来一点戴就行啦，最好加个螳螂窝\n你看原图的鬓角也是右边偏低的，如果按照我这样戴这样她的发缝对了鬓角位置剪对了 https://t.co/IzfCjyGAYY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069444356885667840",
+        "conversation_id": "2075864362481500497",
+        "created_at": "2026-07-11T16:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T17:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075976057371652173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            },
+            {
+              "end": 28,
+              "id": "1998751032650969088",
+              "start": 14,
+              "username": "Fox_Sakura233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075976057371652173",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075891557040111819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm @Fox_Sakura233 这种小细节有什么关系……假发的发缝本身就是这样改不了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 433,
+          "like_count": 4990,
+          "listed_count": 1,
+          "media_count": 320,
+          "tweet_count": 3116
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-23T15:41:27.000Z",
+        "description": "",
+        "id": "2069444356885667840",
+        "name": "裤子大包扎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069446249460498432/vQV3DDGB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "kuzidabaoza",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T13:46:18.000Z",
+        "description": "02 | ♂ |リスカ| OD | 病み垢 | 去勢済み | くず\n | 希死念慮 | 情緒不安定 |ZH/EN/JP|\n精神活性物質Wiki：https://t.co/XzFTNu4ouS｜本人发布的内容很危险，请合理使用，小心成瘾问题",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 95,
+                "expanded_url": "https://jile.bid/",
+                "start": 72,
+                "url": "https://t.co/XzFTNu4ouS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/XzFTNu4ouS"
+              }
+            ]
+          }
+        },
+        "id": "1998751032650969088",
+        "name": "sakura👾",
+        "pinned_tweet_id": "2069373938770256251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066312345912233984/vlN26lx1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 650,
+          "like_count": 972,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 653
+        },
+        "url": "https://t.co/XzFTNu4ouS",
+        "username": "Fox_Sakura233",
+        "verified": false
+      }
+    ]
+  }
+}

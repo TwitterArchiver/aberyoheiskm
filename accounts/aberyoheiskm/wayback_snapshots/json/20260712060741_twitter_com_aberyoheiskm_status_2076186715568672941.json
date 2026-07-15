@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2076147139571593587",
+    "created_at": "2026-07-12T06:07:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T07:07:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076186715568672941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1980651637673951232",
+          "start": 0,
+          "username": "NeuroSaki987"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076186715568672941",
+    "in_reply_to_user_id": "1980651637673951232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076147139571593587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NeuroSaki987 生日快乐！˶&gt;ᗜ&lt;˶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076147132407644160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM_00SiagAA5IEG.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2076147139571593587",
+        "created_at": "2026-07-12T06:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076186715568672941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1980651637673951232",
+              "start": 0,
+              "username": "NeuroSaki987"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076186715568672941",
+        "in_reply_to_user_id": "1980651637673951232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076147139571593587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NeuroSaki987 生日快乐！˶&gt;ᗜ&lt;˶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076147132407644160"
+          ]
+        },
+        "author_id": "1980651637673951232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076147139571593587",
+        "created_at": "2026-07-12T03:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T04:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076147139571593587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tCtSJuqU4a",
+              "end": 41,
+              "expanded_url": "https://x.com/NeuroSaki987/status/2076147139571593587/photo/1",
+              "media_key": "3_2076147132407644160",
+              "start": 18,
+              "url": "https://t.co/tCtSJuqU4a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076147139571593587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我生日喵，能给我说那个吗喵🥰 https://t.co/tCtSJuqU4a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 435,
+          "like_count": 5057,
+          "listed_count": 1,
+          "media_count": 325,
+          "tweet_count": 3150
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T15:06:35.000Z",
+        "description": "mtf?/x｜birth 2008 ｜ INTP ｜HRT since 2025 ｜ 家暴党💔｜ https://t.co/LjGshms4aj｜好多管道符哎｜深度学习与AI开发 ｜是只软软的小猫呢，抱走我喵～",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/NeuroSaki987",
+                "end": 72,
+                "expanded_url": "https://github.com/NeuroSaki987",
+                "start": 49,
+                "url": "https://t.co/LjGshms4aj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "…hcnalmzaclmwrrj3nrt4rq2qdepaead.onion",
+                "end": 23,
+                "expanded_url": "http://neuro5w22bxsgajxyykcsgdtjhcnalmzaclmwrrj3nrt4rq2qdepaead.onion/",
+                "start": 0,
+                "url": "https://t.co/UVlOfR8kuw"
+              }
+            ]
+          }
+        },
+        "id": "1980651637673951232",
+        "location": "LiuyingWeb Inc. Shanghai",
+        "name": "Neuro Saki 🍥",
+        "pinned_tweet_id": "2054120857275171110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009413788530036737/yqokTjpk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 409,
+          "like_count": 2360,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 980
+        },
+        "url": "https://t.co/UVlOfR8kuw",
+        "username": "NeuroSaki987",
+        "verified": false
+      }
+    ]
+  }
+}
