@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2077902364376473925",
+    "created_at": "2026-07-17T08:46:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T09:46:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078038695073182152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2055228634710065152",
+          "start": 0,
+          "username": "Ruai_0324"
+        },
+        {
+          "end": 21,
+          "id": "158297376",
+          "start": 11,
+          "username": "aberyohei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078038695073182152",
+    "in_reply_to_user_id": "2055228634710065152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077902364376473925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruai_0324 @aberyohei 我去竟然还有我的中药TV\n诡秘你怎么又挂了啊😭😭😭摸摸摸摸摸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077902350971506689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNYxLdObEAEQx42.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2077902364376473925",
+        "created_at": "2026-07-17T08:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T09:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078038695073182152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2055228634710065152",
+              "start": 0,
+              "username": "Ruai_0324"
+            },
+            {
+              "end": 21,
+              "id": "158297376",
+              "start": 11,
+              "username": "aberyohei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078038695073182152",
+        "in_reply_to_user_id": "2055228634710065152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077902364376473925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruai_0324 @aberyohei 我去竟然还有我的中药TV\n诡秘你怎么又挂了啊😭😭😭摸摸摸摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077902350971506689"
+          ]
+        },
+        "author_id": "2055228634710065152",
+        "conversation_id": "2077902364376473925",
+        "created_at": "2026-07-16T23:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T00:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077902364376473925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 155,
+              "id": "158297376",
+              "start": 145,
+              "username": "aberyohei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xjvJEhbjii",
+              "end": 181,
+              "expanded_url": "https://x.com/Ruai_0324/status/2077902364376473925/photo/1",
+              "media_key": "3_2077902350971506689",
+              "start": 158,
+              "url": "https://t.co/xjvJEhbjii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077902364376473925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 155,
+                "id": "158297376",
+                "start": 145,
+                "username": "aberyohei"
+              }
+            ]
+          },
+          "text": "msk赶快解封我😡😡😡\n\n07:43\n=今 ⑤\nX\n为你推荐~ 正在关注 添加 ＋°我的关注\n一\n你的账号已被锁定\n经过仔细审查，我们认定你的账号违反了×规则。\n你的账号将暂时处于只读模式，这意味着你无法发帖、转帖或点赞内容。大多数账号会在一周内恢复全部访问权限，但也可能需要更长的时间。\n@aberyohei.. 15小时 X\n我：医生我之前这块得过带状孢疹现在依旧感觉有刺痛balabalabala\n医生：后遗症啊\n我：嗯\n医生：我给你开点中药吧吧9，喝中药好\n67\nI 5091\n29\n你为什么无法把它添加到书签？\n你处于只读模式，因此无法执行此操作\n收到了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 423,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "msk赶快解封我😡😡😡\n\n07:43\n=今 ⑤\nX\n为你推荐~ 正在关注 添加 ＋°我的关注\n一\n你的账号已被锁定\n经过仔细审查，我们认定你的账号违反了×规则。\n你的账号将暂时处于只读模式，这意味着你无法发帖、转帖或点赞内容。大多数账号会在一周内恢复全部访问权限，但也可能需要更长的时间。\n@aberyohei.. https://t.co/xjvJEhbjii"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 462,
+          "like_count": 5556,
+          "listed_count": 1,
+          "media_count": 350,
+          "tweet_count": 3376
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T10:08:54.000Z",
+        "description": "櫻川由奈的另一個人格Ruai(@xiaoyi_0324)不是多意识体 这样说更戏剧性一些|簡中/繁中|生产于2010年的普通MTF|VibeCoding大手子(什么||可能包含一点碎碎念和负面",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "xiaoyi_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/mApcFzl8Sm"
+              }
+            ]
+          }
+        },
+        "id": "2055228634710065152",
+        "location": "来玩提问箱吧求求你了😭",
+        "name": "Ruai_🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2077303624611557386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055229295052935168/EYY7LEmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 90,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 125
+        },
+        "url": "https://t.co/mApcFzl8Sm",
+        "username": "Ruai_0324",
+        "verified": true
+      },
+      {
+        "created_at": "2010-06-22T08:51:13.000Z",
+        "description": "",
+        "id": "158297376",
+        "name": "阿部良平",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "aberyohei",
+        "verified": false
+      }
+    ]
+  }
+}

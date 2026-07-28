@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2078165602649420276",
+    "created_at": "2026-07-18T08:54:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T09:54:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078403011177750614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1865591666448711680",
+          "start": 0,
+          "username": "Kiriko_K_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078403011177750614",
+    "in_reply_to_user_id": "1865591666448711680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078165602649420276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiriko_K_ 但是雨谷小雨真的很萌🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2078165602649420276",
+        "created_at": "2026-07-18T08:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078403011177750614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1865591666448711680",
+              "start": 0,
+              "username": "Kiriko_K_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078403011177750614",
+        "in_reply_to_user_id": "1865591666448711680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078165602649420276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiriko_K_ 但是雨谷小雨真的很萌🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865591666448711680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2078165602649420276",
+        "created_at": "2026-07-17T17:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T18:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078165602649420276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sweetliest/sta…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/sweetliest/status/2077866692705759421",
+              "start": 83,
+              "url": "https://t.co/eFxxJcM6Od"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078165602649420276",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 864,
+          "impression_count": 365222,
+          "like_count": 14810,
+          "quote_count": 106,
+          "reply_count": 83,
+          "retweet_count": 852
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077866692705759421",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I really fucking hate animes that represents self harming as whatever this shit is https://t.co/eFxxJcM6Od"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 467,
+          "like_count": 5653,
+          "listed_count": 1,
+          "media_count": 351,
+          "tweet_count": 3407
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T02:59:05.000Z",
+        "description": "main interest rn: N+C",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "curriculumachine.straw.page",
+                "end": 23,
+                "expanded_url": "https://curriculumachine.straw.page",
+                "start": 0,
+                "url": "https://t.co/wEf16bQZ8P"
+              }
+            ]
+          }
+        },
+        "id": "1865591666448711680",
+        "location": "mostly nctwt, no dni",
+        "name": "Kaori",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073297646647914496/IMLEgBAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 369,
+          "like_count": 59478,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 22907
+        },
+        "url": "https://t.co/wEf16bQZ8P",
+        "username": "Kiriko_K_",
+        "verified": false
+      }
+    ]
+  }
+}

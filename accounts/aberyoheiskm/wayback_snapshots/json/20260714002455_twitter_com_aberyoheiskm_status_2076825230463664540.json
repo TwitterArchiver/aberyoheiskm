@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076730138230972416",
+        "3_2076730138621063168",
+        "3_2076730138725908480",
+        "3_2076730139002703872"
+      ],
+      "media_source_tweet_id": [
+        "2076730141842248113",
+        "2076730141842248113",
+        "2076730141842248113",
+        "2076730141842248113"
+      ]
+    },
+    "author_id": "1804875241367433216",
+    "conversation_id": "2076825230463664540",
+    "created_at": "2026-07-14T00:24:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T01:24:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076825230463664540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1566670035560513536",
+          "start": 3,
+          "username": "YoyouDiin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ECVDQ56hlZ",
+          "end": 43,
+          "expanded_url": "https://x.com/YoyouDiin/status/2076730141842248113/photo/1",
+          "media_key": "3_2076730138230972416",
+          "start": 20,
+          "url": "https://t.co/ECVDQ56hlZ"
+        },
+        {
+          "display_url": "pic.x.com/ECVDQ56hlZ",
+          "end": 43,
+          "expanded_url": "https://x.com/YoyouDiin/status/2076730141842248113/photo/1",
+          "media_key": "3_2076730138621063168",
+          "start": 20,
+          "url": "https://t.co/ECVDQ56hlZ"
+        },
+        {
+          "display_url": "pic.x.com/ECVDQ56hlZ",
+          "end": 43,
+          "expanded_url": "https://x.com/YoyouDiin/status/2076730141842248113/photo/1",
+          "media_key": "3_2076730138725908480",
+          "start": 20,
+          "url": "https://t.co/ECVDQ56hlZ"
+        },
+        {
+          "display_url": "pic.x.com/ECVDQ56hlZ",
+          "end": 43,
+          "expanded_url": "https://x.com/YoyouDiin/status/2076730141842248113/photo/1",
+          "media_key": "3_2076730139002703872",
+          "start": 20,
+          "url": "https://t.co/ECVDQ56hlZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076825230463664540",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076730141842248113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YoyouDiin: 再见世界 https://t.co/ECVDQ56hlZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076730138230972416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNIHDsea4AA1PHk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076730138621063168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNIHDt7bMAAJHax.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076730138725908480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNIHDuUbAAAV-ME.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076730139002703872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNIHDvWakAAB7cW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076730138230972416",
+            "3_2076730138621063168",
+            "3_2076730138725908480",
+            "3_2076730139002703872"
+          ],
+          "media_source_tweet_id": [
+            "2076730141842248113",
+            "2076730141842248113",
+            "2076730141842248113",
+            "2076730141842248113"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "conversation_id": "2076825230463664540",
+        "created_at": "2026-07-14T00:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T01:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076825230463664540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1566670035560513536",
+              "start": 3,
+              "username": "YoyouDiin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ECVDQ56hlZ",
+              "end": 43,
+              "expanded_url": "https://x.com/YoyouDiin/status/2076730141842248113/photo/1",
+              "media_key": "3_2076730138230972416",
+              "start": 20,
+              "url": "https://t.co/ECVDQ56hlZ"
+            },
+            {
+              "display_url": "pic.x.com/ECVDQ56hlZ",
+              "end": 43,
+              "expanded_url": "https://x.com/YoyouDiin/status/2076730141842248113/photo/1",
+              "media_key": "3_2076730138621063168",
+              "start": 20,
+              "url": "https://t.co/ECVDQ56hlZ"
+            },
+            {
+              "display_url": "pic.x.com/ECVDQ56hlZ",
+              "end": 43,
+              "expanded_url": "https://x.com/YoyouDiin/status/2076730141842248113/photo/1",
+              "media_key": "3_2076730138725908480",
+              "start": 20,
+              "url": "https://t.co/ECVDQ56hlZ"
+            },
+            {
+              "display_url": "pic.x.com/ECVDQ56hlZ",
+              "end": 43,
+              "expanded_url": "https://x.com/YoyouDiin/status/2076730141842248113/photo/1",
+              "media_key": "3_2076730139002703872",
+              "start": 20,
+              "url": "https://t.co/ECVDQ56hlZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076825230463664540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076730141842248113",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YoyouDiin: 再见世界 https://t.co/ECVDQ56hlZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076730138230972416",
+            "3_2076730138621063168",
+            "3_2076730138725908480",
+            "3_2076730139002703872"
+          ]
+        },
+        "author_id": "1566670035560513536",
+        "conversation_id": "2076730141842248113",
+        "created_at": "2026-07-13T18:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T19:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076730141842248113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ECVDQ56hlZ",
+              "end": 28,
+              "expanded_url": "https://x.com/YoyouDiin/status/2076730141842248113/photo/1",
+              "media_key": "3_2076730138230972416",
+              "start": 5,
+              "url": "https://t.co/ECVDQ56hlZ"
+            },
+            {
+              "display_url": "pic.x.com/ECVDQ56hlZ",
+              "end": 28,
+              "expanded_url": "https://x.com/YoyouDiin/status/2076730141842248113/photo/1",
+              "media_key": "3_2076730138621063168",
+              "start": 5,
+              "url": "https://t.co/ECVDQ56hlZ"
+            },
+            {
+              "display_url": "pic.x.com/ECVDQ56hlZ",
+              "end": 28,
+              "expanded_url": "https://x.com/YoyouDiin/status/2076730141842248113/photo/1",
+              "media_key": "3_2076730138725908480",
+              "start": 5,
+              "url": "https://t.co/ECVDQ56hlZ"
+            },
+            {
+              "display_url": "pic.x.com/ECVDQ56hlZ",
+              "end": 28,
+              "expanded_url": "https://x.com/YoyouDiin/status/2076730141842248113/photo/1",
+              "media_key": "3_2076730139002703872",
+              "start": 5,
+              "url": "https://t.co/ECVDQ56hlZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076730141842248113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 380,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "再见世界 https://t.co/ECVDQ56hlZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 454,
+          "like_count": 5327,
+          "listed_count": 1,
+          "media_count": 336,
+          "tweet_count": 3281
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-05T06:10:55.000Z",
+        "description": "2005生|mtf|INFP|性别焦虑9年，弄清自己是mtf3 个月|家长不管却反复阻挠党|性别烦躁致抑郁发作|抑郁发作导致炸柜|有5年花刀史|od|暂未hrt",
+        "id": "1566670035560513536",
+        "name": "𝓨𝓸𝔂𝓸𝓾𝓓𝓲𝓲𝓷丁语瑶🏳️‍⚧️💊🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076734439686799360/xTx8TaWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 392,
+          "like_count": 340,
+          "listed_count": 3,
+          "media_count": 94,
+          "tweet_count": 760
+        },
+        "url": "",
+        "username": "YoyouDiin",
+        "verified": false
+      }
+    ]
+  }
+}

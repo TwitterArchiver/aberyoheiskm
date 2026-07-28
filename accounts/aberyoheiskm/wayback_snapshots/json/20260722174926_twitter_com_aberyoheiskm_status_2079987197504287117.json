@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2079838140953731519",
+    "created_at": "2026-07-22T17:49:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T18:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079987197504287117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1441575897241296908",
+          "start": 0,
+          "username": "ForceIndia369"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079987197504287117",
+    "in_reply_to_user_id": "1441575897241296908",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079838140953731519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ForceIndia369 なでなで🫳🫳🫳"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1678,
+        "media_key": "3_2079838135635361792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN0Rw9DbQAAWVoF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2079838140953731519",
+        "created_at": "2026-07-22T17:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T18:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079987197504287117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1441575897241296908",
+              "start": 0,
+              "username": "ForceIndia369"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079987197504287117",
+        "in_reply_to_user_id": "1441575897241296908",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079838140953731519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ForceIndia369 なでなで🫳🫳🫳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079838135635361792"
+          ]
+        },
+        "author_id": "1441575897241296908",
+        "conversation_id": "2079838140953731519",
+        "created_at": "2026-07-22T07:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079838140953731519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vYBSjiIxn5",
+              "end": 46,
+              "expanded_url": "https://x.com/ForceIndia369/status/2079838140953731519/photo/1",
+              "media_key": "3_2079838135635361792",
+              "start": 23,
+              "url": "https://t.co/vYBSjiIxn5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079838140953731519",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 386,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "入院費笑えない。ほんとごめん二度とやらない。 https://t.co/vYBSjiIxn5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 475,
+          "like_count": 5813,
+          "listed_count": 2,
+          "media_count": 361,
+          "tweet_count": 3512
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-25T01:31:08.000Z",
+        "description": "07/♀/薬物依存/うつ病/強迫性障害/愛着障害/摂食障害/ふろば100",
+        "id": "1441575897241296908",
+        "location": "いつか会う君へ",
+        "name": "あい",
+        "pinned_tweet_id": "2011052466016747832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073719510327267328/Cjt600_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 399,
+          "like_count": 2152,
+          "listed_count": 4,
+          "media_count": 70,
+          "tweet_count": 294
+        },
+        "url": "",
+        "username": "ForceIndia369",
+        "verified": false
+      }
+    ]
+  }
+}

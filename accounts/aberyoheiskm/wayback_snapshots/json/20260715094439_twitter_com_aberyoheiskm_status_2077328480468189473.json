@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2077327308655149103",
+    "created_at": "2026-07-15T09:44:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T10:44:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077328480468189473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2072629204437602304",
+          "start": 0,
+          "username": "lilPuffBomb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077328480468189473",
+    "in_reply_to_user_id": "2072629204437602304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077327308655149103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lilPuffBomb 你od嘛\n你割手嘛\n你精神有问题嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2077327300786565120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQmLIWasAAc-cV.jpg",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2077327308655149103",
+        "created_at": "2026-07-15T09:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T10:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077328480468189473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2072629204437602304",
+              "start": 0,
+              "username": "lilPuffBomb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077328480468189473",
+        "in_reply_to_user_id": "2072629204437602304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077327308655149103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lilPuffBomb 你od嘛\n你割手嘛\n你精神有问题嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077327300786565120"
+          ]
+        },
+        "author_id": "2072629204437602304",
+        "conversation_id": "2077327308655149103",
+        "created_at": "2026-07-15T09:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T10:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077327308655149103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nQYzgh4h1p",
+              "end": 32,
+              "expanded_url": "https://x.com/lilPuffBomb/status/2077327308655149103/photo/1",
+              "media_key": "3_2077327300786565120",
+              "start": 9,
+              "url": "https://t.co/nQYzgh4h1p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077327308655149103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么夺命三连问。 https://t.co/nQYzgh4h1p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 457,
+          "like_count": 5437,
+          "listed_count": 1,
+          "media_count": 344,
+          "tweet_count": 3310
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-02T10:33:08.000Z",
+        "description": "前世：PuffBombBOOM\n我是泡芙/我早就不怕痛了\n餐券b/边缘型人格障碍/自鲨失败休学中/我割我o\n欢迎同好宝宝互fo扩扩\n🚪52/接线下/伤疤定制",
+        "id": "2072629204437602304",
+        "location": "ʚ✞ɞ",
+        "name": "PuffBomb（寻找互关版）",
+        "pinned_tweet_id": "2072668984194043913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072629780164562944/WWQFixYm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 47,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "lilPuffBomb",
+        "verified": false
+      }
+    ]
+  }
+}
