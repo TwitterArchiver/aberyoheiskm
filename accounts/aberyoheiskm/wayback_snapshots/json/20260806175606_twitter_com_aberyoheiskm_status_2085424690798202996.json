@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2085424690798202996",
+    "created_at": "2026-08-06T17:56:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T18:56:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085424690798202996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 105,
+          "id": "1720665183188922368",
+          "start": 100,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/NewYear_NewYea…",
+          "end": 129,
+          "expanded_url": "https://twitter.com/NewYear_NewYear/status/2085409767321981095",
+          "start": 106,
+          "url": "https://t.co/uGdcUUbmZl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085424690798202996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085409767321981095",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "根据我近一年的推文，我是：\n- 哪位獨裁者？\n- 哪位哲學家？\n- 哪位虛構人物？\n- 哪位政治家？\n- 哪位宗教人物？\n- 哪位歷史人物？\n- 哪位藝術家？\n请给出真实可查的人名，不限国籍不限年代\n@grok https://t.co/uGdcUUbmZl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2085424690798202996",
+        "created_at": "2026-08-06T17:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T18:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085424690798202996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 105,
+              "id": "1720665183188922368",
+              "start": 100,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/NewYear_NewYea…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/NewYear_NewYear/status/2085409767321981095",
+              "start": 106,
+              "url": "https://t.co/uGdcUUbmZl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085424690798202996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085409767321981095",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "根据我近一年的推文，我是：\n- 哪位獨裁者？\n- 哪位哲學家？\n- 哪位虛構人物？\n- 哪位政治家？\n- 哪位宗教人物？\n- 哪位歷史人物？\n- 哪位藝術家？\n请给出真实可查的人名，不限国籍不限年代\n@grok https://t.co/uGdcUUbmZl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2085409767321981095",
+        "created_at": "2026-08-06T16:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T17:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085409767321981095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 105,
+              "id": "1720665183188922368",
+              "start": 100,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/xyxyxy4111111/…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/xyxyxy4111111/status/2085379348643868843",
+              "start": 106,
+              "url": "https://t.co/WFsWpqcTQM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085409767321981095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085379348643868843",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "根据我近一年的推文，我是：\n- 哪位獨裁者？\n- 哪位哲學家？\n- 哪位虛構人物？\n- 哪位政治家？\n- 哪位宗教人物？\n- 哪位歷史人物？\n- 哪位藝術家？\n请给出真实可查的人名，不限国籍不限年代\n@grok https://t.co/WFsWpqcTQM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 541,
+          "like_count": 6939,
+          "listed_count": 2,
+          "media_count": 415,
+          "tweet_count": 4076
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8926128,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7275,
+          "media_count": 9227948,
+          "tweet_count": 134567255
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2069430446350618765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 505,
+          "like_count": 16911,
+          "listed_count": 2,
+          "media_count": 1116,
+          "tweet_count": 7508
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

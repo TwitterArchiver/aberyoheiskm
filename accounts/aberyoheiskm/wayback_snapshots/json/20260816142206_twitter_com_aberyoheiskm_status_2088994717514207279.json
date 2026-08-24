@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2088990464687079716",
+    "created_at": "2026-08-16T14:22:06.000Z",
+    "display_text_range": [
+      7,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T15:22:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088994717514207279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2024068861134528512",
+          "start": 0,
+          "username": "1gdsb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088994717514207279",
+    "in_reply_to_user_id": "2024068861134528512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088990464687079716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1gdsb 不得了，！这个，金刚烷胺吃了之后。我，变成一只，鸡？操你妈。，我要，跳楼。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088990450866905088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2Vv0Ma4AAt9nq.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2088990464687079716",
+        "created_at": "2026-08-16T14:22:06.000Z",
+        "display_text_range": [
+          7,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T15:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088994717514207279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2024068861134528512",
+              "start": 0,
+              "username": "1gdsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088994717514207279",
+        "in_reply_to_user_id": "2024068861134528512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088990464687079716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1gdsb 不得了，！这个，金刚烷胺吃了之后。我，变成一只，鸡？操你妈。，我要，跳楼。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088990450866905088"
+          ]
+        },
+        "author_id": "2024068861134528512",
+        "conversation_id": "2088990464687079716",
+        "created_at": "2026-08-16T14:05:13.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T15:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088990464687079716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tkbk7ql2bm",
+              "end": 41,
+              "expanded_url": "https://x.com/1gdsb/status/2088990464687079716/photo/1",
+              "media_key": "3_2088990450866905088",
+              "start": 18,
+              "url": "https://t.co/Tkbk7ql2bm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088990464687079716",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088990450866905088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤔变成鸡说是\n10:04 8t晚安 https://t.co/Tkbk7ql2bm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "is_identity_verified": false,
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "most_recent_tweet_id": "2088994717514207279",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804875241367433216/1775358395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 605,
+          "like_count": 8023,
+          "listed_count": 2,
+          "media_count": 472,
+          "tweet_count": 4768
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-18T10:30:04.000Z",
+        "description": "死人微活\n当雪崩的时候没有一片雪花是无辜的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cn_1gdsb1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/cn_1gdsb1",
+                "start": 0,
+                "url": "https://t.co/nDeqjDgDGg"
+              }
+            ]
+          }
+        },
+        "id": "2024068861134528512",
+        "is_identity_verified": false,
+        "location": "广州海珠赤岗",
+        "most_recent_tweet_id": "2088991492845322398",
+        "name": "cn_1gdsb",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2024068861134528512/1781979992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068400073894236160/GFl-Hbh9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 634,
+          "like_count": 5958,
+          "listed_count": 2,
+          "media_count": 766,
+          "tweet_count": 2946
+        },
+        "url": "https://t.co/nDeqjDgDGg",
+        "username": "1gdsb",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

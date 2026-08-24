@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2081724126583304501",
+    "created_at": "2026-07-28T02:45:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T03:45:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081934023958655376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2057743680061255680",
+          "start": 0,
+          "username": "Koroshiiiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081934023958655376",
+    "in_reply_to_user_id": "2057743680061255680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081724126583304501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Koroshiiiiiii 好肥美的杯子……🥵"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8701,
+        "height": 1280,
+        "media_key": "13_2081724098670149632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081724098670149632/img/wHPPr28FEy3r8VDW.jpg",
+        "public_metrics": {
+          "view_count": 1160
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081724098670149632/vid/avc1/320x568/dsO9uBnvczvhjmST.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081724098670149632/vid/avc1/480x852/eiEO9i5ZEsq7RW00.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081724098670149632/vid/avc1/720x1280/p6LzAusGZPTpk_W0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081724098670149632/pl/iwH3YFYYha5Vd9CK.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2081724098678575104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPFCc4bUAAJygb.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2081724098674331648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPFCc3akAAsLYS.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2081724126583304501",
+        "created_at": "2026-07-28T02:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T03:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081934023958655376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2057743680061255680",
+              "start": 0,
+              "username": "Koroshiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081934023958655376",
+        "in_reply_to_user_id": "2057743680061255680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081724126583304501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Koroshiiiiiii 好肥美的杯子……🥵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081724098670149632",
+            "3_2081724098678575104",
+            "3_2081724098674331648"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2081724126583304501",
+        "created_at": "2026-07-27T12:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081724126583304501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M5DKFYpBIJ",
+              "end": 40,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2081724126583304501/video/1",
+              "media_key": "13_2081724098670149632",
+              "start": 17,
+              "url": "https://t.co/M5DKFYpBIJ"
+            },
+            {
+              "display_url": "pic.x.com/M5DKFYpBIJ",
+              "end": 40,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2081724126583304501/video/1",
+              "media_key": "3_2081724098678575104",
+              "start": 17,
+              "url": "https://t.co/M5DKFYpBIJ"
+            },
+            {
+              "display_url": "pic.x.com/M5DKFYpBIJ",
+              "end": 40,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2081724126583304501/video/1",
+              "media_key": "3_2081724098674331648",
+              "start": 17,
+              "url": "https://t.co/M5DKFYpBIJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081724126583304501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2145,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "梦游的时候好像买了很多杯子... https://t.co/M5DKFYpBIJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 485,
+          "like_count": 5963,
+          "listed_count": 2,
+          "media_count": 365,
+          "tweet_count": 3565
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "🚪77（防扰）\n可以叫小杀（🦋同名只发drug）\n不🩸🔪/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪\n药理学习中💊/免费私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/9aTLaOashy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cfQa1JFxmwQz…",
+                "end": 110,
+                "expanded_url": "https://www.kdocs.cn/l/cfQa1JFxmwQz?f=301",
+                "start": 87,
+                "url": "https://t.co/9aTLaOashy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/Q7AWi1TcyC"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟ ",
+        "name": "山本殺し✰（出💊版）",
+        "pinned_tweet_id": "2081330568390979780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 305,
+          "like_count": 3478,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 1147
+        },
+        "url": "https://t.co/Q7AWi1TcyC",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2085247598940901870",
+    "created_at": "2026-08-06T17:51:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T18:51:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085423589088755869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1788839920569872384",
+          "start": 0,
+          "username": "gxioyn276752"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085423589088755869",
+    "in_reply_to_user_id": "1788839920569872384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085247598940901870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gxioyn276752 我去我也有这套！真的很萌啊啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2085247572701229056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBJnoeaMAAP8vR.jpg",
+        "width": 2734
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2085247587343650816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBJofBb0AAuz_9.jpg",
+        "width": 2734
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2085247598940901870",
+        "created_at": "2026-08-06T17:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T18:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085423589088755869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1788839920569872384",
+              "start": 0,
+              "username": "gxioyn276752"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085423589088755869",
+        "in_reply_to_user_id": "1788839920569872384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085247598940901870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gxioyn276752 我去我也有这套！真的很萌啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085247572701229056",
+            "3_2085247587343650816"
+          ]
+        },
+        "author_id": "1788839920569872384",
+        "conversation_id": "2085247598940901870",
+        "created_at": "2026-08-06T06:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085247598940901870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gn0VELHa03",
+              "end": 70,
+              "expanded_url": "https://x.com/gxioyn276752/status/2085247598940901870/photo/1",
+              "media_key": "3_2085247572701229056",
+              "start": 47,
+              "url": "https://t.co/gn0VELHa03"
+            },
+            {
+              "display_url": "pic.x.com/gn0VELHa03",
+              "end": 70,
+              "expanded_url": "https://x.com/gxioyn276752/status/2085247598940901870/photo/1",
+              "media_key": "3_2085247587343650816",
+              "start": 47,
+              "url": "https://t.co/gn0VELHa03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085247598940901870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 12838,
+          "like_count": 288,
+          "quote_count": 0,
+          "reply_count": 65,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们男娘水色真的是对的，那些小胡茬配个小镇做题家的刻板印象图到底是谁在传啊😭😭🖐🏻️🖐🏻️ https://t.co/gn0VELHa03"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 541,
+          "like_count": 6932,
+          "listed_count": 2,
+          "media_count": 415,
+          "tweet_count": 4074
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-10T07:54:23.000Z",
+        "description": "“但是哪怕是这样子还是想要被有心的人看见我身边人不为人知的细腻的另一面啊”                      \n\n                    男，非🍥，infp，q2977344354，八字，命理师卦师，塔罗🔮星盘～，欢迎骚扰喵QvQ",
+        "id": "1788839920569872384",
+        "location": "无锡",
+        "name": "祢霖洛拉～（人类观察ing）",
+        "pinned_tweet_id": "2005425812129083428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079624391651176448/4GMisXwg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 182,
+          "like_count": 598,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 777
+        },
+        "url": "",
+        "username": "gxioyn276752",
+        "verified": false
+      }
+    ]
+  }
+}

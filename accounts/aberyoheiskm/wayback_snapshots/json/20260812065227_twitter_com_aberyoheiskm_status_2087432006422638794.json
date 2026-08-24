@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2087078035552096430",
+    "created_at": "2026-08-12T06:52:27.000Z",
+    "display_text_range": [
+      23,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T07:52:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087432006422638794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "840169524011786241",
+          "start": 0,
+          "username": "sdfz77602"
+        },
+        {
+          "end": 22,
+          "id": "1515562361070960646",
+          "start": 11,
+          "username": "Minastear1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087432006422638794",
+    "in_reply_to_user_id": "840169524011786241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087294963340181837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sdfz77602 @Minastear1 阿里嘎多！贴贴哇——"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2087078035552096430",
+        "created_at": "2026-08-12T06:52:27.000Z",
+        "display_text_range": [
+          23,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T07:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087432006422638794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "840169524011786241",
+              "start": 0,
+              "username": "sdfz77602"
+            },
+            {
+              "end": 22,
+              "id": "1515562361070960646",
+              "start": 11,
+              "username": "Minastear1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087432006422638794",
+        "in_reply_to_user_id": "840169524011786241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087294963340181837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sdfz77602 @Minastear1 阿里嘎多！贴贴哇——"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "840169524011786241",
+        "conversation_id": "2087078035552096430",
+        "created_at": "2026-08-11T21:47:53.000Z",
+        "display_text_range": [
+          26,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T22:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087294963340181837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            },
+            {
+              "end": 25,
+              "id": "1515562361070960646",
+              "start": 14,
+              "username": "Minastear1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087294963340181837",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087078035552096430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm @Minastear1 蹲蹲，好可爱的挂件"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "is_identity_verified": false,
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "most_recent_tweet_id": "2087432006422638794",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804875241367433216/1775358395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 579,
+          "like_count": 7376,
+          "listed_count": 2,
+          "media_count": 442,
+          "tweet_count": 4374
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-03-10T11:56:38.000Z",
+        "description": "03 | 焦虑抑郁障碍丨友一切丨生理心理女丨不是直的丨直关是喜欢你",
+        "id": "840169524011786241",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087294972332797997",
+        "name": "请带给我明天",
+        "pinned_tweet_id": "2077002899763483099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/840169524011786241/1688750408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075139845656346624/nuq9WQcY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 284,
+          "like_count": 1197,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 1104
+        },
+        "url": "",
+        "username": "sdfz77602",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-17T05:26:48.000Z",
+        "description": "＝易烟︱我独立于世界之上︱18↑︱友跨顺女泛性恋︱oder︱提供小零食出售业务︱第二世@Minastear030 永远怀念",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "Minastear030"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Minastear",
+                "end": 23,
+                "expanded_url": "http://t.me/Minastear",
+                "start": 0,
+                "url": "https://t.co/b3aLfzgd4Y"
+              }
+            ]
+          }
+        },
+        "id": "1515562361070960646",
+        "is_identity_verified": false,
+        "location": "Eden",
+        "most_recent_tweet_id": "2087177119499788771",
+        "name": "Minastear",
+        "pinned_tweet_id": "2030864448249024731",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1515562361070960646/1650173322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1515562692299264001/veLb66ZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 281,
+          "like_count": 719,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 432
+        },
+        "url": "https://t.co/b3aLfzgd4Y",
+        "username": "Minastear1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

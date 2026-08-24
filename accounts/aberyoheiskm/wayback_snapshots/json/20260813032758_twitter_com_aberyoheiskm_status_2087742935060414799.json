@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2087546273062846659",
+    "created_at": "2026-08-13T03:27:58.000Z",
+    "display_text_range": [
+      16,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T04:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087742935060414799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374681196412559360",
+          "start": 0,
+          "username": "KoiShi79538682"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087742935060414799",
+    "in_reply_to_user_id": "1374681196412559360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087740289914208528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KoiShi79538682 我去还是喜思平的，我真馋了🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2087740276047777792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPkkuEEakAA_p-J.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2087546273062846659",
+        "created_at": "2026-08-13T03:27:58.000Z",
+        "display_text_range": [
+          16,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T04:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087742935060414799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1374681196412559360",
+              "start": 0,
+              "username": "KoiShi79538682"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087742935060414799",
+        "in_reply_to_user_id": "1374681196412559360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087740289914208528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KoiShi79538682 我去还是喜思平的，我真馋了🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087740276047777792"
+          ]
+        },
+        "author_id": "1374681196412559360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2087546273062846659",
+        "created_at": "2026-08-13T03:17:28.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T04:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087740289914208528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i8buA4D0S3",
+              "end": 46,
+              "expanded_url": "https://x.com/KoiShi79538682/status/2087740289914208528/photo/1",
+              "media_key": "3_2087740276047777792",
+              "start": 23,
+              "url": "https://t.co/i8buA4D0S3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087740289914208528",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087740276047777792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087546273062846659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm 已开到，懂你意思 https://t.co/i8buA4D0S3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "is_identity_verified": false,
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "most_recent_tweet_id": "2087742935060414799",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804875241367433216/1775358395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 698,
+          "following_count": 593,
+          "like_count": 7621,
+          "listed_count": 2,
+          "media_count": 453,
+          "tweet_count": 4519
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-24T11:15:20.000Z",
+        "description": "不OD 普通人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/6bLyhH",
+                "end": 23,
+                "expanded_url": "https://b23.tv/6bLyhH",
+                "start": 0,
+                "url": "https://t.co/A1shlGqsSc"
+              }
+            ]
+          }
+        },
+        "id": "1374681196412559360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087742637105418260",
+        "name": "超级沙包",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762433524450373632/ej3YeGuM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 928,
+          "like_count": 2467,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 3145
+        },
+        "url": "https://t.co/A1shlGqsSc",
+        "username": "KoiShi79538682",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

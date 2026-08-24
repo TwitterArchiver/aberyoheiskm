@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084950261559390208"
+      ],
+      "media_source_tweet_id": [
+        "2084950273278296559"
+      ]
+    },
+    "author_id": "1804875241367433216",
+    "conversation_id": "2084985952288821405",
+    "created_at": "2026-08-05T12:52:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T13:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084985952288821405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2016008370235531264",
+          "start": 3,
+          "username": "owarikake_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y96dYmTkrz",
+          "end": 49,
+          "expanded_url": "https://x.com/owarikake_/status/2084950273278296559/photo/1",
+          "media_key": "3_2084950261559390208",
+          "start": 26,
+          "url": "https://t.co/Y96dYmTkrz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084985952288821405",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084950273278296559",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @owarikake_: 理由が変わっていく https://t.co/Y96dYmTkrz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084950261559390208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO87N2Ka8AAMWB9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084950261559390208"
+          ]
+        },
+        "author_id": "2016008370235531264",
+        "conversation_id": "2084950273278296559",
+        "created_at": "2026-08-05T10:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T11:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084950273278296559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y96dYmTkrz",
+              "end": 33,
+              "expanded_url": "https://x.com/owarikake_/status/2084950273278296559/photo/1",
+              "media_key": "3_2084950261559390208",
+              "start": 10,
+              "url": "https://t.co/Y96dYmTkrz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084950273278296559",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 10129,
+          "like_count": 861,
+          "quote_count": 10,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "理由が変わっていく https://t.co/Y96dYmTkrz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084950261559390208"
+          ],
+          "media_source_tweet_id": [
+            "2084950273278296559"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "conversation_id": "2084985952288821405",
+        "created_at": "2026-08-05T12:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084985952288821405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2016008370235531264",
+              "start": 3,
+              "username": "owarikake_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y96dYmTkrz",
+              "end": 49,
+              "expanded_url": "https://x.com/owarikake_/status/2084950273278296559/photo/1",
+              "media_key": "3_2084950261559390208",
+              "start": 26,
+              "url": "https://t.co/Y96dYmTkrz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084985952288821405",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084950273278296559",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @owarikake_: 理由が変わっていく https://t.co/Y96dYmTkrz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 529,
+          "like_count": 6772,
+          "listed_count": 2,
+          "media_count": 408,
+          "tweet_count": 3981
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T04:40:44.000Z",
+        "description": "不快に思われるかも\n@simensoka__2 辛いことを呟く垢 @banpeiyu_1 ミルグラムとかVOCALOIDとか話してます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "simensoka__2"
+              },
+              {
+                "end": 44,
+                "start": 33,
+                "username": "banpeiyu_1"
+              }
+            ]
+          }
+        },
+        "id": "2016008370235531264",
+        "name": "おわりかけ",
+        "pinned_tweet_id": "2057886715961081876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041075201027575808/ZmS4OOxb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 21,
+          "like_count": 1363,
+          "listed_count": 5,
+          "media_count": 199,
+          "tweet_count": 484
+        },
+        "url": "",
+        "username": "owarikake_",
+        "verified": false
+      }
+    ]
+  }
+}

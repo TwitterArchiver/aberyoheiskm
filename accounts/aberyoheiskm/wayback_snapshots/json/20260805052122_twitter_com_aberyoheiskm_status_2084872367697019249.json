@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2084561089938030682",
+    "created_at": "2026-08-05T05:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T06:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084872367697019249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1730251057316737024",
+          "start": 0,
+          "username": "SRamirez66171"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084872367697019249",
+    "in_reply_to_user_id": "1730251057316737024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084561089938030682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SRamirez66171 人机一直给我发没有用的消息，我还怕错过真的老板回复只能开消息提示，烦死了，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2084561089938030682",
+        "created_at": "2026-08-05T05:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T06:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084872367697019249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1730251057316737024",
+              "start": 0,
+              "username": "SRamirez66171"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084872367697019249",
+        "in_reply_to_user_id": "1730251057316737024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084561089938030682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SRamirez66171 人机一直给我发没有用的消息，我还怕错过真的老板回复只能开消息提示，烦死了，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730251057316737024",
+        "conversation_id": "2084561089938030682",
+        "created_at": "2026-08-04T08:44:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T09:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084561089938030682"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084561089938030682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 463,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "boss直骗能不能滚啊，纯诈骗软件，一天面试100个99个都是骗人的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 533,
+          "like_count": 6651,
+          "listed_count": 2,
+          "media_count": 408,
+          "tweet_count": 3949
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-30T15:43:03.000Z",
+        "description": "大号已经不重要了，故事并没有结束/互fo寻回/od/备用号：@imqrmrtvom1lkt主人：@MercuricCyanide\ntg群：https://t.co/Fm16DYfxrU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "imqrmrtvom1lkt"
+              },
+              {
+                "end": 64,
+                "start": 48,
+                "username": "MercuricCyanide"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+gjb2OqUsan1jO…",
+                "end": 92,
+                "expanded_url": "https://t.me/+gjb2OqUsan1jOGNl",
+                "start": 69,
+                "url": "https://t.co/Fm16DYfxrU"
+              }
+            ]
+          }
+        },
+        "id": "1730251057316737024",
+        "name": "洛5.0",
+        "pinned_tweet_id": "2083442331383177351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082718807173599232/iHJ1jUK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 246,
+          "like_count": 881,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 332
+        },
+        "url": "",
+        "username": "SRamirez66171",
+        "verified": false
+      }
+    ]
+  }
+}

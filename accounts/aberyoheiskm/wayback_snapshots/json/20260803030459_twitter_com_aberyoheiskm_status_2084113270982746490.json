@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2083608681648927194",
+    "created_at": "2026-08-03T03:04:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T04:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084113270982746490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1801534903626121216",
+          "start": 0,
+          "username": "qngshu988723424"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084113270982746490",
+    "in_reply_to_user_id": "1801534903626121216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083777268917395670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qngshu988723424 确实我那天晚上没注意细看没看到说有黄麻碱什么的（完全就是在胡扯啊喂）、但是也确实过度镇静了……到早上一直感觉没睡醒，有种想起前妻喹硫平的往日种种了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2083608681648927194",
+        "created_at": "2026-08-03T03:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084113270982746490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1801534903626121216",
+              "start": 0,
+              "username": "qngshu988723424"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084113270982746490",
+        "in_reply_to_user_id": "1801534903626121216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083777268917395670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qngshu988723424 确实我那天晚上没注意细看没看到说有黄麻碱什么的（完全就是在胡扯啊喂）、但是也确实过度镇静了……到早上一直感觉没睡醒，有种想起前妻喹硫平的往日种种了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801534903626121216",
+        "conversation_id": "2083608681648927194",
+        "created_at": "2026-08-02T04:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083777268917395670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083777268917395670",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083608681648927194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm 可以，挺舒服的。ai说的完全不对而且搞错是什么，没有医学表明这一说了。一定要说我觉得这样顺逆遗忘有点厉害"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 522,
+          "like_count": 6330,
+          "listed_count": 2,
+          "media_count": 391,
+          "tweet_count": 3757
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-14T08:39:35.000Z",
+        "description": "enby/和鸟每天抢吃的/一分钟发八条/说话很人机可能博关注,谢谢你们祝你们身体健康可能🩸💊内容||                                  @Ace_Purin←点击关注布丁谢谢喵，这个是很可爱说话也很萌的人。可以多和她互动！这个布丁很好互动也很有意思，我最喜欢这个人，希望我们都能开心。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "Ace_Purin"
+              }
+            ]
+          }
+        },
+        "id": "1801534903626121216",
+        "location": "鸟笼",
+        "name": "rotaka",
+        "pinned_tweet_id": "2039361438062723095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017539398498455559/yoqs9-Hg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 803,
+          "like_count": 10847,
+          "listed_count": 2,
+          "media_count": 747,
+          "tweet_count": 9539
+        },
+        "url": "",
+        "username": "qngshu988723424",
+        "verified": false
+      }
+    ]
+  }
+}

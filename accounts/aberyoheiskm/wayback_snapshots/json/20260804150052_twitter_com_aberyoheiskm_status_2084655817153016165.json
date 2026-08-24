@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2084651658588631102",
+    "created_at": "2026-08-04T15:00:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T16:00:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084655817153016165"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084655817153016165",
+    "in_reply_to_user_id": "1804875241367433216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084651658588631102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我草这不是止疼药吗，我吃了浑身疼，嗓子也疼感觉像是肿大了一样怎么回事😰😰😰浑身还燥热"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2074,
+        "media_key": "3_2084651649860337664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4roW5bgAA0m-c.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2084651658588631102",
+        "created_at": "2026-08-04T15:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084655817153016165"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084655817153016165",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084651658588631102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草这不是止疼药吗，我吃了浑身疼，嗓子也疼感觉像是肿大了一样怎么回事😰😰😰浑身还燥热"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084651649860337664"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "conversation_id": "2084651658588631102",
+        "created_at": "2026-08-04T14:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084651658588631102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ejspihlMkS",
+              "end": 35,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2084651658588631102/photo/1",
+              "media_key": "3_2084651649860337664",
+              "start": 12,
+              "url": "https://t.co/ejspihlMkS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084651658588631102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好崩溃，亚太看成正太了 https://t.co/ejspihlMkS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 529,
+          "like_count": 6608,
+          "listed_count": 2,
+          "media_count": 406,
+          "tweet_count": 3921
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2083574358665200047",
+    "created_at": "2026-08-02T00:20:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T01:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083709548465189039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2055228634710065152",
+          "start": 0,
+          "username": "Ruai_0324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083709548465189039",
+    "in_reply_to_user_id": "2055228634710065152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083640603045515327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruai_0324 那就行！我打算买来挂在房间之类的，或者挂在包上！感觉点缀这种粉粉的雰囲気也好好……🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2083574358665200047",
+        "created_at": "2026-08-02T00:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T01:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083709548465189039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2055228634710065152",
+              "start": 0,
+              "username": "Ruai_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083709548465189039",
+        "in_reply_to_user_id": "2055228634710065152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083640603045515327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruai_0324 那就行！我打算买来挂在房间之类的，或者挂在包上！感觉点缀这种粉粉的雰囲気也好好……🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055228634710065152",
+        "conversation_id": "2083574358665200047",
+        "created_at": "2026-08-01T19:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T20:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083640603045515327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083640603045515327",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083574358665200047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm 又不是玩游戏 相中了就买 我也有一个这个手机链 只不过我觉得带着它不好单手玩手机 好看是真好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 501,
+          "like_count": 6321,
+          "listed_count": 2,
+          "media_count": 380,
+          "tweet_count": 3735
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T10:08:54.000Z",
+        "description": "@Xiaoyi_0324 简中繁中混用｜重抑中焦｜双相疑似｜OverDose但不🈹｜这个号只有一些负面情绪和碎碎念 酌情观看",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "Xiaoyi_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/mApcFzkB2O"
+              }
+            ]
+          }
+        },
+        "id": "2055228634710065152",
+        "location": "来玩提问箱吧求求你了😭",
+        "name": "Ruai_🍥",
+        "pinned_tweet_id": "2077303624611557386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055229295052935168/EYY7LEmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 99,
+          "like_count": 50,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 216
+        },
+        "url": "https://t.co/mApcFzkB2O",
+        "username": "Ruai_0324",
+        "verified": false
+      }
+    ]
+  }
+}

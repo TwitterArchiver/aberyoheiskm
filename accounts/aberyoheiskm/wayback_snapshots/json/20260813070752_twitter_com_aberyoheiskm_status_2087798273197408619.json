@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2087454882853015939",
+    "created_at": "2026-08-13T07:07:52.000Z",
+    "display_text_range": [
+      12,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T08:07:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087798273197408619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2083872895659634688",
+          "start": 0,
+          "username": "LingYu0612"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087798273197408619",
+    "in_reply_to_user_id": "2083872895659634688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087454882853015939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingYu0612 恭喜500fo！贴贴这个泠羽(´∀｀)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2087454485958541312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPggy5BawAAga6H.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2087454864347648000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPghI6oaUAAsz72.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2087454882853015939",
+        "created_at": "2026-08-13T07:07:52.000Z",
+        "display_text_range": [
+          12,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T08:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087798273197408619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2083872895659634688",
+              "start": 0,
+              "username": "LingYu0612"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087798273197408619",
+        "in_reply_to_user_id": "2083872895659634688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087454882853015939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingYu0612 恭喜500fo！贴贴这个泠羽(´∀｀)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087454485958541312",
+            "3_2087454864347648000"
+          ]
+        },
+        "author_id": "2083872895659634688",
+        "conversation_id": "2087454882853015939",
+        "created_at": "2026-08-12T08:23:21.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T09:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087454882853015939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sj2pvbuGwd",
+              "end": 168,
+              "expanded_url": "https://x.com/LingYu0612/status/2087454882853015939/photo/1",
+              "media_key": "3_2087454485958541312",
+              "start": 145,
+              "url": "https://t.co/sj2pvbuGwd"
+            },
+            {
+              "display_url": "pic.x.com/sj2pvbuGwd",
+              "end": 168,
+              "expanded_url": "https://x.com/LingYu0612/status/2087454882853015939/photo/1",
+              "media_key": "3_2087454864347648000",
+              "start": 145,
+              "url": "https://t.co/sj2pvbuGwd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087454882853015939",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087454485958541312"
+          },
+          {
+            "media_key": "3_2087454864347648000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "500fo纪念！感谢大家的支持！同时也希望大家平时看到咱时也能够多陪陪咱聊聊天，以及进行一次抽奖吧，目前咱这边的家境不是特别好所以只能发一些小物品了（应该不会嫌弃吧）\n\n一等奖:国色8颗（散装），可折现60  1份\n二等奖:国补*1，可折现25  2份\n三等奖:支付宝口令红包20 10份\n参与奖:Q群发送10元拼手气群红包（共计10个）\n\n参与抽取奖励方式:关注，转帖，评论，将会在评论区内用Grok进行随机抽取\n\n开奖时间:8.16"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1443,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 52,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "500fo纪念！感谢大家的支持！同时也希望大家平时看到咱时也能够多陪陪咱聊聊天，以及进行一次抽奖吧，目前咱这边的家境不是特别好所以只能发一些小物品了（应该不会嫌弃吧）\n\n一等奖:国色8颗（散装），可折现60  1份\n二等奖:国补*1，可折现25  2份\n三等奖:支付宝口令红包20 10份 https://t.co/sj2pvbuGwd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "is_identity_verified": false,
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "most_recent_tweet_id": "2087798273197408619",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804875241367433216/1775358395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 607,
+          "like_count": 7641,
+          "listed_count": 2,
+          "media_count": 454,
+          "tweet_count": 4533
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-02T11:11:24.000Z",
+        "description": "生如夏花之绚烂，死如秋叶之静美",
+        "id": "2083872895659634688",
+        "is_identity_verified": false,
+        "location": "重庆市",
+        "most_recent_tweet_id": "2087767170990432515",
+        "name": "泠羽🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2085551277539459355",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083872895659634688/1785669611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084617672319492096/3pN53PpX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 304,
+          "like_count": 2393,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 768
+        },
+        "url": "",
+        "username": "LingYu0612",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

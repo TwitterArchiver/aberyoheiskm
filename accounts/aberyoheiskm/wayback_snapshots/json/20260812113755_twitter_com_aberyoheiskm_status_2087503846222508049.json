@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2087444857665315148",
+    "created_at": "2026-08-12T11:37:55.000Z",
+    "display_text_range": [
+      13,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T12:37:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087503846222508049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2076897141830844416",
+          "start": 0,
+          "username": "GunandJason"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087503846222508049",
+    "in_reply_to_user_id": "2076897141830844416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087503205513224402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GunandJason 好的！会加油的！谢谢你这么耐心地还教了方法呜呜呜码了这么多字非常感谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2087444857665315148",
+        "created_at": "2026-08-12T11:37:55.000Z",
+        "display_text_range": [
+          13,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T12:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087503846222508049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2076897141830844416",
+              "start": 0,
+              "username": "GunandJason"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087503846222508049",
+        "in_reply_to_user_id": "2076897141830844416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087503205513224402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GunandJason 好的！会加油的！谢谢你这么耐心地还教了方法呜呜呜码了这么多字非常感谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076897141830844416",
+        "conversation_id": "2087444857665315148",
+        "created_at": "2026-08-12T11:35:22.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T12:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087503205513224402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087503205513224402",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087501425677103537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm 加油"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "is_identity_verified": false,
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "most_recent_tweet_id": "2087503846222508049",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804875241367433216/1775358395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 589,
+          "like_count": 7477,
+          "listed_count": 2,
+          "media_count": 449,
+          "tweet_count": 4448
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-14T05:11:45.000Z",
+        "description": "Release Date：2011/02/14\n mc原版 | ba tw服 摆烂 | 摄影 | 装机 | 没啥空一直| 拼音不好\n| 重度拖延 | 地下党 | 双 |练声ing | 探索 ing |\n| 目前环境下为GF 独处为f| 条件尚可可mtf | \n 目前环境下怕\"炸柜\" 被送到扭转",
+        "id": "2076897141830844416",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087503205513224402",
+        "name": "高氯锂LiClO₄",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085374964547665920/JEGkFew8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 155,
+          "like_count": 223,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 171
+        },
+        "url": "",
+        "username": "GunandJason",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

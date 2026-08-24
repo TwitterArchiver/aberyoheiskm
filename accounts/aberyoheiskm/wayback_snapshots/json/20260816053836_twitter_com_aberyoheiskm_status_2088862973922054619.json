@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2088323828095299635",
+    "created_at": "2026-08-16T05:38:36.000Z",
+    "display_text_range": [
+      24,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T06:38:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088862973922054619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1894375325934784517",
+          "start": 0,
+          "username": "sword_1003"
+        },
+        {
+          "end": 23,
+          "id": "2008114841912025088",
+          "start": 12,
+          "username": "Fu1ba_Ling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088862973922054619",
+    "in_reply_to_user_id": "1894375325934784517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088421485799158250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sword_1003 @Fu1ba_Ling 稍微小一点的县城是这样的，经常都能看到熟人，商圈也很小，出了一环出现城乡结合部，出了二环基本上就是农村了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2088323828095299635",
+        "created_at": "2026-08-16T05:38:36.000Z",
+        "display_text_range": [
+          24,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T06:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088862973922054619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1894375325934784517",
+              "start": 0,
+              "username": "sword_1003"
+            },
+            {
+              "end": 23,
+              "id": "2008114841912025088",
+              "start": 12,
+              "username": "Fu1ba_Ling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088862973922054619",
+        "in_reply_to_user_id": "1894375325934784517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088421485799158250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sword_1003 @Fu1ba_Ling 稍微小一点的县城是这样的，经常都能看到熟人，商圈也很小，出了一环出现城乡结合部，出了二环基本上就是农村了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894375325934784517",
+        "conversation_id": "2088323828095299635",
+        "created_at": "2026-08-15T00:24:17.000Z",
+        "display_text_range": [
+          26,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T01:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088421485799158250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2008114841912025088",
+              "start": 0,
+              "username": "Fu1ba_Ling"
+            },
+            {
+              "end": 25,
+              "id": "1804875241367433216",
+              "start": 12,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088421485799158250",
+        "in_reply_to_user_id": "2008114841912025088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088357279867503040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fu1ba_Ling @aberyoheiskm 县城这么离谱吗，感觉很多县城都有几百万人口，应该是陌生人社会吧？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "is_identity_verified": false,
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "most_recent_tweet_id": "2088862973922054619",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804875241367433216/1775358395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 607,
+          "like_count": 7886,
+          "listed_count": 2,
+          "media_count": 466,
+          "tweet_count": 4694
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T13:14:24.000Z",
+        "description": "姓名：夜鸟 | 个人特征：MTX/BPD/ADHD/双相 | 主要关注：公共交通/垂直交通/建筑文化/美学 | 品牌偏好：麦当劳/Apple/徕卡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "haizi.huhaitai.com/03/121",
+                "end": 23,
+                "expanded_url": "https://haizi.huhaitai.com/03/121",
+                "start": 0,
+                "url": "https://t.co/Y9Zk1gE80d"
+              }
+            ]
+          }
+        },
+        "id": "1894375325934784517",
+        "is_identity_verified": false,
+        "location": "公元前",
+        "most_recent_tweet_id": "2088856649595589049",
+        "name": "HongSword",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894375325934784517/1786584787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088853611782737920/CuymVfe2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 486,
+          "like_count": 37449,
+          "listed_count": 2,
+          "media_count": 94,
+          "tweet_count": 8520
+        },
+        "url": "https://t.co/Y9Zk1gE80d",
+        "username": "sword_1003",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-05T09:54:34.000Z",
+        "description": "一辈子沉没在苯二氮卓的幻境有什么不好",
+        "id": "2008114841912025088",
+        "is_identity_verified": false,
+        "location": "精麻药物发放窗口",
+        "most_recent_tweet_id": "2088833512816492619",
+        "name": "風衣葉綾",
+        "pinned_tweet_id": "2019157562801959205",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008114841912025088/1767611417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066779614895362049/cNH5rg5s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 75,
+          "like_count": 1480,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 894
+        },
+        "url": "",
+        "username": "Fu1ba_Ling",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

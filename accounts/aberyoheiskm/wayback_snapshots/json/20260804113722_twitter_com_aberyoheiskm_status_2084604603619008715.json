@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2084201284085948885",
+    "created_at": "2026-08-04T11:37:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T12:37:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084604603619008715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1360522586317348865",
+          "start": 0,
+          "username": "nanami_mua"
+        },
+        {
+          "end": 27,
+          "id": "2011051704440274947",
+          "start": 12,
+          "username": "luminescence_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084604603619008715",
+    "in_reply_to_user_id": "1360522586317348865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084429671152935008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanami_mua @luminescence_0 真的很痛苦，会学习各种商务礼仪，比如面试的时候怎么敲门进入，怎么坐下鞠躬多少度，和客人一起乘坐电梯不同身份的人要站在电梯的哪个角落，上司在办公时想要倒茶应该站在左边还是右边，打电话听不清对方说话应该询问对方是不是话筒离得比较远……头已经完全大了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2084201284085948885",
+        "created_at": "2026-08-04T11:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084604603619008715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1360522586317348865",
+              "start": 0,
+              "username": "nanami_mua"
+            },
+            {
+              "end": 27,
+              "id": "2011051704440274947",
+              "start": 12,
+              "username": "luminescence_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084604603619008715",
+        "in_reply_to_user_id": "1360522586317348865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084429671152935008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanami_mua @luminescence_0 真的很痛苦，会学习各种商务礼仪，比如面试的时候怎么敲门进入，怎么坐下鞠躬多少度，和客人一起乘坐电梯不同身份的人要站在电梯的哪个角落，上司在办公时想要倒茶应该站在左边还是右边，打电话听不清对方说话应该询问对方是不是话筒离得比较远……头已经完全大了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360522586317348865",
+        "conversation_id": "2084201284085948885",
+        "created_at": "2026-08-04T00:02:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T01:02:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084429671152935008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            },
+            {
+              "end": 29,
+              "id": "2011051704440274947",
+              "start": 14,
+              "username": "luminescence_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084429671152935008",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084229636255539597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm @luminescence_0 听着就充满了敬语和露露"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 529,
+          "like_count": 6568,
+          "listed_count": 2,
+          "media_count": 405,
+          "tweet_count": 3892
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-13T09:34:08.000Z",
+        "description": "MtX&Non-Binary/🍥25.1.11/半个家长党/100%健全/永远的好妹妹:@LCG_Akiball/愿她安息 @AnranbuSleep",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "LCG_Akiball"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "AnranbuSleep"
+              }
+            ]
+          }
+        },
+        "id": "1360522586317348865",
+        "name": "Nanameow～",
+        "pinned_tweet_id": "2023776700212097110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004949115835494400/OuSLocac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1269,
+          "following_count": 511,
+          "like_count": 92850,
+          "listed_count": 8,
+          "media_count": 917,
+          "tweet_count": 11702
+        },
+        "url": "",
+        "username": "nanami_mua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-13T12:24:59.000Z",
+        "description": "They told me all of my cages were mental \nSo I got wasted like all my potential",
+        "id": "2011051704440274947",
+        "name": "Lumina",
+        "pinned_tweet_id": "2082862818693664942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084587964534075392/6Jteg4vy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 415,
+          "like_count": 2724,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 384
+        },
+        "url": "",
+        "username": "luminescence_0",
+        "verified": false
+      }
+    ]
+  }
+}

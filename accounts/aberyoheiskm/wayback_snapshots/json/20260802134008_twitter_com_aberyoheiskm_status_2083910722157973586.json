@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083910716416032768"
+      ]
+    },
+    "author_id": "1804875241367433216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083910722157973586",
+    "created_at": "2026-08-02T13:40:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T14:40:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083910722157973586"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eK8DzjGUFC",
+          "end": 95,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2083910722157973586/photo/1",
+          "media_key": "3_2083910716416032768",
+          "start": 72,
+          "url": "https://t.co/eK8DzjGUFC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083910722157973586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真的非常感谢捐助呜呜、感觉这辈子可以上x可以遇到大家真的太好了……不然真的不知道怎么活下去了、、你也要加油也要好好生活哇！靴靴泥！🥹🥹🥹🫶🫶🫶 https://t.co/eK8DzjGUFC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1096,
+        "media_key": "3_2083910716416032768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuJwWubgAAL48l.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083910716416032768"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083910722157973586",
+        "created_at": "2026-08-02T13:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083910722157973586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eK8DzjGUFC",
+              "end": 95,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2083910722157973586/photo/1",
+              "media_key": "3_2083910716416032768",
+              "start": 72,
+              "url": "https://t.co/eK8DzjGUFC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083910722157973586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的非常感谢捐助呜呜、感觉这辈子可以上x可以遇到大家真的太好了……不然真的不知道怎么活下去了、、你也要加油也要好好生活哇！靴靴泥！🥹🥹🥹🫶🫶🫶 https://t.co/eK8DzjGUFC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 500,
+          "like_count": 6321,
+          "listed_count": 2,
+          "media_count": 387,
+          "tweet_count": 3743
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      }
+    ]
+  }
+}

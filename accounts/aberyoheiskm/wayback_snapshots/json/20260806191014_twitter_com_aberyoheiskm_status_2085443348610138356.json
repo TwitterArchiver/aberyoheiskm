@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2084607218092294189",
+    "created_at": "2026-08-06T19:10:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T20:10:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085443348610138356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2061445285105086466",
+          "start": 0,
+          "username": "anna2tcr"
+        },
+        {
+          "end": 23,
+          "id": "1444972478275620870",
+          "start": 10,
+          "username": "Eulalailoveu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085443348610138356",
+    "in_reply_to_user_id": "2061445285105086466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085441639904903329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anna2tcr @Eulalailoveu 呜呜如果能帮助你的话简直太好了\n劳拉比奥沙要好开多了\n如果你有奥沙的话吃着没有用或许就能说“我吃这个一点感觉都没有，跟吃淀粉片一样”，或许医生会给你开🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2084607218092294189",
+        "created_at": "2026-08-06T19:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T20:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085443348610138356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2061445285105086466",
+              "start": 0,
+              "username": "anna2tcr"
+            },
+            {
+              "end": 23,
+              "id": "1444972478275620870",
+              "start": 10,
+              "username": "Eulalailoveu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085443348610138356",
+        "in_reply_to_user_id": "2061445285105086466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085441639904903329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anna2tcr @Eulalailoveu 呜呜如果能帮助你的话简直太好了\n劳拉比奥沙要好开多了\n如果你有奥沙的话吃着没有用或许就能说“我吃这个一点感觉都没有，跟吃淀粉片一样”，或许医生会给你开🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061445285105086466",
+        "conversation_id": "2084607218092294189",
+        "created_at": "2026-08-06T19:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T20:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085441639904903329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            },
+            {
+              "end": 27,
+              "id": "1444972478275620870",
+              "start": 14,
+              "username": "Eulalailoveu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085441639904903329",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085074265284784636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm @Eulalailoveu 🥺哇塞宝宝你解决了我的疑惑，我去两次精神中心都没开到劳拉，应该第三次就能开到了，我前两次点菜点劳拉都没成功....我以为是我自己的病不够重，给我开的扎来和奥沙都没用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 542,
+          "like_count": 6967,
+          "listed_count": 2,
+          "media_count": 419,
+          "tweet_count": 4093
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T13:52:17.000Z",
+        "description": "",
+        "id": "2061445285105086466",
+        "name": "anna",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061446341570576384/8sdGeD74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 44,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "anna2tcr",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-04T10:28:19.000Z",
+        "description": "✝️07❄️FTM柏拉图❄️INTJ|艾斯伯格&雙相&ptsd🥺歡迎同類互fo喵~(精神错乱键政预警)hrt2026.7.2",
+        "id": "1444972478275620870",
+        "location": "East, England",
+        "name": "小奈⛅^._.^)و ♡",
+        "pinned_tweet_id": "1940788604902789302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1447146205633388549/7h7-LdO2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 58,
+          "like_count": 271,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 572
+        },
+        "url": "",
+        "username": "Eulalailoveu",
+        "verified": false
+      }
+    ]
+  }
+}

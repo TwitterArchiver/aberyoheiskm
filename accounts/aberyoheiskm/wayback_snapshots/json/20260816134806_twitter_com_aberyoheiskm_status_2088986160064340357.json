@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2088981375538135088",
+    "created_at": "2026-08-16T13:48:06.000Z",
+    "display_text_range": [
+      13,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T14:48:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088986160064340357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1948647076545658882",
+          "start": 0,
+          "username": "EntropicEmb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088986160064340357",
+    "in_reply_to_user_id": "1948647076545658882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088984854914593240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EntropicEmb 才喝了四分之一感觉喝饱了Σ( ° △ °|||)︴\n打嗝都是啤酒味꩜ᯅ꩜\n好热啊一直在流汗开风扇也没有用₍⁻ʚ.⁻₎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2088981375538135088",
+        "created_at": "2026-08-16T13:48:06.000Z",
+        "display_text_range": [
+          13,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088986160064340357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1948647076545658882",
+              "start": 0,
+              "username": "EntropicEmb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088986160064340357",
+        "in_reply_to_user_id": "1948647076545658882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088984854914593240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EntropicEmb 才喝了四分之一感觉喝饱了Σ( ° △ °|||)︴\n打嗝都是啤酒味꩜ᯅ꩜\n好热啊一直在流汗开风扇也没有用₍⁻ʚ.⁻₎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948647076545658882",
+        "conversation_id": "2088981375538135088",
+        "created_at": "2026-08-16T13:42:55.000Z",
+        "display_text_range": [
+          14,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088984854914593240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088984854914593240",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088981375538135088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm 不过感觉喝酒(＾ᴗ＾)🍺的确能助眠呢 ww\n（晕过去了 x_x）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "is_identity_verified": false,
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "most_recent_tweet_id": "2088986160064340357",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804875241367433216/1775358395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 605,
+          "like_count": 8009,
+          "listed_count": 2,
+          "media_count": 472,
+          "tweet_count": 4763
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-25T07:31:49.000Z",
+        "description": "『むじんに失魂、きゅうむに沈淪』",
+        "id": "1948647076545658882",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088984854914593240",
+        "name": "むじん失魂",
+        "pinned_tweet_id": "2085072685139407016",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1948647076545658882/1785610702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083615247437635584/ciRZl-m0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 122,
+          "like_count": 757,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "EntropicEmb",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

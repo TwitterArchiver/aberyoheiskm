@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2087205488140161428",
+    "created_at": "2026-08-11T16:01:42.000Z",
+    "display_text_range": [
+      17,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T17:01:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087207840733893041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1882705285816672256",
+          "start": 0,
+          "username": "tom779853915031"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087207840733893041",
+    "in_reply_to_user_id": "1882705285816672256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087205488140161428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tom779853915031 太棒了！感觉很少能遇见双方父母都支持的呜呜要好好珍惜哇🫳🫳🫳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2087205488140161428",
+        "created_at": "2026-08-11T16:01:42.000Z",
+        "display_text_range": [
+          17,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T17:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087207840733893041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1882705285816672256",
+              "start": 0,
+              "username": "tom779853915031"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087207840733893041",
+        "in_reply_to_user_id": "1882705285816672256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087205488140161428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tom779853915031 太棒了！感觉很少能遇见双方父母都支持的呜呜要好好珍惜哇🫳🫳🫳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882705285816672256",
+        "conversation_id": "2087205488140161428",
+        "created_at": "2026-08-11T15:52:21.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T16:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087205488140161428"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087205488140161428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的天哪 刚刚在车上和爸妈出柜了 他们竟然支持我 虽然我不会当跨 但是爸妈承认咱心理性别是女也让咱好开心🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "is_identity_verified": false,
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "most_recent_tweet_id": "2087207840733893041",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804875241367433216/1775358395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 575,
+          "like_count": 7355,
+          "listed_count": 2,
+          "media_count": 442,
+          "tweet_count": 4353
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T08:21:47.000Z",
+        "description": "中度抑郁 | 非资深oder | 友跨 | 非跨 | 可私 | 男 | 心理性别女 | 重度社交恐惧| 日常 | 虚无主义 | 互fo\n艰难的活着ing…\n咱的好朋友@aberyoheiskm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 83,
+                "username": "aberyoheiskm"
+              }
+            ]
+          }
+        },
+        "id": "1882705285816672256",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2087205488140161428",
+        "name": "苯环",
+        "pinned_tweet_id": "2085828217500487689",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882705285816672256/1786463034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084867150938857472/fIpNJgBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 270,
+          "like_count": 322,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 265
+        },
+        "url": "",
+        "username": "tom779853915031",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

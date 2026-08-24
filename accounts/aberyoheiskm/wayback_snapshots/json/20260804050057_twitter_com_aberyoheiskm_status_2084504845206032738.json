@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2084213583462989968",
+    "created_at": "2026-08-04T05:00:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T06:00:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084504845206032738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1739471747907223552",
+          "start": 0,
+          "username": "HFructose48051"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084504845206032738",
+    "in_reply_to_user_id": "1739471747907223552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084314387427569937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HFructose48051 完蛋了真的和喝饮料有关吗我的天，怪不得我从二月份戒掉了之后好多了，但是前天为了提神买了一杯咖啡，结果昨天就中招了吗😰😰😰好吓人，，，不过目前买饮料也基本上买无糖/代糖的了，希望可以好一些"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2084213583462989968",
+        "created_at": "2026-08-04T05:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T06:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084504845206032738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1739471747907223552",
+              "start": 0,
+              "username": "HFructose48051"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084504845206032738",
+        "in_reply_to_user_id": "1739471747907223552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084314387427569937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HFructose48051 完蛋了真的和喝饮料有关吗我的天，怪不得我从二月份戒掉了之后好多了，但是前天为了提神买了一杯咖啡，结果昨天就中招了吗😰😰😰好吓人，，，不过目前买饮料也基本上买无糖/代糖的了，希望可以好一些"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739471747907223552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2084213583462989968",
+        "created_at": "2026-08-03T16:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084314387427569937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084314387427569937",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084213583462989968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm 跟我一样，今年很明显的尿频…要尿完一阵子蕴酿很久才能尿尽…这半年饮料当水喝，无糖在我这已经算健康的了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 529,
+          "like_count": 6532,
+          "listed_count": 2,
+          "media_count": 404,
+          "tweet_count": 3868
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-26T02:22:52.000Z",
+        "description": "回不了私信也不约任何/精神病一个欢迎互fo",
+        "id": "1739471747907223552",
+        "name": "胃里的寄生虫一直控制我去吃刺身",
+        "pinned_tweet_id": "2081507897847214248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034315676559757313/BgTT3Bd7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 66,
+          "like_count": 1166,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 598
+        },
+        "url": "",
+        "username": "HFructose48051",
+        "verified": false
+      }
+    ]
+  }
+}

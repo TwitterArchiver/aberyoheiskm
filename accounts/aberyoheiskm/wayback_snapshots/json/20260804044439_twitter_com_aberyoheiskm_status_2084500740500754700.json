@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084500734138281984"
+      ]
+    },
+    "author_id": "1804875241367433216",
+    "conversation_id": "2084500740500754700",
+    "created_at": "2026-08-04T04:44:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T05:44:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084500740500754700"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EaksGkjiKC",
+          "end": 136,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2084500740500754700/photo/1",
+          "media_key": "3_2084500734138281984",
+          "start": 113,
+          "url": "https://t.co/EaksGkjiKC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084500740500754700",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "∑真的太多了哇啊啊啊、谢谢宝宝呜呜呜、又可以买一盒拉莫三嗪了TT下个月的药也不用愁了呜呜，，，你也是要好好生活下去！(´o̴̶̷̤ㅂo̴̶̷̤`)贴贴你呜呜呜尊的灰常感谢！！(灬´ ˘ `灬).｡oO ( ℒฺℴฺνℯฺ ) https://t.co/EaksGkjiKC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1121,
+        "media_key": "3_2084500734138281984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO2iX6BacAAAFU1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084500734138281984"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "conversation_id": "2084500740500754700",
+        "created_at": "2026-08-04T04:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084500740500754700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EaksGkjiKC",
+              "end": 136,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2084500740500754700/photo/1",
+              "media_key": "3_2084500734138281984",
+              "start": 113,
+              "url": "https://t.co/EaksGkjiKC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084500740500754700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "∑真的太多了哇啊啊啊、谢谢宝宝呜呜呜、又可以买一盒拉莫三嗪了TT下个月的药也不用愁了呜呜，，，你也是要好好生活下去！(´o̴̶̷̤ㅂo̴̶̷̤`)贴贴你呜呜呜尊的灰常感谢！！(灬´ ˘ `灬).｡oO ( ℒฺℴฺνℯฺ ) https://t.co/EaksGkjiKC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 529,
+          "like_count": 6522,
+          "listed_count": 2,
+          "media_count": 402,
+          "tweet_count": 3857
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      }
+    ]
+  }
+}

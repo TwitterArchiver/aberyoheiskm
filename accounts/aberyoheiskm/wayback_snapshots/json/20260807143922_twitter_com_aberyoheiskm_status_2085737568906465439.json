@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2085397531132141599",
+    "created_at": "2026-08-07T14:39:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T15:39:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085737568906465439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1776162571709796352",
+          "start": 0,
+          "username": "Fooogfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085737568906465439",
+    "in_reply_to_user_id": "1776162571709796352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085716495989154281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fooogfox 头一次吃sns竟然有good trip\n感动ing"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2085397531132141599",
+        "created_at": "2026-08-07T14:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085737568906465439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1776162571709796352",
+              "start": 0,
+              "username": "Fooogfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085737568906465439",
+        "in_reply_to_user_id": "1776162571709796352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085716495989154281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fooogfox 头一次吃sns竟然有good trip\n感动ing"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776162571709796352",
+        "conversation_id": "2085397531132141599",
+        "created_at": "2026-08-07T13:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085716495989154281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085716495989154281",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085397531132141599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm 药效太温柔了，有时候会想哭呢，揉揉你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 552,
+          "like_count": 7030,
+          "listed_count": 2,
+          "media_count": 425,
+          "tweet_count": 4158
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-05T08:18:58.000Z",
+        "description": "五月生\n请称呼我为：雨原花咲/阿间。\n非典型oder（我不鼓励任何自伤行为，只在原有基础上进行探讨），同类友好，聊天完全欢迎，请和我交朋友ww\nftx\n碎碎念和不定期药物感受",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fooooogfox",
+                "end": 23,
+                "expanded_url": "https://t.me/fooooogfox",
+                "start": 0,
+                "url": "https://t.co/rO2rYtJvdt"
+              }
+            ]
+          }
+        },
+        "id": "1776162571709796352",
+        "location": "世界",
+        "name": "猫不理茶茶罐头",
+        "pinned_tweet_id": "2085642529572061355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885748304442748928/rwYCd9t__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 339,
+          "like_count": 1439,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 159
+        },
+        "url": "https://t.co/rO2rYtJvdt",
+        "username": "Fooogfox",
+        "verified": false
+      }
+    ]
+  }
+}

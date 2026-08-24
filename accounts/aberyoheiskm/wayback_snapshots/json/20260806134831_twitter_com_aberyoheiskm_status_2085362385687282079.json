@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2084830792887492906",
+    "created_at": "2026-08-06T13:48:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T14:48:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085362385687282079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1967167200059645952",
+          "start": 0,
+          "username": "aomiao_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085362385687282079",
+    "in_reply_to_user_id": "1967167200059645952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084830792887492906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aomiao_o 医生我得了带状孢疹神经好痛……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3599,
+        "media_key": "3_2084830783081156609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO7OjSJaEAE2YDB.jpg",
+        "width": 1641
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2084830792887492906",
+        "created_at": "2026-08-06T13:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T14:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085362385687282079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1967167200059645952",
+              "start": 0,
+              "username": "aomiao_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085362385687282079",
+        "in_reply_to_user_id": "1967167200059645952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084830792887492906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aomiao_o 医生我得了带状孢疹神经好痛……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084830783081156609"
+          ]
+        },
+        "author_id": "1967167200059645952",
+        "conversation_id": "2084830792887492906",
+        "created_at": "2026-08-05T02:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T03:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084830792887492906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QTtvSe2iEx",
+              "end": 42,
+              "expanded_url": "https://x.com/aomiao_o/status/2084830792887492906/photo/1",
+              "media_key": "3_2084830783081156609",
+              "start": 19,
+              "url": "https://t.co/QTtvSe2iEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084830792887492906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 20688,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是淡定的😂😂我尼玛地址用的我妈公司 https://t.co/QTtvSe2iEx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 537,
+          "like_count": 6865,
+          "listed_count": 2,
+          "media_count": 412,
+          "tweet_count": 4029
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-14T10:03:14.000Z",
+        "description": "我重生了丨1i3i4i丨18岁奔向大一丨纯绿聊天🚪88丨防炸备用小号@mimaodemao 我辨别出是人就能关注丨私信看情况回",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "mimaodemao"
+              }
+            ]
+          }
+        },
+        "id": "1967167200059645952",
+        "location": "置顶推广自辨",
+        "name": "咪猫",
+        "pinned_tweet_id": "2029885618801758295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004593627616722944/gAw7wrQB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4178,
+          "following_count": 305,
+          "like_count": 4642,
+          "listed_count": 10,
+          "media_count": 99,
+          "tweet_count": 1961
+        },
+        "url": "",
+        "username": "aomiao_o",
+        "verified": false
+      }
+    ]
+  }
+}

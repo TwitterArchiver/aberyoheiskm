@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086823944812953600"
+      ]
+    },
+    "author_id": "1804875241367433216",
+    "conversation_id": "2086823951704215798",
+    "created_at": "2026-08-10T14:36:16.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T15:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086823951704215798"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GlhEmVofTJ",
+          "end": 96,
+          "expanded_url": "https://x.com/aberyoheiskm/status/2086823951704215798/photo/1",
+          "media_key": "3_2086823944812953600",
+          "start": 73,
+          "url": "https://t.co/GlhEmVofTJ"
+        },
+        {
+          "display_url": "x.com/AmeAsukaLangle…",
+          "end": 120,
+          "expanded_url": "https://twitter.com/AmeAsukaLangley/status/2086756369525539066",
+          "start": 97,
+          "url": "https://t.co/uZ0jxT2fDJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086823951704215798",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086823944812953600"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086756369525539066",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已收到！🫶🫶🫶🩵🩵🩵没想到自己会这么幸运呜呜好开心꒰˶&gt;ᗜ&lt;˶꒱​看到自己中奖差点把手机摔了都ᔦ ° ꒳ ° ᔨ ̖́-阿里嘎多捏！ https://t.co/GlhEmVofTJ https://t.co/uZ0jxT2fDJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1087,
+        "media_key": "3_2086823944812953600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPXjUkNbAAAT7yl.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086823944812953600"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "conversation_id": "2086823951704215798",
+        "created_at": "2026-08-10T14:36:16.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086823951704215798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GlhEmVofTJ",
+              "end": 96,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2086823951704215798/photo/1",
+              "media_key": "3_2086823944812953600",
+              "start": 73,
+              "url": "https://t.co/GlhEmVofTJ"
+            },
+            {
+              "display_url": "x.com/AmeAsukaLangle…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/AmeAsukaLangley/status/2086756369525539066",
+              "start": 97,
+              "url": "https://t.co/uZ0jxT2fDJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086823951704215798",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086823944812953600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086756369525539066",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已收到！🫶🫶🫶🩵🩵🩵没想到自己会这么幸运呜呜好开心꒰˶&gt;ᗜ&lt;˶꒱​看到自己中奖差点把手机摔了都ᔦ ° ꒳ ° ᔨ ̖́-阿里嘎多捏！ https://t.co/GlhEmVofTJ https://t.co/uZ0jxT2fDJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2086756369525539066",
+        "created_at": "2026-08-10T10:07:43.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T11:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086756369525539066"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086756369525539066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已经全部兑奖完成了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "is_identity_verified": false,
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "most_recent_tweet_id": "2086823951704215798",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804875241367433216/1775358395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 563,
+          "like_count": 7208,
+          "listed_count": 2,
+          "media_count": 438,
+          "tweet_count": 4265
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "is_identity_verified": false,
+        "location": "玉川上水",
+        "most_recent_tweet_id": "2086756369525539066",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1732763258325762048/1778511915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 379,
+          "like_count": 31099,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 2649
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

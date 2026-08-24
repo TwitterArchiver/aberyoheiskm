@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081039542195462144"
+      ],
+      "media_source_tweet_id": [
+        "2081039551213285468"
+      ]
+    },
+    "author_id": "1804875241367433216",
+    "conversation_id": "2081929384446062717",
+    "created_at": "2026-07-28T02:27:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T03:27:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081929384446062717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1680544465671561216",
+          "start": 3,
+          "username": "LXL0102"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G1QDKWeNWD",
+          "end": 93,
+          "expanded_url": "https://x.com/LXL0102/status/2081039551213285468/photo/1",
+          "media_key": "3_2081039542195462144",
+          "start": 70,
+          "url": "https://t.co/G1QDKWeNWD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081929384446062717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081039551213285468",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LXL0102: 贱种还屏蔽我🤪骗人你死全家了，赶紧还钱，卖别人pr 别人转完钱就直接被你拉黑了咋回事🤪🤪\n孩子们帮我转转推文！！ https://t.co/G1QDKWeNWD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081039542195462144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFWcBQaIAACVhB.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081039542195462144"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "conversation_id": "2081039551213285468",
+        "created_at": "2026-07-25T15:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081039551213285468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G1QDKWeNWD",
+              "end": 80,
+              "expanded_url": "https://x.com/LXL0102/status/2081039551213285468/photo/1",
+              "media_key": "3_2081039542195462144",
+              "start": 57,
+              "url": "https://t.co/G1QDKWeNWD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081039551213285468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16391,
+          "like_count": 57,
+          "quote_count": 1,
+          "reply_count": 46,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "贱种还屏蔽我🤪骗人你死全家了，赶紧还钱，卖别人pr 别人转完钱就直接被你拉黑了咋回事🤪🤪\n孩子们帮我转转推文！！ https://t.co/G1QDKWeNWD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081039542195462144"
+          ],
+          "media_source_tweet_id": [
+            "2081039551213285468"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "conversation_id": "2081929384446062717",
+        "created_at": "2026-07-28T02:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T03:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081929384446062717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1680544465671561216",
+              "start": 3,
+              "username": "LXL0102"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G1QDKWeNWD",
+              "end": 93,
+              "expanded_url": "https://x.com/LXL0102/status/2081039551213285468/photo/1",
+              "media_key": "3_2081039542195462144",
+              "start": 70,
+              "url": "https://t.co/G1QDKWeNWD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081929384446062717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081039551213285468",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LXL0102: 贱种还屏蔽我🤪骗人你死全家了，赶紧还钱，卖别人pr 别人转完钱就直接被你拉黑了咋回事🤪🤪\n孩子们帮我转转推文！！ https://t.co/G1QDKWeNWD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 485,
+          "like_count": 5951,
+          "listed_count": 2,
+          "media_count": 365,
+          "tweet_count": 3559
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定||有男友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMQFx"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "2044418589713973522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077418787192942592/nebR4rXo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2155,
+          "following_count": 376,
+          "like_count": 1696,
+          "listed_count": 4,
+          "media_count": 481,
+          "tweet_count": 3611
+        },
+        "url": "https://t.co/k0zhGfMQFx",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

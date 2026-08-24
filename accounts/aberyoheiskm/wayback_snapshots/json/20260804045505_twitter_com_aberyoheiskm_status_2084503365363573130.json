@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2084213583462989968",
+    "created_at": "2026-08-04T04:55:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T05:55:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084503365363573130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1531131894850527232",
+          "start": 0,
+          "username": "hangslaali"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084503365363573130",
+    "in_reply_to_user_id": "1531131894850527232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084394525389402553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hangslaali 因为上次决心减肥所以已经不怎么喝含糖的饮料了，主动买也会买低糖的，买咖啡（为了提神）也是选择不额外加糖之类的TT谢谢建议呜呜后面我也购入一些苏打水试试！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2084213583462989968",
+        "created_at": "2026-08-04T04:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084503365363573130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1531131894850527232",
+              "start": 0,
+              "username": "hangslaali"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084503365363573130",
+        "in_reply_to_user_id": "1531131894850527232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084394525389402553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hangslaali 因为上次决心减肥所以已经不怎么喝含糖的饮料了，主动买也会买低糖的，买咖啡（为了提神）也是选择不额外加糖之类的TT谢谢建议呜呜后面我也购入一些苏打水试试！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531131894850527232",
+        "conversation_id": "2084213583462989968",
+        "created_at": "2026-08-03T21:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T22:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084394525389402553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084394525389402553",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084291607411794140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm 会的 但很难戒我感觉 因为我之前就这样 导致我特别瘦每天精神萎靡 你可以先买点苏打水这种有味道的喝 慢慢过度一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 529,
+          "like_count": 6528,
+          "listed_count": 2,
+          "media_count": 404,
+          "tweet_count": 3865
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-30T04:34:38.000Z",
+        "description": "嗯",
+        "id": "1531131894850527232",
+        "name": "???",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084189884282220544/Zh4f9gch_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 525,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 467
+        },
+        "url": "",
+        "username": "hangslaali",
+        "verified": false
+      }
+    ]
+  }
+}

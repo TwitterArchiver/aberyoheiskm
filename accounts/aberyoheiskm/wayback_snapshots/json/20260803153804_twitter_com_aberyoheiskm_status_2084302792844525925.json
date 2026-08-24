@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Exercise and fitness",
+          "id": "847872878041219072",
+          "name": "Fitness"
+        }
+      },
+      {
+        "domain": {
+          "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+          "id": "162",
+          "name": "Exercise & fitness"
+        },
+        "entity": {
+          "description": "Exercises",
+          "id": "872554146750017536",
+          "name": "Exercises"
+        }
+      }
+    ],
+    "conversation_id": "2084302792844525925",
+    "created_at": "2026-08-03T15:38:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T16:38:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084302792844525925"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hikikomoriutu/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/hikikomoriutu/status/2083870679578153424",
+          "start": 11,
+          "url": "https://t.co/CrLiZaI7QI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084302792844525925",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083870679578153424",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "每日日语大学习……🙏 https://t.co/CrLiZaI7QI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "2084302792844525925",
+        "created_at": "2026-08-03T15:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084302792844525925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hikikomoriutu/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/hikikomoriutu/status/2083870679578153424",
+              "start": 11,
+              "url": "https://t.co/CrLiZaI7QI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084302792844525925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083870679578153424",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每日日语大学习……🙏 https://t.co/CrLiZaI7QI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036097392855007232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "2083870679578153424",
+        "created_at": "2026-08-02T11:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:24:01.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083861369687068770",
+          "2083870679578153424"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083870679578153424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 176,
+          "impression_count": 55793,
+          "like_count": 1268,
+          "quote_count": 41,
+          "reply_count": 4,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "うつを伴う精神疾患と最善対処法1個あげたら\nうつ病　　　→抗うつ薬\n双極性障害　→気分安定薬\n不安障害　　→抗不安薬\n適応障害　　→休養\n気分変調症　→運動\n詐病うつ　　→人生やり直そ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 526,
+          "like_count": 6511,
+          "listed_count": 2,
+          "media_count": 399,
+          "tweet_count": 3851
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-02T03:44:03.000Z",
+        "description": "うつ病〜双極10年以上、精神科入院10回近くトータル4年、自◯未遂4回 救急搬送3回🏥多くの方々に支えられながら生きられてます #闘病垢自己紹介カード 精神疾患スペースや📻精神疾患に通ずるような社会課題についてや📰ビットコインについて₿ポストしてます。気軽にフォローいいねリポスト歓迎 無言フォロー🙏ENFP-T",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 75,
+                "start": 64,
+                "tag": "闘病垢自己紹介カード"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/1OPK0MV9HNGCC?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/TfzM7qHzkG"
+              }
+            ]
+          }
+        },
+        "id": "1036097392855007232",
+        "location": "欲しいものリスト→",
+        "name": "めんたん❤️‍🩹うつ病〜双極性障害💊ビットコイン〜仮想通貨💸",
+        "pinned_tweet_id": "1672546467641434113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928256589091536896/-eU0rk8K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7654,
+          "following_count": 2371,
+          "like_count": 42401,
+          "listed_count": 33,
+          "media_count": 1711,
+          "tweet_count": 39616
+        },
+        "url": "https://t.co/TfzM7qHzkG",
+        "username": "hikikomoriutu",
+        "verified": true
+      }
+    ]
+  }
+}

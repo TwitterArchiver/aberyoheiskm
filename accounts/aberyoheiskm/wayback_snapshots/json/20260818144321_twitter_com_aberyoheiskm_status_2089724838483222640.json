@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2089723933729886228",
+    "created_at": "2026-08-18T14:43:21.000Z",
+    "display_text_range": [
+      17,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T15:43:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089724838483222640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1593658370367660032",
+          "start": 0,
+          "username": "momomok56801208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089724838483222640",
+    "in_reply_to_user_id": "1593658370367660032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089724464737226760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momomok56801208 妇科医生正在打电话给精神科医生……👨🏼‍⚕️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2089723933729886228",
+        "created_at": "2026-08-18T14:43:21.000Z",
+        "display_text_range": [
+          17,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T15:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089724838483222640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1593658370367660032",
+              "start": 0,
+              "username": "momomok56801208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089724838483222640",
+        "in_reply_to_user_id": "1593658370367660032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089724464737226760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momomok56801208 妇科医生正在打电话给精神科医生……👨🏼‍⚕️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593658370367660032",
+        "conversation_id": "2089723933729886228",
+        "created_at": "2026-08-18T14:41:52.000Z",
+        "display_text_range": [
+          14,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T15:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089724464737226760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089724464737226760",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089723933729886228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm 医生：你来医院是想通了，不想亖了么（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "is_identity_verified": false,
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "most_recent_tweet_id": "2089724838483222640",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804875241367433216/1775358395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 613,
+          "like_count": 8107,
+          "listed_count": 2,
+          "media_count": 476,
+          "tweet_count": 4831
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-18T17:32:29.000Z",
+        "description": "东方绀zun传苦手/红魔馆起爆器持有者/十六夜咲夜激推/日本語は本当に下手だけど、話したい話題があれば頑張るよ/目前处于回别人消息但是别人看不见的状态/还有什么的话再让我想想\n请多关照，想交朋友/友達募集中（",
+        "id": "1593658370367660032",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089724464737226760",
+        "name": "もも もか",
+        "pinned_tweet_id": "2071554118141776142",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072341986280173568/FsFJtrU8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 42,
+          "like_count": 529,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 290
+        },
+        "url": "",
+        "username": "momomok56801208",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

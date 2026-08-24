@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2083608681648927194",
+    "created_at": "2026-08-03T05:24:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T06:24:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084148488481472653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1960974569722011648",
+          "start": 0,
+          "username": "xiaokou100204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084148488481472653",
+    "in_reply_to_user_id": "1960974569722011648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083932357187494033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaokou100204 可以去那种县医院或者是私立试一试！\n我就是这样成功拿到处方然后再去大医院开的ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2083608681648927194",
+        "created_at": "2026-08-03T05:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T06:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084148488481472653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1960974569722011648",
+              "start": 0,
+              "username": "xiaokou100204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084148488481472653",
+        "in_reply_to_user_id": "1960974569722011648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083932357187494033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaokou100204 可以去那种县医院或者是私立试一试！\n我就是这样成功拿到处方然后再去大医院开的ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960974569722011648",
+        "conversation_id": "2083608681648927194",
+        "created_at": "2026-08-02T15:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083932357187494033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083932357187494033",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083608681648927194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm 我想吃sns"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 524,
+          "like_count": 6350,
+          "listed_count": 2,
+          "media_count": 392,
+          "tweet_count": 3779
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-28T07:55:54.000Z",
+        "description": "重庆，生日2月4号，是10年的没上学了\n纯绿门槛520，不搞黄推了",
+        "id": "1960974569722011648",
+        "location": "Osaka-shi Kita-ku, Osaka",
+        "name": "扌口口口",
+        "pinned_tweet_id": "1999818853568684236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992753360542576640/t7fAk0i8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 16,
+          "like_count": 612,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 942
+        },
+        "url": "",
+        "username": "xiaokou100204",
+        "verified": false
+      }
+    ]
+  }
+}

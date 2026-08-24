@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2088938362006888608",
+    "created_at": "2026-08-17T16:52:32.000Z",
+    "display_text_range": [
+      22,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T17:52:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089394961561366559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1771468770827272192",
+          "start": 0,
+          "username": "na7777777a"
+        },
+        {
+          "end": 21,
+          "id": "2006707388053860365",
+          "start": 12,
+          "username": "cqbr2375"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089394961561366559",
+    "in_reply_to_user_id": "1771468770827272192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089324927149350931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@na7777777a @cqbr2375 那很棒了！下次就用这个止吐了谢谢嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2088938362006888608",
+        "created_at": "2026-08-17T16:52:32.000Z",
+        "display_text_range": [
+          22,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T17:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089394961561366559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1771468770827272192",
+              "start": 0,
+              "username": "na7777777a"
+            },
+            {
+              "end": 21,
+              "id": "2006707388053860365",
+              "start": 12,
+              "username": "cqbr2375"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089394961561366559",
+        "in_reply_to_user_id": "1771468770827272192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089324927149350931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@na7777777a @cqbr2375 那很棒了！下次就用这个止吐了谢谢嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771468770827272192",
+        "conversation_id": "2088938362006888608",
+        "created_at": "2026-08-17T12:14:15.000Z",
+        "display_text_range": [
+          24,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T13:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089324927149350931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            },
+            {
+              "end": 23,
+              "id": "2006707388053860365",
+              "start": 14,
+              "username": "cqbr2375"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089324927149350931",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088991190188532178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm @cqbr2375 ymp可以用 提前半个小时服8mg昂丹"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "is_identity_verified": false,
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "most_recent_tweet_id": "2089394961561366559",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804875241367433216/1775358395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 609,
+          "like_count": 8095,
+          "listed_count": 2,
+          "media_count": 475,
+          "tweet_count": 4815
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-23T09:27:30.000Z",
+        "description": "无性别 双相情感障碍持有者 oder maimai与致幻剂激推 日本語を勉強中です 同成分互fo！",
+        "id": "1771468770827272192",
+        "is_identity_verified": false,
+        "location": "南京",
+        "most_recent_tweet_id": "2089324927149350931",
+        "name": "松坂砂糖koi",
+        "pinned_tweet_id": "2084153329651941455",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1771468770827272192/1782781891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904424090397724672/xyZN0s1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 304,
+          "like_count": 1935,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 114
+        },
+        "url": "",
+        "username": "na7777777a",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-01T12:41:49.000Z",
+        "description": "2009，mtf，双相，出院，休学\n个性……身边的人都觉得我缺爱有不安全感导致惹人烦",
+        "id": "2006707388053860365",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089340697916629215",
+        "name": "未然ぬ🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2006707388053860365/1784643433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081734249774751744/Dx5gvGuA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 383,
+          "like_count": 1290,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 276
+        },
+        "url": "",
+        "username": "cqbr2375",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

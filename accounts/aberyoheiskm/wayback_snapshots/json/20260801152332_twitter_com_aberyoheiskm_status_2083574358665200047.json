@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2083574358665200047",
+    "created_at": "2026-08-01T15:23:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T16:23:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083574358665200047"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TTBRAr12/statu…",
+          "end": 121,
+          "expanded_url": "https://twitter.com/TTBRAr12/status/2083500605692358817",
+          "start": 98,
+          "url": "https://t.co/iFo2WcwGzR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083574358665200047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083500605692358817",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不知道友跨能不能戴这个挂件\n因为真的好萌啊，🍥和跨旗配色的🏳️‍⚧️🎀，还有小胶囊💊都好好看(*꒦ິ⌓꒦ີ)\n小心翼翼地问问跨圈会允许友跨戴这个吗，不知道会不会给你们带来什么负面影响之类的😢…… https://t.co/iFo2WcwGzR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1056,
+        "media_key": "3_2083500596527767552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoUwPFaIAAzM3w.jpg",
+        "width": 749
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2083574358665200047",
+        "created_at": "2026-08-01T15:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083574358665200047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TTBRAr12/statu…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/TTBRAr12/status/2083500605692358817",
+              "start": 98,
+              "url": "https://t.co/iFo2WcwGzR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083574358665200047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083500605692358817",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不知道友跨能不能戴这个挂件\n因为真的好萌啊，🍥和跨旗配色的🏳️‍⚧️🎀，还有小胶囊💊都好好看(*꒦ິ⌓꒦ີ)\n小心翼翼地问问跨圈会允许友跨戴这个吗，不知道会不会给你们带来什么负面影响之类的😢…… https://t.co/iFo2WcwGzR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083500596527767552"
+          ]
+        },
+        "author_id": "1898308906994294784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083500605692358817",
+        "created_at": "2026-08-01T10:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083500605692358817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o3OCDpkupS",
+              "end": 30,
+              "expanded_url": "https://x.com/TTBRAr12/status/2083500605692358817/photo/1",
+              "media_key": "3_2083500596527767552",
+              "start": 7,
+              "url": "https://t.co/o3OCDpkupS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083500605692358817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 333,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "trans风 https://t.co/o3OCDpkupS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 496,
+          "like_count": 6296,
+          "listed_count": 2,
+          "media_count": 368,
+          "tweet_count": 3703
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T09:44:56.000Z",
+        "description": "",
+        "id": "1898308906994294784",
+        "name": "TTAR",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075459583410327552/FeIlteVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 926,
+          "like_count": 8115,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1638
+        },
+        "url": "",
+        "username": "TTBRAr12",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "TR"
+          ]
+        }
+      }
+    ]
+  }
+}

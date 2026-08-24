@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2082135391310946551",
+    "created_at": "2026-07-30T02:54:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T03:54:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082661116187185662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1099285955012288513",
+          "start": 0,
+          "username": "iloveAI666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082661116187185662",
+    "in_reply_to_user_id": "1099285955012288513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082315916692664634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iloveAI666 我大概也要几十分钟到一个小时不等吧，有时候也没药效，但是有药效的时候确实比较舒服ww……\n但是之前也有一次睡前突然闪回的还吐了一嘴苦味害死我了呃啊\n∑安非他酮竟然会有这种副作用吗？！摸摸……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2082135391310946551",
+        "created_at": "2026-07-30T02:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T03:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082661116187185662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1099285955012288513",
+              "start": 0,
+              "username": "iloveAI666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082661116187185662",
+        "in_reply_to_user_id": "1099285955012288513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082315916692664634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iloveAI666 我大概也要几十分钟到一个小时不等吧，有时候也没药效，但是有药效的时候确实比较舒服ww……\n但是之前也有一次睡前突然闪回的还吐了一嘴苦味害死我了呃啊\n∑安非他酮竟然会有这种副作用吗？！摸摸……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1099285955012288513",
+        "conversation_id": "2082135391310946551",
+        "created_at": "2026-07-29T04:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082315916692664634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082315916692664634",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082135391310946551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm (╥﹏╥) 我吃右佐要好久好久才能关机\n做梦的时候还能接着犯病😭\n这个月不得已又把安非他酮宝宝去掉了.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 486,
+          "like_count": 6097,
+          "listed_count": 2,
+          "media_count": 366,
+          "tweet_count": 3631
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-23T12:32:50.000Z",
+        "description": "Chess♟️ | まのさば | Ender Lilies | Computer Science | 死亡遊戯で飯を食う | 人混みは少し苦手。静かな場所と、🍋とティラミスが好き。| 今日も生きると私は誓う。",
+        "id": "1099285955012288513",
+        "name": "Fatalis🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009982901413355520/QtY6x5V5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 181,
+          "like_count": 1136,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "iloveAI666",
+        "verified": false
+      }
+    ]
+  }
+}

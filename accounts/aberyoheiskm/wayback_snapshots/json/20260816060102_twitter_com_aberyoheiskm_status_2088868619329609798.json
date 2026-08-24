@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1804875241367433216",
+    "conversation_id": "2088096856291312004",
+    "created_at": "2026-08-16T06:01:02.000Z",
+    "display_text_range": [
+      30,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T07:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088868619329609798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2086815150938759168",
+          "start": 0,
+          "username": "lynn_ciallo"
+        },
+        {
+          "end": 29,
+          "id": "1882705285816672256",
+          "start": 13,
+          "username": "tom779853915031"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088868619329609798",
+    "in_reply_to_user_id": "2086815150938759168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088551190061785268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lynn_ciallo @tom779853915031 我去好痛苦\n我也讨厌雨天出门😭全身上下都弄湿了尤其是刚洗好的头发呃啊……！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2088096856291312004",
+        "created_at": "2026-08-16T06:01:02.000Z",
+        "display_text_range": [
+          30,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088868619329609798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2086815150938759168",
+              "start": 0,
+              "username": "lynn_ciallo"
+            },
+            {
+              "end": 29,
+              "id": "1882705285816672256",
+              "start": 13,
+              "username": "tom779853915031"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088868619329609798",
+        "in_reply_to_user_id": "2086815150938759168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088551190061785268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lynn_ciallo @tom779853915031 我去好痛苦\n我也讨厌雨天出门😭全身上下都弄湿了尤其是刚洗好的头发呃啊……！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2086815150938759168",
+        "conversation_id": "2088096856291312004",
+        "created_at": "2026-08-15T08:59:41.000Z",
+        "display_text_range": [
+          31,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T09:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088551190061785268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            },
+            {
+              "end": 30,
+              "id": "1882705285816672256",
+              "start": 14,
+              "username": "tom779853915031"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088551190061785268",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088486287468794231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm @tom779853915031 我总是会在下雨天碰到需要加急办理的银行业务，所以总是不得不出门😢😢😢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "is_identity_verified": false,
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "most_recent_tweet_id": "2088868619329609798",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804875241367433216/1775358395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 608,
+          "like_count": 7904,
+          "listed_count": 2,
+          "media_count": 466,
+          "tweet_count": 4711
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-10T14:02:54.000Z",
+        "description": "Transferred from @yuki_ciallo｜MtF🏳️‍⚧️ / Sub/M / Bipolar / BPD / DID｜“被所有人爱着……这是我唯一的心愿……”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "yuki_ciallo"
+              }
+            ]
+          }
+        },
+        "id": "2086815150938759168",
+        "is_identity_verified": true,
+        "location": "Betelgeuse",
+        "most_recent_tweet_id": "2088690464031727814",
+        "name": "神楽坂 唯音 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2086830914504364253",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086815150938759168/1786371218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086815959596306432/wVmLPaxO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 122,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "lynn_ciallo",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T08:21:47.000Z",
+        "description": "中度抑郁 | 中度焦虑 | 非资深oder | 友跨 | 非跨 | 可私 | 男 | 心理性别女 | 重度社交恐惧| 日常 | 虚无主义 | 互fo | 偶尔穿穿女装\n艰难的活着ing…\n咱的好朋友@aberyoheiskm @6De_dian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 99,
+                "username": "aberyoheiskm"
+              },
+              {
+                "end": 122,
+                "start": 113,
+                "username": "6De_dian"
+              }
+            ]
+          }
+        },
+        "id": "1882705285816672256",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2088860242872328500",
+        "name": "苯环",
+        "pinned_tweet_id": "2087926675371606099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882705285816672256/1786463034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084867150938857472/fIpNJgBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 410,
+          "like_count": 884,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 463
+        },
+        "url": "",
+        "username": "tom779853915031",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
